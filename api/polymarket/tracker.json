@@ -269,42 +269,6 @@
   },
   "picks": [
     {
-      "signalKey": "nba-mil-mia-2026-11-18::TOTAL::Under",
-      "sport": "NBA",
-      "eventSlug": "nba-mil-mia-2026-11-18",
-      "eventTitle": "Bucks vs. Heat",
-      "family": "TOTAL",
-      "side": "Under",
-      "pickLabel": "Under 234.5",
-      "primaryTitle": "Bucks vs. Heat: O/U 234.5",
-      "tier": 1,
-      "nAligned": 2,
-      "totalStake": 15718.284300000001,
-      "avgEntry": 0.480380323293226,
-      "alignedNames": [
-        "HomeRunHazard",
-        "shekelmeister"
-      ],
-      "whaleDetails": [
-        {
-          "name": "HomeRunHazard",
-          "netCost": 10437.1627,
-          "avgPrice": 0.480380323293226,
-          "pickLabel": "Under 234.5"
-        },
-        {
-          "name": "shekelmeister",
-          "netCost": 5281.1216,
-          "avgPrice": 0.5242338119690333,
-          "pickLabel": "Under 238.5"
-        }
-      ],
-      "alertedAt": "2026-11-18T20:39:14.967593+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0
-    },
-    {
       "signalKey": "nba-det-sas-2026-11-17::TEAM::Spurs",
       "sport": "NBA",
       "eventSlug": "nba-det-sas-2026-11-17",
