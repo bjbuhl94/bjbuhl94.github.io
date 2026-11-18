@@ -1,9 +1,9 @@
 {
   "weekLabel": "Current NFL slate",
-  "qualifiedCount": 4,
-  "averageConfidence": 56.925,
+  "qualifiedCount": 3,
+  "averageConfidence": 57.0,
   "bestEdge": 4.9,
-  "lastRefresh": "2026-11-18T16:44:18.343Z",
+  "lastRefresh": "2026-11-18T17:40:22.730Z",
   "feedStatus": "live",
   "sportsbooks": [
     "DraftKings",
