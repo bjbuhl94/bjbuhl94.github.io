@@ -2903,7 +2903,7 @@
         "combined_decimal": 5.23,
         "core3_american": "+219",
         "core3_decimal": 3.19,
-        "status": "PENDING",
+        "status": "SETTLED",
         "legs": [
           {
             "rank": 1,
@@ -2917,7 +2917,11 @@
             "odds_decimal": 1.402,
             "is_alt": true,
             "cushion": 1.0,
-            "recent_avg": 8.0
+            "recent_avg": 8.0,
+            "status": "SETTLED",
+            "actual": 11.0,
+            "minutes": "35",
+            "hit": true
           },
           {
             "rank": 2,
@@ -2931,7 +2935,11 @@
             "odds_decimal": 1.293,
             "is_alt": true,
             "cushion": 6.0,
-            "recent_avg": 41.7
+            "recent_avg": 41.7,
+            "status": "SETTLED",
+            "actual": 36.0,
+            "minutes": "42",
+            "hit": true
           },
           {
             "rank": 3,
@@ -2945,7 +2953,11 @@
             "odds_decimal": 1.758,
             "is_alt": true,
             "cushion": 1.0,
-            "recent_avg": 4.55
+            "recent_avg": 4.55,
+            "status": "SETTLED",
+            "actual": 6.0,
+            "minutes": "23",
+            "hit": true
           },
           {
             "rank": 4,
@@ -2959,7 +2971,81 @@
             "odds_decimal": 1.641,
             "is_alt": false,
             "cushion": 0.0,
-            "recent_avg": 1.0
+            "recent_avg": 1.0,
+            "status": "SETTLED",
+            "actual": 5.0,
+            "minutes": "39",
+            "hit": false
+          }
+        ],
+        "won_400": false,
+        "units_400": -1.0,
+        "won_core3": true,
+        "units_core3": 2.19
+      },
+      "20261118": {
+        "date": "20261118",
+        "combined_american": "+409",
+        "combined_decimal": 5.09,
+        "core3_american": "+218",
+        "core3_decimal": 3.18,
+        "status": "PENDING",
+        "legs": [
+          {
+            "rank": 1,
+            "player_name": "Keyonte George",
+            "team": "UTA",
+            "outcome": "OVER",
+            "line": 5.5,
+            "raw_market": "ASSISTS",
+            "market": "Assists",
+            "odds_american": "-284",
+            "odds_decimal": 1.352,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 8.428571428571429
+          },
+          {
+            "rank": 2,
+            "player_name": "Herbert Jones",
+            "team": "NOP",
+            "outcome": "UNDER",
+            "line": 3.5,
+            "raw_market": "REBOUNDS",
+            "market": "Rebounds",
+            "odds_american": "-170",
+            "odds_decimal": 1.588,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 2.0
+          },
+          {
+            "rank": 3,
+            "player_name": "Andrew Wiggins",
+            "team": "MIA",
+            "outcome": "OVER",
+            "line": 7.5,
+            "raw_market": "POINTS",
+            "market": "Points",
+            "odds_american": "-208",
+            "odds_decimal": 1.481,
+            "is_alt": true,
+            "cushion": 2.0,
+            "recent_avg": 12.0
+          },
+          {
+            "rank": 4,
+            "player_name": "Dyson Daniels",
+            "team": "ATL",
+            "outcome": "OVER",
+            "line": 6.5,
+            "raw_market": "REBOUNDS",
+            "market": "Rebounds",
+            "odds_american": "-166",
+            "odds_decimal": 1.602,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 9.857142857142858
           }
         ]
       }
@@ -2967,20 +3053,20 @@
     "summary": {
       "parlay_400": {
         "wins": 5,
-        "losses": 9,
-        "winRate": 35.7,
-        "units": 11.26
+        "losses": 10,
+        "winRate": 33.3,
+        "units": 10.26
       },
       "parlay_core3": {
-        "wins": 6,
+        "wins": 7,
         "losses": 8,
-        "winRate": 42.9,
-        "units": 3.29
+        "winRate": 46.7,
+        "units": 5.48
       },
       "legs": {
-        "wins": 41,
-        "losses": 16,
-        "winRate": 71.9
+        "wins": 44,
+        "losses": 17,
+        "winRate": 72.1
       },
       "markets": {
         "THREE_POINTS_MADE": {
@@ -2988,26 +3074,26 @@
           "losses": 5
         },
         "ASSISTS": {
-          "wins": 7,
-          "losses": 1
+          "wins": 8,
+          "losses": 2
         },
         "REBOUNDS": {
           "wins": 8,
           "losses": 5
         },
         "POINTS": {
-          "wins": 16,
+          "wins": 18,
           "losses": 5
         }
       },
       "by_alt": {
         "alt": {
-          "wins": 29,
+          "wins": 32,
           "losses": 10
         },
         "exact": {
           "wins": 12,
-          "losses": 6
+          "losses": 7
         }
       }
     }
