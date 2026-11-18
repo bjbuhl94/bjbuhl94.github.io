@@ -15,7 +15,9 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <script>
       try {
-        document.cookie = "ngrok-skip-browser-warning=true; path=/; max-age=31536000; SameSite=Lax";
+        if (window.location.hostname.includes("ngrok")) {
+          window.location.replace("https://bjbuhl94.github.io" + window.location.pathname + window.location.search);
+        }
       } catch (e) {}
     </script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
