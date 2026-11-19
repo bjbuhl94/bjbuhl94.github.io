@@ -9,8 +9,8 @@
     },
     "NBA": {
       "wins": 8,
-      "losses": 7,
-      "units": 0.01,
+      "losses": 8,
+      "units": -0.99,
       "staked": 0.0,
       "dollarPnl": 0.0
     }
@@ -300,9 +300,9 @@
         }
       ],
       "alertedAt": "2026-11-18T21:36:37.343738+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0
+      "status": "SETTLED",
+      "won": false,
+      "unitsPnl": -1.0
     },
     {
       "signalKey": "nba-det-sas-2026-11-17::TEAM::Spurs",
@@ -1428,17 +1428,6 @@
       "dollarPnl": 281561.39
     },
     {
-      "name": "HomeRunHazard",
-      "wins": 6,
-      "losses": 3,
-      "NFL_w": 3,
-      "NFL_l": 2,
-      "NBA_w": 3,
-      "NBA_l": 1,
-      "staked": 188781.38,
-      "dollarPnl": 44755.14
-    },
-    {
       "name": "drainedandpoor",
       "wins": 6,
       "losses": 3,
@@ -1492,6 +1481,17 @@
       "NBA_l": 0,
       "staked": 75995.97,
       "dollarPnl": 72467.2
+    },
+    {
+      "name": "HomeRunHazard",
+      "wins": 6,
+      "losses": 4,
+      "NFL_w": 3,
+      "NFL_l": 2,
+      "NBA_w": 3,
+      "NBA_l": 2,
+      "staked": 199218.54,
+      "dollarPnl": 34317.98
     },
     {
       "name": "0x448861155279dbf833d041b963e3ac854599e319",
@@ -1624,6 +1624,17 @@
       "NBA_l": 1,
       "staked": 7603.08,
       "dollarPnl": -2554.04
+    },
+    {
+      "name": "shekelmeister",
+      "wins": 0,
+      "losses": 1,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 1,
+      "staked": 5281.12,
+      "dollarPnl": -5281.12
     },
     {
       "name": "PEYZ-BIGGEST-FAN",
