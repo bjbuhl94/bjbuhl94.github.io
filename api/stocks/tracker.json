@@ -1,6 +1,6 @@
 {
   "summary": {
-    "updated_at": "2026-11-19 12:14 PM ET",
+    "updated_at": "2026-11-19 01:03 PM ET",
     "total_sheet_trades": 50,
     "closed_count": 47,
     "open_count": 3,
@@ -26,11 +26,11 @@
       "streak_since_aeo_record": "7-0",
       "streak_since_aeo_realized_dlr": 35.24,
       "open_positions": 3,
-      "open_green": 2,
+      "open_green": 3,
       "open_cost_dlr": 367.39,
-      "open_unrealized_dlr": 15.38,
-      "open_unrealized_pct": 4.19,
-      "combined_net_pnl_dlr": 30.23
+      "open_unrealized_dlr": 17.45,
+      "open_unrealized_pct": 4.75,
+      "combined_net_pnl_dlr": 32.3
     }
   },
   "activePositions": [
@@ -58,13 +58,13 @@
       "atr_val": 0.95,
       "highest_price_seen": 23.87,
       "lowest_price_seen": 19.0,
-      "current_price": 21.83,
-      "current_pnl_pct": 7.75,
+      "current_price": 21.89,
+      "current_pnl_pct": 8.05,
       "days_held": 10,
       "robinhood_url": "https://robinhood.com/stocks/KVYO",
       "setup_type": "PULLBACK_SUPPORT_BOUNCE",
       "alert_price": 20.82,
-      "current_pnl_dollars": 15.7,
+      "current_pnl_dollars": 16.3,
       "robinhood_synced": true
     },
     {
@@ -91,8 +91,8 @@
       "atr_val": 1.63,
       "highest_price_seen": 47.59,
       "lowest_price_seen": 44.95,
-      "current_price": 46.11,
-      "current_pnl_pct": 0.28,
+      "current_price": 46.42,
+      "current_pnl_pct": 0.96,
       "days_held": 7,
       "robinhood_url": "https://robinhood.com/stocks/LUV",
       "setup_type": "PULLBACK_SUPPORT_BOUNCE",
@@ -123,8 +123,8 @@
       "atr_val": 3.386,
       "highest_price_seen": 75.55,
       "lowest_price_seen": 72.0,
-      "current_price": 72.25,
-      "current_pnl_pct": -0.8,
+      "current_price": 73.1,
+      "current_pnl_pct": 0.36,
       "days_held": 2,
       "robinhood_url": "https://robinhood.com/stocks/SHAK",
       "setup_type": "PULLBACK_SUPPORT_BOUNCE"
