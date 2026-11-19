@@ -3000,7 +3000,7 @@
         "combined_decimal": 5.09,
         "core3_american": "+218",
         "core3_decimal": 3.18,
-        "status": "PENDING",
+        "status": "SETTLED",
         "legs": [
           {
             "rank": 1,
@@ -3014,7 +3014,11 @@
             "odds_decimal": 1.352,
             "is_alt": true,
             "cushion": 1.0,
-            "recent_avg": 8.428571428571429
+            "recent_avg": 8.428571428571429,
+            "status": "SETTLED",
+            "actual": 10.0,
+            "minutes": "39",
+            "hit": true
           },
           {
             "rank": 2,
@@ -3028,7 +3032,11 @@
             "odds_decimal": 1.588,
             "is_alt": true,
             "cushion": 1.0,
-            "recent_avg": 2.0
+            "recent_avg": 2.0,
+            "status": "SETTLED",
+            "actual": 1.0,
+            "minutes": "32",
+            "hit": true
           },
           {
             "rank": 3,
@@ -3042,7 +3050,11 @@
             "odds_decimal": 1.481,
             "is_alt": true,
             "cushion": 2.0,
-            "recent_avg": 12.0
+            "recent_avg": 12.0,
+            "status": "SETTLED",
+            "actual": 11.0,
+            "minutes": "26",
+            "hit": true
           },
           {
             "rank": 4,
@@ -3056,28 +3068,102 @@
             "odds_decimal": 1.602,
             "is_alt": true,
             "cushion": 1.0,
-            "recent_avg": 9.857142857142858
+            "recent_avg": 9.857142857142858,
+            "status": "SETTLED",
+            "actual": 10.0,
+            "minutes": "37",
+            "hit": true
+          }
+        ],
+        "won_400": true,
+        "units_400": 4.09,
+        "won_core3": true,
+        "units_core3": 2.18
+      },
+      "20261119": {
+        "date": "20261119",
+        "combined_american": "+411",
+        "combined_decimal": 5.11,
+        "core3_american": "+187",
+        "core3_decimal": 2.87,
+        "status": "PENDING",
+        "legs": [
+          {
+            "rank": 1,
+            "player_name": "Deni Avdija",
+            "team": "POR",
+            "outcome": "OVER",
+            "line": 19.5,
+            "raw_market": "POINTS",
+            "market": "Points",
+            "odds_american": "-311",
+            "odds_decimal": 1.322,
+            "is_alt": true,
+            "cushion": 4.0,
+            "recent_avg": 28.25
+          },
+          {
+            "rank": 2,
+            "player_name": "Jalen Brunson",
+            "team": "NYK",
+            "outcome": "OVER",
+            "line": 22.5,
+            "raw_market": "POINTS",
+            "market": "Points",
+            "odds_american": "-248",
+            "odds_decimal": 1.403,
+            "is_alt": true,
+            "cushion": 3.0,
+            "recent_avg": null
+          },
+          {
+            "rank": 3,
+            "player_name": "Derrick Jones",
+            "team": "LAC",
+            "outcome": "OVER",
+            "line": 7.5,
+            "raw_market": "POINTS",
+            "market": "Points",
+            "odds_american": "-183",
+            "odds_decimal": 1.546,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 11.272727272727273
+          },
+          {
+            "rank": 4,
+            "player_name": "Cameron Boozer",
+            "team": "MEM",
+            "outcome": "UNDER",
+            "line": 19.5,
+            "raw_market": "POINTS",
+            "market": "Points",
+            "odds_american": "-128",
+            "odds_decimal": 1.781,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 17.4
           }
         ]
       }
     },
     "summary": {
       "parlay_400": {
-        "wins": 5,
+        "wins": 6,
         "losses": 10,
-        "winRate": 33.3,
-        "units": 10.26
+        "winRate": 37.5,
+        "units": 14.35
       },
       "parlay_core3": {
-        "wins": 7,
+        "wins": 8,
         "losses": 8,
-        "winRate": 46.7,
-        "units": 5.48
+        "winRate": 50.0,
+        "units": 7.66
       },
       "legs": {
-        "wins": 44,
+        "wins": 48,
         "losses": 17,
-        "winRate": 72.1
+        "winRate": 73.8
       },
       "markets": {
         "THREE_POINTS_MADE": {
@@ -3085,21 +3171,21 @@
           "losses": 5
         },
         "ASSISTS": {
-          "wins": 8,
+          "wins": 9,
           "losses": 2
         },
         "REBOUNDS": {
-          "wins": 8,
+          "wins": 10,
           "losses": 5
         },
         "POINTS": {
-          "wins": 18,
+          "wins": 19,
           "losses": 5
         }
       },
       "by_alt": {
         "alt": {
-          "wins": 32,
+          "wins": 36,
           "losses": 10
         },
         "exact": {
