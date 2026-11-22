@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T05:22:13.003375+00:00",
+  "updatedAt": "2026-11-22T14:43:14.467196+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -18,12 +18,12 @@
   ],
   "overall": {
     "wins": 27,
-    "losses": 16,
-    "pending": 1,
+    "losses": 17,
+    "pending": 0,
     "total": 44,
-    "units": 6.38,
+    "units": 5.38,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 63.8
+    "dollarPnl": 53.8
   },
   "summary": {
     "NFL": {
@@ -55,12 +55,12 @@
     },
     "CFB": {
       "wins": 4,
-      "losses": 5,
-      "pending": 1,
+      "losses": 6,
+      "pending": 0,
       "total": 10,
-      "units": -0.61,
+      "units": -1.61,
       "unitSizeDollars": 10.0,
-      "dollarPnl": -6.1
+      "dollarPnl": -16.1
     },
     "NCAAB": {
       "wins": 0,
@@ -228,14 +228,14 @@
       },
       "Boise State": {
         "wins": 0,
-        "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
         "staked": 25250.59,
         "winRate": 0.0,
         "picks": [
-          "Boise State (-18.5) (OPEN)"
+          "Boise State (-18.5) (L)"
         ]
       },
       "Air Force": {
@@ -804,11 +804,11 @@
         "nigiri99"
       ],
       "alertedAt": "2026-11-21T15:39:43.512396+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": false,
+      "unitsPnl": -1.0,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": -10.0
     },
     {
       "signalKey": "cfb-utep-airf-2026-11-20::TEAM::Air Force",
@@ -2174,29 +2174,6 @@
       "unitDollarPnl": 40.8
     },
     {
-      "name": "nigiri99",
-      "wins": 10,
-      "losses": 6,
-      "NFL_w": 2,
-      "NFL_l": 0,
-      "NBA_w": 3,
-      "NBA_l": 3,
-      "staked": 444870.86,
-      "dollarPnl": 361659.51,
-      "units": 2.97,
-      "NHL_w": 2,
-      "NHL_l": 0,
-      "CFB_w": 3,
-      "CFB_l": 3,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 29.7
-    },
-    {
       "name": "robloxgamblemaster-2008-10-18",
       "wins": 4,
       "losses": 1,
@@ -2220,6 +2197,29 @@
       "unitDollarPnl": 21.6
     },
     {
+      "name": "nigiri99",
+      "wins": 10,
+      "losses": 7,
+      "NFL_w": 2,
+      "NFL_l": 0,
+      "NBA_w": 3,
+      "NBA_l": 3,
+      "staked": 444870.86,
+      "dollarPnl": 361659.51,
+      "units": 1.97,
+      "NHL_w": 2,
+      "NHL_l": 0,
+      "CFB_w": 3,
+      "CFB_l": 4,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 19.7
+    },
+    {
       "name": "drainedandpoor",
       "wins": 6,
       "losses": 3,
@@ -2241,29 +2241,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 18.0
-    },
-    {
-      "name": "HomeRunHazard",
-      "wins": 9,
-      "losses": 7,
-      "NFL_w": 3,
-      "NFL_l": 2,
-      "NBA_w": 3,
-      "NBA_l": 2,
-      "staked": 199218.54,
-      "dollarPnl": 34317.98,
-      "units": 2.14,
-      "NHL_w": 1,
-      "NHL_l": 1,
-      "CFB_w": 2,
-      "CFB_l": 2,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 21.4
     },
     {
       "name": "googleplay",
@@ -2310,6 +2287,29 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 13.0
+    },
+    {
+      "name": "HomeRunHazard",
+      "wins": 9,
+      "losses": 8,
+      "NFL_w": 3,
+      "NFL_l": 2,
+      "NBA_w": 3,
+      "NBA_l": 2,
+      "staked": 199218.54,
+      "dollarPnl": 34317.98,
+      "units": 1.14,
+      "NHL_w": 1,
+      "NHL_l": 1,
+      "CFB_w": 2,
+      "CFB_l": 3,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 11.4
     },
     {
       "name": "RJW1",
@@ -4267,7 +4267,7 @@
         "combined_decimal": 5.1,
         "core3_american": "+176",
         "core3_decimal": 2.76,
-        "status": "PENDING",
+        "status": "SETTLED",
         "legs": [
           {
             "rank": 1,
@@ -4281,7 +4281,11 @@
             "odds_decimal": 1.485,
             "is_alt": true,
             "cushion": 3.0,
-            "recent_avg": 28.25
+            "recent_avg": 28.25,
+            "status": "SETTLED",
+            "actual": 20.0,
+            "minutes": "36",
+            "hit": true
           },
           {
             "rank": 2,
@@ -4295,7 +4299,11 @@
             "odds_decimal": 1.373,
             "is_alt": true,
             "cushion": 2.0,
-            "recent_avg": 13.5
+            "recent_avg": 13.5,
+            "status": "SETTLED",
+            "actual": 17.0,
+            "minutes": "32",
+            "hit": true
           },
           {
             "rank": 3,
@@ -4309,7 +4317,11 @@
             "odds_decimal": 1.353,
             "is_alt": true,
             "cushion": 2.0,
-            "recent_avg": 20.0
+            "recent_avg": 20.0,
+            "status": "SETTLED",
+            "actual": 23.0,
+            "minutes": "30",
+            "hit": true
           },
           {
             "rank": 4,
@@ -4323,28 +4335,36 @@
             "odds_decimal": 1.847,
             "is_alt": false,
             "cushion": 0.0,
-            "recent_avg": 9.8
+            "recent_avg": 9.8,
+            "status": "SETTLED",
+            "actual": 2.0,
+            "minutes": "25",
+            "hit": false
           }
-        ]
+        ],
+        "won_400": false,
+        "units_400": -1.0,
+        "won_core3": true,
+        "units_core3": 1.76
       }
     },
     "summary": {
       "parlay_400": {
         "wins": 6,
-        "losses": 12,
-        "winRate": 33.3,
-        "units": 12.35
+        "losses": 13,
+        "winRate": 31.6,
+        "units": 11.35
       },
       "parlay_core3": {
-        "wins": 8,
+        "wins": 9,
         "losses": 10,
-        "winRate": 44.4,
-        "units": 5.66
+        "winRate": 47.4,
+        "units": 7.42
       },
       "legs": {
-        "wins": 51,
-        "losses": 21,
-        "winRate": 70.8
+        "wins": 54,
+        "losses": 22,
+        "winRate": 71.1
       },
       "markets": {
         "THREE_POINTS_MADE": {
@@ -4356,22 +4376,22 @@
           "losses": 3
         },
         "REBOUNDS": {
-          "wins": 10,
+          "wins": 11,
           "losses": 7
         },
         "POINTS": {
-          "wins": 21,
-          "losses": 6
+          "wins": 23,
+          "losses": 7
         }
       },
       "by_alt": {
         "alt": {
-          "wins": 38,
+          "wins": 41,
           "losses": 14
         },
         "exact": {
           "wins": 13,
-          "losses": 7
+          "losses": 8
         }
       }
     }
