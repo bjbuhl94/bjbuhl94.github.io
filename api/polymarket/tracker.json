@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T02:22:18.813867+00:00",
+  "updatedAt": "2026-11-22T03:17:52.842331+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -17,13 +17,13 @@
     "SOCCER"
   ],
   "overall": {
-    "wins": 26,
+    "wins": 27,
     "losses": 16,
-    "pending": 2,
+    "pending": 1,
     "total": 44,
-    "units": 5.46,
+    "units": 6.38,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 54.6
+    "dollarPnl": 63.8
   },
   "summary": {
     "NFL": {
@@ -45,13 +45,13 @@
       "dollarPnl": -2.4
     },
     "NHL": {
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
-      "pending": 1,
+      "pending": 0,
       "total": 4,
-      "units": 0.7,
+      "units": 1.62,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 7.0
+      "dollarPnl": 16.2
     },
     "CFB": {
       "wins": 4,
@@ -93,15 +93,15 @@
   "teams": {
     "NHL": {
       "Maple Leafs": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "pending": 0,
+        "units": 0.92,
+        "dollarPnl": 9.2,
         "staked": 50801.08,
-        "winRate": 0.0,
+        "winRate": 100.0,
         "picks": [
-          "Maple Leafs ML (OPEN)"
+          "Maple Leafs ML (W)"
         ]
       },
       "Red Wings": {
@@ -581,11 +581,11 @@
         "keeptheblueflagflyinghigh"
       ],
       "alertedAt": "2026-11-21T23:24:06.552723+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 0.92,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 9.2
     },
     {
       "signalKey": "cfb-arkst-loutch-2026-11-21::TEAM::Arkansas State",
@@ -2197,6 +2197,29 @@
       "unitDollarPnl": 29.7
     },
     {
+      "name": "robloxgamblemaster-2008-10-18",
+      "wins": 4,
+      "losses": 1,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 3,
+      "NBA_l": 1,
+      "staked": 616825.59,
+      "dollarPnl": 294374.66,
+      "units": 2.16,
+      "NHL_w": 1,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 21.6
+    },
+    {
       "name": "drainedandpoor",
       "wins": 6,
       "losses": 3,
@@ -2287,29 +2310,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 13.0
-    },
-    {
-      "name": "robloxgamblemaster-2008-10-18",
-      "wins": 3,
-      "losses": 1,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 3,
-      "NBA_l": 1,
-      "staked": 616825.59,
-      "dollarPnl": 294374.66,
-      "units": 1.24,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 12.4
     },
     {
       "name": "RJW1",
@@ -2473,6 +2473,29 @@
       "unitDollarPnl": 3.5
     },
     {
+      "name": "keeptheblueflagflyinghigh",
+      "wins": 4,
+      "losses": 4,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 1,
+      "NBA_l": 1,
+      "staked": 87690.52,
+      "dollarPnl": 63770.07,
+      "units": -0.23,
+      "NHL_w": 2,
+      "NHL_l": 1,
+      "CFB_w": 1,
+      "CFB_l": 2,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": -2.3
+    },
+    {
       "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
       "wins": 1,
       "losses": 1,
@@ -2609,29 +2632,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": -10.0
-    },
-    {
-      "name": "keeptheblueflagflyinghigh",
-      "wins": 3,
-      "losses": 4,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 1,
-      "NBA_l": 1,
-      "staked": 87690.52,
-      "dollarPnl": 63770.07,
-      "units": -1.15,
-      "NHL_w": 1,
-      "NHL_l": 1,
-      "CFB_w": 1,
-      "CFB_l": 2,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": -11.5
     },
     {
       "name": "ferrariChampions2026",
