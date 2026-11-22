@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T16:27:21.034521+00:00",
+  "updatedAt": "2026-11-22T17:17:47.628251+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -19,8 +19,8 @@
   "overall": {
     "wins": 27,
     "losses": 17,
-    "pending": 2,
-    "total": 46,
+    "pending": 3,
+    "total": 47,
     "units": 5.38,
     "unitSizeDollars": 10.0,
     "dollarPnl": 53.8
@@ -47,8 +47,8 @@
     "NHL": {
       "wins": 3,
       "losses": 1,
-      "pending": 0,
-      "total": 4,
+      "pending": 1,
+      "total": 5,
       "units": 1.62,
       "unitSizeDollars": 10.0,
       "dollarPnl": 16.2
@@ -91,6 +91,68 @@
     }
   },
   "teams": {
+    "NHL": {
+      "Hurricanes": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 53740.04,
+        "winRate": 0.0,
+        "picks": [
+          "Hurricanes (-1.5) (OPEN)"
+        ]
+      },
+      "Maple Leafs": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.92,
+        "dollarPnl": 9.2,
+        "staked": 50801.08,
+        "winRate": 100.0,
+        "picks": [
+          "Maple Leafs ML (W)"
+        ]
+      },
+      "Red Wings": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 22397.6,
+        "winRate": 0.0,
+        "picks": [
+          "Red Wings (+1.5) (L)"
+        ]
+      },
+      "Avalanche": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.03,
+        "dollarPnl": 10.3,
+        "staked": 56229.33,
+        "winRate": 100.0,
+        "picks": [
+          "Avalanche ML (W)"
+        ]
+      },
+      "Kraken": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.67,
+        "dollarPnl": 6.7,
+        "staked": 44922.6,
+        "winRate": 100.0,
+        "picks": [
+          "Kraken ML (W)"
+        ]
+      }
+    },
     "NFL": {
       "49ers": {
         "wins": 0,
@@ -248,56 +310,6 @@
         "winRate": 100.0,
         "picks": [
           "Broncos ML (W)"
-        ]
-      }
-    },
-    "NHL": {
-      "Maple Leafs": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.92,
-        "dollarPnl": 9.2,
-        "staked": 50801.08,
-        "winRate": 100.0,
-        "picks": [
-          "Maple Leafs ML (W)"
-        ]
-      },
-      "Red Wings": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 22397.6,
-        "winRate": 0.0,
-        "picks": [
-          "Red Wings (+1.5) (L)"
-        ]
-      },
-      "Avalanche": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.03,
-        "dollarPnl": 10.3,
-        "staked": 56229.33,
-        "winRate": 100.0,
-        "picks": [
-          "Avalanche ML (W)"
-        ]
-      },
-      "Kraken": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.67,
-        "dollarPnl": 6.7,
-        "staked": 44922.6,
-        "winRate": 100.0,
-        "picks": [
-          "Kraken ML (W)"
         ]
       }
     },
@@ -587,6 +599,30 @@
     }
   },
   "picks": [
+    {
+      "signalKey": "nhl-car-nyr-2026-11-22::TEAM::Hurricanes",
+      "sport": "NHL",
+      "eventSlug": "nhl-car-nyr-2026-11-22",
+      "eventTitle": "Hurricanes vs. Rangers",
+      "family": "TEAM",
+      "side": "Hurricanes",
+      "pickLabel": "Hurricanes (-1.5)",
+      "primaryTitle": "Hurricanes vs. Rangers",
+      "tier": 1,
+      "nAligned": 2,
+      "totalStake": 53740.04,
+      "avgEntry": 0.4418,
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188"
+      ],
+      "alertedAt": "2026-11-22T17:17:47.488993+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "nfl-min-sf-2026-11-23::TEAM::49ers",
       "sport": "NFL",
