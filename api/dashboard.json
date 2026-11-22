@@ -1,13 +1,1 @@
-{
-  "weekLabel": "Current NFL slate",
-  "qualifiedCount": 5,
-  "averageConfidence": 56.160000000000004,
-  "bestEdge": 5.1,
-  "lastRefresh": "2026-11-22T02:44:48.513Z",
-  "feedStatus": "live",
-  "sportsbooks": [
-    "DraftKings",
-    "FanDuel"
-  ],
-  "movementCount": 25
-}
+{"weekLabel":"Current NFL slate","qualifiedCount":5,"averageConfidence":56.160000000000004,"bestEdge":5.1,"lastRefresh":"2026-11-22T02:48:22.876Z","feedStatus":"live","sportsbooks":["DraftKings","FanDuel"],"movementCount":25}
