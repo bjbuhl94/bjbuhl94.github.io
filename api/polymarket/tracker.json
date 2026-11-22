@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T14:43:14.467196+00:00",
+  "updatedAt": "2026-11-22T15:39:22.455149+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -19,8 +19,8 @@
   "overall": {
     "wins": 27,
     "losses": 17,
-    "pending": 0,
-    "total": 44,
+    "pending": 2,
+    "total": 46,
     "units": 5.38,
     "unitSizeDollars": 10.0,
     "dollarPnl": 53.8
@@ -29,8 +29,8 @@
     "NFL": {
       "wins": 11,
       "losses": 2,
-      "pending": 0,
-      "total": 13,
+      "pending": 2,
+      "total": 15,
       "units": 5.61,
       "unitSizeDollars": 10.0,
       "dollarPnl": 56.1
@@ -91,6 +91,166 @@
     }
   },
   "teams": {
+    "NFL": {
+      "49ers": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 78266.21,
+        "winRate": 0.0,
+        "picks": [
+          "49ers (-3.5) (OPEN)"
+        ]
+      },
+      "Ravens": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 19076.06,
+        "winRate": 0.0,
+        "picks": [
+          "Ravens ML (OPEN)"
+        ]
+      },
+      "Bengals": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.75,
+        "dollarPnl": 7.5,
+        "staked": 144397.17,
+        "winRate": 100.0,
+        "picks": [
+          "Bengals (-3.5) (W)"
+        ]
+      },
+      "Colts": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.69,
+        "dollarPnl": 6.9,
+        "staked": 186429.06,
+        "winRate": 100.0,
+        "picks": [
+          "Colts ML (W)"
+        ]
+      },
+      "Chiefs": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.6,
+        "dollarPnl": 6.0,
+        "staked": 272998.72,
+        "winRate": 100.0,
+        "picks": [
+          "Chiefs ML (W)"
+        ]
+      },
+      "Bears": {
+        "wins": 2,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.79,
+        "dollarPnl": 17.9,
+        "staked": 283929.15,
+        "winRate": 100.0,
+        "picks": [
+          "Bears ML (W)",
+          "Bears (+2.5) (W)"
+        ]
+      },
+      "Buccaneers": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.28,
+        "dollarPnl": 2.8,
+        "staked": 34731.92,
+        "winRate": 100.0,
+        "picks": [
+          "Buccaneers (+14.5) (W)"
+        ]
+      },
+      "NFL Totals (Over/Under)": {
+        "wins": 1,
+        "losses": 1,
+        "pending": 0,
+        "units": -0.08,
+        "dollarPnl": -0.8,
+        "staked": 30515.28,
+        "winRate": 50.0,
+        "picks": [
+          "Under 44.5 (L)",
+          "Over 46.5 (W)"
+        ]
+      },
+      "Browns": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.79,
+        "dollarPnl": 7.9,
+        "staked": 46925.56,
+        "winRate": 100.0,
+        "picks": [
+          "Browns (+3.5) (W)"
+        ]
+      },
+      "Commanders": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.43,
+        "dollarPnl": 4.3,
+        "staked": 257214.63,
+        "winRate": 100.0,
+        "picks": [
+          "Commanders ML (W)"
+        ]
+      },
+      "Eagles": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 312367.3,
+        "winRate": 0.0,
+        "picks": [
+          "Eagles (+5.5) (L)"
+        ]
+      },
+      "Patriots": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.32,
+        "dollarPnl": 3.2,
+        "staked": 84420.66,
+        "winRate": 100.0,
+        "picks": [
+          "Patriots ML (W)"
+        ]
+      },
+      "Broncos": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.04,
+        "dollarPnl": 10.4,
+        "staked": 12717.07,
+        "winRate": 100.0,
+        "picks": [
+          "Broncos ML (W)"
+        ]
+      }
+    },
     "NHL": {
       "Maple Leafs": {
         "wins": 1,
@@ -424,145 +584,92 @@
           "Clippers (+2.5) (L)"
         ]
       }
-    },
-    "NFL": {
-      "Bengals": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.75,
-        "dollarPnl": 7.5,
-        "staked": 144397.17,
-        "winRate": 100.0,
-        "picks": [
-          "Bengals (-3.5) (W)"
-        ]
-      },
-      "Colts": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.69,
-        "dollarPnl": 6.9,
-        "staked": 186429.06,
-        "winRate": 100.0,
-        "picks": [
-          "Colts ML (W)"
-        ]
-      },
-      "Chiefs": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.6,
-        "dollarPnl": 6.0,
-        "staked": 272998.72,
-        "winRate": 100.0,
-        "picks": [
-          "Chiefs ML (W)"
-        ]
-      },
-      "Bears": {
-        "wins": 2,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.79,
-        "dollarPnl": 17.9,
-        "staked": 283929.15,
-        "winRate": 100.0,
-        "picks": [
-          "Bears ML (W)",
-          "Bears (+2.5) (W)"
-        ]
-      },
-      "Buccaneers": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.28,
-        "dollarPnl": 2.8,
-        "staked": 34731.92,
-        "winRate": 100.0,
-        "picks": [
-          "Buccaneers (+14.5) (W)"
-        ]
-      },
-      "NFL Totals (Over/Under)": {
-        "wins": 1,
-        "losses": 1,
-        "pending": 0,
-        "units": -0.08,
-        "dollarPnl": -0.8,
-        "staked": 30515.28,
-        "winRate": 50.0,
-        "picks": [
-          "Under 44.5 (L)",
-          "Over 46.5 (W)"
-        ]
-      },
-      "Browns": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.79,
-        "dollarPnl": 7.9,
-        "staked": 46925.56,
-        "winRate": 100.0,
-        "picks": [
-          "Browns (+3.5) (W)"
-        ]
-      },
-      "Commanders": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.43,
-        "dollarPnl": 4.3,
-        "staked": 257214.63,
-        "winRate": 100.0,
-        "picks": [
-          "Commanders ML (W)"
-        ]
-      },
-      "Eagles": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 312367.3,
-        "winRate": 0.0,
-        "picks": [
-          "Eagles (+5.5) (L)"
-        ]
-      },
-      "Patriots": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.32,
-        "dollarPnl": 3.2,
-        "staked": 84420.66,
-        "winRate": 100.0,
-        "picks": [
-          "Patriots ML (W)"
-        ]
-      },
-      "Broncos": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.04,
-        "dollarPnl": 10.4,
-        "staked": 12717.07,
-        "winRate": 100.0,
-        "picks": [
-          "Broncos ML (W)"
-        ]
-      }
     }
   },
   "picks": [
+    {
+      "signalKey": "nfl-min-sf-2026-11-23::TEAM::49ers",
+      "sport": "NFL",
+      "eventSlug": "nfl-min-sf-2026-11-23",
+      "eventTitle": "Vikings vs. 49ers",
+      "family": "TEAM",
+      "side": "49ers",
+      "pickLabel": "49ers (-3.5)",
+      "primaryTitle": "Spread: 49ers (-3.5)",
+      "tier": 1,
+      "nAligned": 2,
+      "totalStake": 78266.2126,
+      "avgEntry": 0.5342770352209503,
+      "alignedNames": [
+        "gmpm2",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "whaleDetails": [
+        {
+          "name": "gmpm2",
+          "netCost": 64467.3862,
+          "avgPrice": 0.5342770352209503,
+          "pickLabel": "49ers (-3.5)"
+        },
+        {
+          "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "netCost": 13798.8264,
+          "avgPrice": 0.5699,
+          "pickLabel": "49ers (-2.5)"
+        }
+      ],
+      "alertedAt": "2026-11-22T15:39:19.093362+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "nfl-bal-car-2026-11-22::TEAM::Ravens",
+      "sport": "NFL",
+      "eventSlug": "nfl-bal-car-2026-11-22",
+      "eventTitle": "Ravens vs. Panthers",
+      "family": "TEAM",
+      "side": "Ravens",
+      "pickLabel": "Ravens ML",
+      "primaryTitle": "Ravens vs. Panthers",
+      "tier": 1,
+      "nAligned": 3,
+      "totalStake": 19076.056,
+      "avgEntry": 0.4193754021384607,
+      "alignedNames": [
+        "BreakTheBank",
+        "HomeRunHazard",
+        "0x448861155279dbf833d041b963e3ac854599e319"
+      ],
+      "whaleDetails": [
+        {
+          "name": "BreakTheBank",
+          "netCost": 7888.5428,
+          "avgPrice": 0.42,
+          "pickLabel": "Ravens ML"
+        },
+        {
+          "name": "HomeRunHazard",
+          "netCost": 6354.3376,
+          "avgPrice": 0.4186,
+          "pickLabel": "Ravens ML"
+        },
+        {
+          "name": "0x448861155279dbf833d041b963e3ac854599e319",
+          "netCost": 4833.1756,
+          "avgPrice": 0.4099,
+          "pickLabel": "Ravens (-1.5)"
+        }
+      ],
+      "alertedAt": "2026-11-22T15:39:19.093362+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "nhl-cbj-tor-2026-11-21::TEAM::Maple Leafs",
       "sport": "NHL",
