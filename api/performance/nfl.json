@@ -1,14 +1,27 @@
 {
   "sport": "nfl",
-  "settled": 75,
+  "settled": 76,
   "wins": 51,
-  "losses": 22,
+  "losses": 23,
   "pushes": 2,
-  "units": 17.97,
-  "stakeCents": 37500,
+  "units": 16.97,
+  "stakeCents": 38000,
   "picks": [
     {
       "id": "nfl-settled-0",
+      "sport": "nfl",
+      "selection": "Under +44.5",
+      "game": "Baltimore Ravens at Carolina Panthers",
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "odds": -110,
+      "confidence": 55,
+      "result": "loss",
+      "profitCents": -500,
+      "settledAt": "2026-11-22T18:00:00.000Z",
+      "finalScore": null
+    },
+    {
+      "id": "nfl-settled-1",
       "sport": "nfl",
       "selection": "Kansas City Chiefs -16.5",
       "game": "Arizona Cardinals at Kansas City Chiefs",
@@ -21,7 +34,7 @@
       "finalScore": null
     },
     {
-      "id": "nfl-settled-1",
+      "id": "nfl-settled-2",
       "sport": "nfl",
       "selection": "Chicago Bears -11.5",
       "game": "New Orleans Saints at Chicago Bears",
@@ -34,7 +47,7 @@
       "finalScore": null
     },
     {
-      "id": "nfl-settled-2",
+      "id": "nfl-settled-3",
       "sport": "nfl",
       "selection": "Buffalo Bills -16.5",
       "game": "Miami Dolphins at Buffalo Bills",
