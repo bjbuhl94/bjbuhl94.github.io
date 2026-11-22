@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T21:15:23.670058+00:00",
+  "updatedAt": "2026-11-22T21:17:33.650962+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -648,6 +648,10 @@
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
+      "tierLabel": "Proven Historical Pair (94% Conviction)",
+      "curPrice": 0.570226768968594,
+      "convictionPct": 93.6,
+      "startEt": "8:20 PM ET",
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
     },
@@ -747,6 +751,10 @@
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
+      "tierLabel": "Proven Historical Pair (94% Conviction)",
+      "curPrice": 0.570226768968594,
+      "convictionPct": 93.6,
+      "startEt": "8:20 PM ET",
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
     },
