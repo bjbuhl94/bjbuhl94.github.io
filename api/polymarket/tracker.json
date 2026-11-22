@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T20:27:25.197958+00:00",
+  "updatedAt": "2026-11-22T19:38:02.704129+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -17,13 +17,13 @@
     "SOCCER"
   ],
   "overall": {
-    "wins": 28,
+    "wins": 27,
     "losses": 17,
-    "pending": 2,
+    "pending": 3,
     "total": 47,
-    "units": 6.64,
+    "units": 5.38,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 66.4
+    "dollarPnl": 53.8
   },
   "summary": {
     "NFL": {
@@ -45,13 +45,13 @@
       "dollarPnl": -2.4
     },
     "NHL": {
-      "wins": 4,
+      "wins": 3,
       "losses": 1,
-      "pending": 0,
+      "pending": 1,
       "total": 5,
-      "units": 2.88,
+      "units": 1.62,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 28.8
+      "dollarPnl": 16.2
     },
     "CFB": {
       "wins": 4,
@@ -93,15 +93,15 @@
   "teams": {
     "NHL": {
       "Hurricanes": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
-        "pending": 0,
-        "units": 1.26,
-        "dollarPnl": 12.6,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
         "staked": 53740.04,
-        "winRate": 100.0,
+        "winRate": 0.0,
         "picks": [
-          "Hurricanes (-1.5) (W)"
+          "Hurricanes (-1.5) (OPEN)"
         ]
       },
       "Maple Leafs": {
@@ -617,11 +617,11 @@
         "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188"
       ],
       "alertedAt": "2026-11-22T17:17:47.488993+00:00",
-      "status": "SETTLED",
-      "won": true,
-      "unitsPnl": 1.26,
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 12.6
+      "dollarPnl": 0.0
     },
     {
       "signalKey": "nfl-min-sf-2026-11-23::TEAM::49ers",
@@ -2249,7 +2249,7 @@
   "sharps": [
     {
       "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-      "wins": 9,
+      "wins": 8,
       "losses": 2,
       "NFL_w": 3,
       "NFL_l": 0,
@@ -2257,8 +2257,8 @@
       "NBA_l": 1,
       "staked": 363027.93,
       "dollarPnl": 339166.31,
-      "units": 5.5,
-      "NHL_w": 1,
+      "units": 4.24,
+      "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
       "CFB_l": 1,
@@ -2268,7 +2268,7 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 55.0
+      "unitDollarPnl": 42.4
     },
     {
       "name": "BreakTheBank",
@@ -2430,29 +2430,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 13.0
-    },
-    {
-      "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
-      "wins": 1,
-      "losses": 0,
-      "units": 1.26,
-      "staked": 0.0,
-      "dollarPnl": 0.0,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "NHL_w": 1,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 12.6
     },
     {
       "name": "HomeRunHazard",
