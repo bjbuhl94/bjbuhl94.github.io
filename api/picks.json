@@ -1,5 +1,22 @@
 [
   {
+    "id": "nfl-hybrid-2026.7-049a51a6e3230eb9a6642530970f6d3b-totals-Under-46.5",
+    "market": "total",
+    "title": "Under +46.5",
+    "selection": "Under +46.5",
+    "game": "Jacksonville Jaguars at New York Giants",
+    "kickoff": "2026-11-22T21:25:00.000Z",
+    "confidence": 57.3,
+    "odds": -120,
+    "impliedProbability": 54.5,
+    "edge": 2.7,
+    "rationale": "Offered at FanDuel. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. New York Giants QB1: J.J. McCarthy (ESPN depth chart); Jacksonville Jaguars QB1: Trevor Lawrence (ESPN depth chart). Offered odds imply 54.5%. Injury and depth-chart feeds checked 2026-11-22T11:15:25.448Z. Game-window forecast: 55\u00b0F at kickoff; peak wind 7 mph, gust 17 mph, precipitation 2.2 mm/h, snow 0.0 cm/h (Open-Meteo). Outdoor totals require a kickoff forecast. Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
+    "updatedAt": "2026-11-22T11:15:23.989Z",
+    "status": "qualified",
+    "line": "Under +46.5"
+  },
+  {
     "id": "nfl-hybrid-2026.7-7f7f761acf6694917e80dab6a1b0b638-spreads-Buffalo Bills--16.5",
     "market": "spread",
     "title": "Buffalo Bills -16.5",
@@ -10,9 +27,9 @@
     "odds": -105,
     "impliedProbability": 51.2,
     "edge": 5.3,
-    "rationale": "Best available price at DraftKings (-105 vs FanDuel -110). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Buffalo Bills QB1: Josh Allen (ESPN depth chart); Miami Dolphins QB1: Kyle McCord (ESPN depth chart); Dalton Kincaid Doubtful; Dawson Knox is an observed receiving option (not a confirmed starter); Malik Willis Injured Reserve; Kyle McCord is listed QB1 (limited observed relief sample). Offered odds imply 51.2%. Injury and depth-chart feeds checked 2026-11-22T10:29:18.896Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "rationale": "Best available price at DraftKings (-105 vs FanDuel -110). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Buffalo Bills QB1: Josh Allen (ESPN depth chart); Miami Dolphins QB1: Kyle McCord (ESPN depth chart); Dalton Kincaid Doubtful; Dawson Knox is an observed receiving option (not a confirmed starter); Malik Willis Injured Reserve; Kyle McCord is listed QB1 (limited observed relief sample). Offered odds imply 51.2%. Injury and depth-chart feeds checked 2026-11-22T11:15:24.787Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-22T10:29:17.843Z",
+    "updatedAt": "2026-11-22T11:15:23.989Z",
     "status": "qualified",
     "line": "Buffalo Bills -16.5"
   },
@@ -27,9 +44,9 @@
     "odds": -106,
     "impliedProbability": 51.5,
     "edge": 4.7,
-    "rationale": "Offered at DraftKings. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Kansas City Chiefs QB1: Patrick Mahomes (ESPN depth chart); Arizona Cardinals QB1: Carson Beck (ESPN depth chart); Kenneth Walker III Out; Emmett Johnson is an observed rushing option (not a confirmed starter); Starting quarterback left the previous game; next-game baseline unverified; Depth-chart starting quarterback has an injury designation; Gardner Minshew II Injured Reserve; replacement not verified on depth chart; Gardner Minshew II Injured Reserve; backup baseline applied (Carson Beck limited recent sample); Michael Wilson Injured Reserve; Devin Duvernay is an observed receiving option (not a confirmed starter). Offered odds imply 51.5%. Injury and depth-chart feeds checked 2026-11-22T10:29:19.268Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "rationale": "Offered at DraftKings. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Kansas City Chiefs QB1: Patrick Mahomes (ESPN depth chart); Arizona Cardinals QB1: Carson Beck (ESPN depth chart); Kenneth Walker III Out; Emmett Johnson is an observed rushing option (not a confirmed starter); Starting quarterback left the previous game; next-game baseline unverified; Depth-chart starting quarterback has an injury designation; Gardner Minshew II Injured Reserve; replacement not verified on depth chart; Gardner Minshew II Injured Reserve; backup baseline applied (Carson Beck limited recent sample); Michael Wilson Injured Reserve; Devin Duvernay is an observed receiving option (not a confirmed starter). Offered odds imply 51.5%. Injury and depth-chart feeds checked 2026-11-22T11:15:24.859Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-22T10:29:17.843Z",
+    "updatedAt": "2026-11-22T11:15:23.989Z",
     "status": "qualified",
     "line": "Kansas City Chiefs -15.5"
   },
@@ -44,9 +61,9 @@
     "odds": -107,
     "impliedProbability": 51.7,
     "edge": 3.9,
-    "rationale": "Best available price at DraftKings (-107 vs FanDuel -110). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Chicago Bears QB1: Caleb Williams (ESPN depth chart); New Orleans Saints QB1: Tyler Shough (ESPN depth chart); Zavion Thomas Questionable; Luther Burden III is an observed receiving option (not a confirmed starter). Offered odds imply 51.7%. Injury and depth-chart feeds checked 2026-11-22T10:29:19.147Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "rationale": "Best available price at DraftKings (-107 vs FanDuel -110). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Chicago Bears QB1: Caleb Williams (ESPN depth chart); New Orleans Saints QB1: Tyler Shough (ESPN depth chart); Zavion Thomas Questionable; Luther Burden III is an observed receiving option (not a confirmed starter). Offered odds imply 51.7%. Injury and depth-chart feeds checked 2026-11-22T11:15:24.919Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-22T10:29:17.843Z",
+    "updatedAt": "2026-11-22T11:15:23.989Z",
     "status": "qualified",
     "line": "Chicago Bears -11.5"
   },
@@ -61,9 +78,9 @@
     "odds": -114,
     "impliedProbability": 53.3,
     "edge": 2.3,
-    "rationale": "Offered at DraftKings. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Washington Commanders QB1: Jayden Daniels (ESPN depth chart); Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); Rachaad White Questionable; Austin Ekeler is an observed rushing option (not a confirmed starter). Offered odds imply 53.3%. Injury and depth-chart feeds checked 2026-11-22T10:29:19.392Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "rationale": "Offered at DraftKings. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Washington Commanders QB1: Jayden Daniels (ESPN depth chart); Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); Rachaad White Questionable; Austin Ekeler is an observed rushing option (not a confirmed starter). Offered odds imply 53.3%. Injury and depth-chart feeds checked 2026-11-22T11:15:25.387Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-22T10:29:17.843Z",
+    "updatedAt": "2026-11-22T11:15:23.989Z",
     "status": "qualified",
     "line": "Cincinnati Bengals -6"
   }
