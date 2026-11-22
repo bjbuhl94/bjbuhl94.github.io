@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T21:49:15.457067+00:00",
+  "updatedAt": "2026-11-22T22:03:11.067128+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -621,9 +621,9 @@
       "whaleDetails": [
         {
           "name": "gmpm2",
-          "netCost": 69044.0169,
-          "avgPrice": 0.5393749819661782,
-          "pickLabel": "49ers (-3.5)"
+          "netCost": 56911.0297,
+          "avgPrice": 0.5520545837713071,
+          "pickLabel": "49ers ML"
         },
         {
           "name": "BreakTheBank",
@@ -648,9 +648,9 @@
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
-      "tierLabel": "Proven Historical Pair (94% Conviction)",
-      "curPrice": 0.570226768968594,
-      "convictionPct": 93.6,
+      "tierLabel": "Proven Historical Pair (93% Conviction)",
+      "curPrice": 0.60899297001844,
+      "convictionPct": 92.6,
       "startEt": "8:20 PM ET",
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -724,9 +724,9 @@
       "whaleDetails": [
         {
           "name": "gmpm2",
-          "netCost": 69044.0169,
-          "avgPrice": 0.5393749819661782,
-          "pickLabel": "49ers (-3.5)"
+          "netCost": 56911.0297,
+          "avgPrice": 0.5520545837713071,
+          "pickLabel": "49ers ML"
         },
         {
           "name": "BreakTheBank",
@@ -751,9 +751,9 @@
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
-      "tierLabel": "Proven Historical Pair (94% Conviction)",
-      "curPrice": 0.570226768968594,
-      "convictionPct": 93.6,
+      "tierLabel": "Proven Historical Pair (93% Conviction)",
+      "curPrice": 0.60899297001844,
+      "convictionPct": 92.6,
       "startEt": "8:20 PM ET",
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
