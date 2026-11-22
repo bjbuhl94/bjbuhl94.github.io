@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T21:25:14.969056+00:00",
+  "updatedAt": "2026-11-22T21:29:27.418228+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -4678,6 +4678,72 @@
         "units_400": -1.0,
         "won_core3": true,
         "units_core3": 1.76
+      },
+      "20261122": {
+        "date": "20261122",
+        "combined_american": "+447",
+        "combined_decimal": 5.47,
+        "core3_american": "+196",
+        "core3_decimal": 2.96,
+        "status": "PENDING",
+        "legs": [
+          {
+            "rank": 1,
+            "player_name": "Shai Gilgeous-Alexander",
+            "team": "OKL",
+            "outcome": "OVER",
+            "line": 29.5,
+            "raw_market": "POINTS",
+            "market": "Points",
+            "odds_american": "-187",
+            "odds_decimal": 1.535,
+            "is_alt": true,
+            "cushion": 3.0,
+            "recent_avg": 37.75
+          },
+          {
+            "rank": 2,
+            "player_name": "Kelly Oubre",
+            "team": "IND",
+            "outcome": "OVER",
+            "line": 9.5,
+            "raw_market": "POINTS",
+            "market": "Points",
+            "odds_american": "-268",
+            "odds_decimal": 1.373,
+            "is_alt": true,
+            "cushion": 3.0,
+            "recent_avg": 15.666666666666666
+          },
+          {
+            "rank": 3,
+            "player_name": "Caleb Martin",
+            "team": "DAL",
+            "outcome": "OVER",
+            "line": 1.5,
+            "raw_market": "ASSISTS",
+            "market": "Assists",
+            "odds_american": "-247",
+            "odds_decimal": 1.405,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 4.0
+          },
+          {
+            "rank": 4,
+            "player_name": "De'Anthony Melton",
+            "team": "GSW",
+            "outcome": "UNDER",
+            "line": 10.5,
+            "raw_market": "POINTS",
+            "market": "Points",
+            "odds_american": "-118",
+            "odds_decimal": 1.847,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 6.25
+          }
+        ]
       }
     },
     "summary": {
