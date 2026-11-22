@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T22:52:40.767711+00:00",
+  "updatedAt": "2026-11-22T23:29:18.868815+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -19,8 +19,8 @@
   "overall": {
     "wins": 28,
     "losses": 17,
-    "pending": 2,
-    "total": 47,
+    "pending": 3,
+    "total": 48,
     "units": 6.64,
     "unitSizeDollars": 10.0,
     "dollarPnl": 66.4
@@ -38,8 +38,8 @@
     "NBA": {
       "wins": 9,
       "losses": 8,
-      "pending": 0,
-      "total": 17,
+      "pending": 1,
+      "total": 18,
       "units": -0.24,
       "unitSizeDollars": 10.0,
       "dollarPnl": -2.4
@@ -91,6 +91,180 @@
     }
   },
   "teams": {
+    "NBA": {
+      "Jazz": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 203847.46,
+        "winRate": 0.0,
+        "picks": [
+          "Jazz ML (OPEN)"
+        ]
+      },
+      "NBA Totals (Over/Under)": {
+        "wins": 1,
+        "losses": 1,
+        "pending": 0,
+        "units": -0.06,
+        "dollarPnl": -0.6,
+        "staked": 53151.99,
+        "winRate": 50.0,
+        "picks": [
+          "Under 234.5 (L)",
+          "Under 222.5 (W)"
+        ]
+      },
+      "Spurs": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 119187.22,
+        "winRate": 0.0,
+        "picks": [
+          "Spurs (-9.5) (L)"
+        ]
+      },
+      "Heat": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.17,
+        "dollarPnl": 11.7,
+        "staked": 617475.02,
+        "winRate": 100.0,
+        "picks": [
+          "Heat ML (W)"
+        ]
+      },
+      "Grizzlies": {
+        "wins": 1,
+        "losses": 1,
+        "pending": 0,
+        "units": -0.08,
+        "dollarPnl": -0.8,
+        "staked": 643951.33,
+        "winRate": 50.0,
+        "picks": [
+          "Grizzlies ML (L)",
+          "Grizzlies ML (W)"
+        ]
+      },
+      "Pacers": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.7,
+        "dollarPnl": 7.0,
+        "staked": 180440.66,
+        "winRate": 100.0,
+        "picks": [
+          "Pacers ML (W)"
+        ]
+      },
+      "Raptors": {
+        "wins": 0,
+        "losses": 2,
+        "pending": 0,
+        "units": -2.0,
+        "dollarPnl": -20.0,
+        "staked": 127780.43,
+        "winRate": 0.0,
+        "picks": [
+          "Raptors ML (L)",
+          "Raptors (+2.5) (L)"
+        ]
+      },
+      "Magic": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.08,
+        "dollarPnl": 10.8,
+        "staked": 81349.56,
+        "winRate": 100.0,
+        "picks": [
+          "Magic (-4.5) (W)"
+        ]
+      },
+      "Warriors": {
+        "wins": 2,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.12,
+        "dollarPnl": 11.2,
+        "staked": 287567.44,
+        "winRate": 100.0,
+        "picks": [
+          "Warriors ML (W)",
+          "Warriors ML (W)"
+        ]
+      },
+      "Bucks": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 23000.86,
+        "winRate": 0.0,
+        "picks": [
+          "Bucks (+10.5) (L)"
+        ]
+      },
+      "Hawks": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.56,
+        "dollarPnl": 5.6,
+        "staked": 97052.03,
+        "winRate": 100.0,
+        "picks": [
+          "Hawks ML (W)"
+        ]
+      },
+      "Wizards": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.27,
+        "dollarPnl": 12.7,
+        "staked": 12334.51,
+        "winRate": 100.0,
+        "picks": [
+          "Wizards ML (W)"
+        ]
+      },
+      "Suns": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 17047.69,
+        "winRate": 0.0,
+        "picks": [
+          "Suns ML (L)"
+        ]
+      },
+      "Clippers": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 13248.77,
+        "winRate": 0.0,
+        "picks": [
+          "Clippers (+2.5) (L)"
+        ]
+      }
+    },
     "NFL": {
       "49ers": {
         "wins": 0,
@@ -434,168 +608,6 @@
           "Central Michigan (+2.5) (L)"
         ]
       }
-    },
-    "NBA": {
-      "NBA Totals (Over/Under)": {
-        "wins": 1,
-        "losses": 1,
-        "pending": 0,
-        "units": -0.06,
-        "dollarPnl": -0.6,
-        "staked": 53151.99,
-        "winRate": 50.0,
-        "picks": [
-          "Under 234.5 (L)",
-          "Under 222.5 (W)"
-        ]
-      },
-      "Spurs": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 119187.22,
-        "winRate": 0.0,
-        "picks": [
-          "Spurs (-9.5) (L)"
-        ]
-      },
-      "Heat": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.17,
-        "dollarPnl": 11.7,
-        "staked": 617475.02,
-        "winRate": 100.0,
-        "picks": [
-          "Heat ML (W)"
-        ]
-      },
-      "Grizzlies": {
-        "wins": 1,
-        "losses": 1,
-        "pending": 0,
-        "units": -0.08,
-        "dollarPnl": -0.8,
-        "staked": 643951.33,
-        "winRate": 50.0,
-        "picks": [
-          "Grizzlies ML (L)",
-          "Grizzlies ML (W)"
-        ]
-      },
-      "Pacers": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.7,
-        "dollarPnl": 7.0,
-        "staked": 180440.66,
-        "winRate": 100.0,
-        "picks": [
-          "Pacers ML (W)"
-        ]
-      },
-      "Raptors": {
-        "wins": 0,
-        "losses": 2,
-        "pending": 0,
-        "units": -2.0,
-        "dollarPnl": -20.0,
-        "staked": 127780.43,
-        "winRate": 0.0,
-        "picks": [
-          "Raptors ML (L)",
-          "Raptors (+2.5) (L)"
-        ]
-      },
-      "Magic": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.08,
-        "dollarPnl": 10.8,
-        "staked": 81349.56,
-        "winRate": 100.0,
-        "picks": [
-          "Magic (-4.5) (W)"
-        ]
-      },
-      "Warriors": {
-        "wins": 2,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.12,
-        "dollarPnl": 11.2,
-        "staked": 287567.44,
-        "winRate": 100.0,
-        "picks": [
-          "Warriors ML (W)",
-          "Warriors ML (W)"
-        ]
-      },
-      "Bucks": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 23000.86,
-        "winRate": 0.0,
-        "picks": [
-          "Bucks (+10.5) (L)"
-        ]
-      },
-      "Hawks": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.56,
-        "dollarPnl": 5.6,
-        "staked": 97052.03,
-        "winRate": 100.0,
-        "picks": [
-          "Hawks ML (W)"
-        ]
-      },
-      "Wizards": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.27,
-        "dollarPnl": 12.7,
-        "staked": 12334.51,
-        "winRate": 100.0,
-        "picks": [
-          "Wizards ML (W)"
-        ]
-      },
-      "Suns": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 17047.69,
-        "winRate": 0.0,
-        "picks": [
-          "Suns ML (L)"
-        ]
-      },
-      "Clippers": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 13248.77,
-        "winRate": 0.0,
-        "picks": [
-          "Clippers (+2.5) (L)"
-        ]
-      }
     }
   },
   "activePicks": [
@@ -621,8 +633,8 @@
       "whaleDetails": [
         {
           "name": "gmpm2",
-          "netCost": 51924.1676,
-          "avgPrice": 0.5552251819871253,
+          "netCost": 46881.763999999996,
+          "avgPrice": 0.5725138778907722,
           "pickLabel": "49ers ML"
         },
         {
@@ -649,9 +661,52 @@
       "won": null,
       "unitsPnl": 0.0,
       "tierLabel": "Proven Historical Pair (92% Conviction)",
-      "curPrice": 0.6120322714920711,
-      "convictionPct": 92.3,
+      "curPrice": 0.6300895132609416,
+      "convictionPct": 91.7,
       "startEt": "8:20 PM ET",
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "nba-dal-uta-2026-11-22::TEAM::Jazz",
+      "sport": "NBA",
+      "eventSlug": "nba-dal-uta-2026-11-22",
+      "eventTitle": "Mavericks vs. Jazz",
+      "family": "TEAM",
+      "side": "Jazz",
+      "pickLabel": "Jazz ML",
+      "primaryTitle": "Mavericks vs. Jazz",
+      "tier": 1,
+      "tierLabel": "Top NBA Sharp Consensus (86% Conviction)",
+      "nAligned": 2,
+      "totalStake": 203847.4634,
+      "avgEntry": 0.45385439690322876,
+      "curPrice": 0.45615379697680364,
+      "convictionPct": 85.9,
+      "startEt": "7:00 PM ET",
+      "alignedNames": [
+        "BreakTheBank",
+        "robloxgamblemaster-2008-10-18"
+      ],
+      "whaleDetails": [
+        {
+          "name": "BreakTheBank",
+          "netCost": 117365.8548,
+          "avgPrice": 0.4399,
+          "pickLabel": "Jazz ML"
+        },
+        {
+          "name": "robloxgamblemaster-2008-10-18",
+          "netCost": 86481.60859999999,
+          "avgPrice": 0.47279217740105733,
+          "pickLabel": "Jazz ML"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-22T23:29:13.137196+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
     },
@@ -703,6 +758,49 @@
   ],
   "picks": [
     {
+      "signalKey": "nba-dal-uta-2026-11-22::TEAM::Jazz",
+      "sport": "NBA",
+      "eventSlug": "nba-dal-uta-2026-11-22",
+      "eventTitle": "Mavericks vs. Jazz",
+      "family": "TEAM",
+      "side": "Jazz",
+      "pickLabel": "Jazz ML",
+      "primaryTitle": "Mavericks vs. Jazz",
+      "tier": 1,
+      "tierLabel": "Top NBA Sharp Consensus (86% Conviction)",
+      "nAligned": 2,
+      "totalStake": 203847.4634,
+      "avgEntry": 0.45385439690322876,
+      "curPrice": 0.45615379697680364,
+      "convictionPct": 85.9,
+      "startEt": "7:00 PM ET",
+      "alignedNames": [
+        "BreakTheBank",
+        "robloxgamblemaster-2008-10-18"
+      ],
+      "whaleDetails": [
+        {
+          "name": "BreakTheBank",
+          "netCost": 117365.8548,
+          "avgPrice": 0.4399,
+          "pickLabel": "Jazz ML"
+        },
+        {
+          "name": "robloxgamblemaster-2008-10-18",
+          "netCost": 86481.60859999999,
+          "avgPrice": 0.47279217740105733,
+          "pickLabel": "Jazz ML"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-22T23:29:13.137196+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
+    {
       "signalKey": "nfl-min-sf-2026-11-23::TEAM::49ers",
       "sport": "NFL",
       "eventSlug": "nfl-min-sf-2026-11-23",
@@ -724,8 +822,8 @@
       "whaleDetails": [
         {
           "name": "gmpm2",
-          "netCost": 51924.1676,
-          "avgPrice": 0.5552251819871253,
+          "netCost": 46881.763999999996,
+          "avgPrice": 0.5725138778907722,
           "pickLabel": "49ers ML"
         },
         {
@@ -752,8 +850,8 @@
       "won": null,
       "unitsPnl": 0.0,
       "tierLabel": "Proven Historical Pair (92% Conviction)",
-      "curPrice": 0.6120322714920711,
-      "convictionPct": 92.3,
+      "curPrice": 0.6300895132609416,
+      "convictionPct": 91.7,
       "startEt": "8:20 PM ET",
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
