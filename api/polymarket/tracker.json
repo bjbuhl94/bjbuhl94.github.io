@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-23T21:33:54.585480+00:00",
+  "updatedAt": "2026-11-23T21:38:28.561547+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -4739,6 +4739,72 @@
         "units_400": 2.56,
         "won_core3": true,
         "units_core3": 0.93
+      },
+      "20261123": {
+        "date": "20261123",
+        "combined_american": "+425",
+        "combined_decimal": 5.25,
+        "core3_american": "+197",
+        "core3_decimal": 2.97,
+        "status": "PENDING",
+        "legs": [
+          {
+            "rank": 1,
+            "player_name": "VJ Edgecombe",
+            "team": "PHI",
+            "outcome": "OVER",
+            "line": 2.5,
+            "raw_market": "ASSISTS",
+            "market": "Assists",
+            "odds_american": "-227",
+            "odds_decimal": 1.441,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 5.833333333333333
+          },
+          {
+            "rank": 2,
+            "player_name": "Keyonte George",
+            "team": "UTA",
+            "outcome": "OVER",
+            "line": 5.5,
+            "raw_market": "ASSISTS",
+            "market": "Assists",
+            "odds_american": "-299",
+            "odds_decimal": 1.334,
+            "is_alt": true,
+            "cushion": 1.0,
+            "recent_avg": 8.2
+          },
+          {
+            "rank": 3,
+            "player_name": "Moussa Diabate",
+            "team": "CHA",
+            "outcome": "OVER",
+            "line": 1.5,
+            "raw_market": "ASSISTS",
+            "market": "Assists",
+            "odds_american": "-184",
+            "odds_decimal": 1.543,
+            "is_alt": false,
+            "cushion": 0.0,
+            "recent_avg": 2.142857142857143
+          },
+          {
+            "rank": 4,
+            "player_name": "Jeremiah Fears",
+            "team": "NOP",
+            "outcome": "OVER",
+            "line": 4.5,
+            "raw_market": "REBOUNDS",
+            "market": "Rebounds",
+            "odds_american": "-130",
+            "odds_decimal": 1.769,
+            "is_alt": false,
+            "cushion": 0.0,
+            "recent_avg": 6.5
+          }
+        ]
       }
     },
     "summary": {
