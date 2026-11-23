@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-23T02:48:46.590312+00:00",
+  "updatedAt": "2026-11-23T03:43:53.719534+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -18,12 +18,12 @@
   ],
   "overall": {
     "wins": 28,
-    "losses": 17,
-    "pending": 3,
+    "losses": 18,
+    "pending": 2,
     "total": 48,
-    "units": 6.64,
+    "units": 5.64,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 66.4
+    "dollarPnl": 56.4
   },
   "summary": {
     "NFL": {
@@ -37,12 +37,12 @@
     },
     "NBA": {
       "wins": 9,
-      "losses": 8,
-      "pending": 1,
+      "losses": 9,
+      "pending": 0,
       "total": 18,
-      "units": -0.24,
+      "units": -1.24,
       "unitSizeDollars": 10.0,
-      "dollarPnl": -2.4
+      "dollarPnl": -12.4
     },
     "NHL": {
       "wins": 4,
@@ -94,14 +94,14 @@
     "NBA": {
       "Jazz": {
         "wins": 0,
-        "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
         "staked": 203847.46,
         "winRate": 0.0,
         "picks": [
-          "Jazz ML (OPEN)"
+          "Jazz ML (L)"
         ]
       },
       "NBA Totals (Over/Under)": {
@@ -668,49 +668,6 @@
       "dollarPnl": 0.0
     },
     {
-      "signalKey": "nba-dal-uta-2026-11-22::TEAM::Jazz",
-      "sport": "NBA",
-      "eventSlug": "nba-dal-uta-2026-11-22",
-      "eventTitle": "Mavericks vs. Jazz",
-      "family": "TEAM",
-      "side": "Jazz",
-      "pickLabel": "Jazz ML",
-      "primaryTitle": "Mavericks vs. Jazz",
-      "tier": 1,
-      "tierLabel": "Top NBA Sharp Consensus (86% Conviction)",
-      "nAligned": 2,
-      "totalStake": 203847.4634,
-      "avgEntry": 0.45385439690322876,
-      "curPrice": 0.45615379697680364,
-      "convictionPct": 85.9,
-      "startEt": "7:00 PM ET",
-      "alignedNames": [
-        "BreakTheBank",
-        "robloxgamblemaster-2008-10-18"
-      ],
-      "whaleDetails": [
-        {
-          "name": "BreakTheBank",
-          "netCost": 117365.8548,
-          "avgPrice": 0.4399,
-          "pickLabel": "Jazz ML"
-        },
-        {
-          "name": "robloxgamblemaster-2008-10-18",
-          "netCost": 86481.60859999999,
-          "avgPrice": 0.47279217740105733,
-          "pickLabel": "Jazz ML"
-        }
-      ],
-      "exitWarned": false,
-      "alertedAt": "2026-11-22T23:29:13.137196+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    },
-    {
       "signalKey": "nfl-bal-car-2026-11-22::TEAM::Ravens",
       "sport": "NFL",
       "eventSlug": "nfl-bal-car-2026-11-22",
@@ -794,11 +751,11 @@
       ],
       "exitWarned": false,
       "alertedAt": "2026-11-22T23:29:13.137196+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": false,
+      "unitsPnl": -1.0,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": -10.0
     },
     {
       "signalKey": "nfl-min-sf-2026-11-23::TEAM::49ers",
@@ -2537,14 +2494,14 @@
     {
       "name": "BreakTheBank",
       "wins": 7,
-      "losses": 1,
+      "losses": 2,
       "NFL_w": 5,
       "NFL_l": 0,
       "NBA_w": 2,
-      "NBA_l": 1,
-      "staked": 1094666.22,
-      "dollarPnl": 281561.39,
-      "units": 4.13,
+      "NBA_l": 2,
+      "staked": 1212032.07,
+      "dollarPnl": 164195.54,
+      "units": 3.13,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2555,7 +2512,7 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 41.3
+      "unitDollarPnl": 31.3
     },
     {
       "name": "primm",
@@ -2579,29 +2536,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 40.8
-    },
-    {
-      "name": "robloxgamblemaster-2008-10-18",
-      "wins": 4,
-      "losses": 1,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 3,
-      "NBA_l": 1,
-      "staked": 616825.59,
-      "dollarPnl": 294374.66,
-      "units": 2.16,
-      "NHL_w": 1,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 21.6
     },
     {
       "name": "nigiri99",
@@ -2694,6 +2628,29 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 13.0
+    },
+    {
+      "name": "robloxgamblemaster-2008-10-18",
+      "wins": 4,
+      "losses": 2,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 3,
+      "NBA_l": 2,
+      "staked": 703307.2,
+      "dollarPnl": 207893.05,
+      "units": 1.16,
+      "NHL_w": 1,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 11.6
     },
     {
       "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
