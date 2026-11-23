@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-22T23:33:08.742522+00:00",
+  "updatedAt": "2026-11-23T00:18:04.185717+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -633,8 +633,8 @@
       "whaleDetails": [
         {
           "name": "gmpm2",
-          "netCost": 46881.763999999996,
-          "avgPrice": 0.5725138778907722,
+          "netCost": 52068.4963,
+          "avgPrice": 0.5797523119890828,
           "pickLabel": "49ers ML"
         },
         {
@@ -661,8 +661,8 @@
       "won": null,
       "unitsPnl": 0.0,
       "tierLabel": "Proven Historical Pair (92% Conviction)",
-      "curPrice": 0.6300895132609416,
-      "convictionPct": 91.7,
+      "curPrice": 0.6312558108588829,
+      "convictionPct": 91.9,
       "startEt": "8:20 PM ET",
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -822,8 +822,8 @@
       "whaleDetails": [
         {
           "name": "gmpm2",
-          "netCost": 46881.763999999996,
-          "avgPrice": 0.5725138778907722,
+          "netCost": 52068.4963,
+          "avgPrice": 0.5797523119890828,
           "pickLabel": "49ers ML"
         },
         {
@@ -850,8 +850,8 @@
       "won": null,
       "unitsPnl": 0.0,
       "tierLabel": "Proven Historical Pair (92% Conviction)",
-      "curPrice": 0.6300895132609416,
-      "convictionPct": 91.7,
+      "curPrice": 0.6312558108588829,
+      "convictionPct": 91.9,
       "startEt": "8:20 PM ET",
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
