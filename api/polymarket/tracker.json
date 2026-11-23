@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-23T03:52:26.596687+00:00",
+  "updatedAt": "2026-11-23T04:57:09.310289+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -17,23 +17,23 @@
     "SOCCER"
   ],
   "overall": {
-    "wins": 28,
+    "wins": 29,
     "losses": 18,
-    "pending": 2,
+    "pending": 1,
     "total": 48,
-    "units": 5.64,
+    "units": 6.49,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 56.4
+    "dollarPnl": 64.9
   },
   "summary": {
     "NFL": {
-      "wins": 11,
+      "wins": 12,
       "losses": 2,
-      "pending": 2,
+      "pending": 1,
       "total": 15,
-      "units": 5.61,
+      "units": 6.46,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 56.1
+      "dollarPnl": 64.6
     },
     "NBA": {
       "wins": 9,
@@ -267,15 +267,15 @@
     },
     "NFL": {
       "49ers": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "pending": 0,
+        "units": 0.85,
+        "dollarPnl": 8.5,
         "staked": 125505.59,
-        "winRate": 0.0,
+        "winRate": 100.0,
         "picks": [
-          "49ers (-3.5) (OPEN)"
+          "49ers (-3.5) (W)"
         ]
       },
       "Ravens": {
@@ -612,62 +612,6 @@
   },
   "activePicks": [
     {
-      "signalKey": "nfl-min-sf-2026-11-23::TEAM::49ers",
-      "sport": "NFL",
-      "eventSlug": "nfl-min-sf-2026-11-23",
-      "eventTitle": "Vikings vs. 49ers",
-      "family": "TEAM",
-      "side": "49ers",
-      "pickLabel": "49ers (-3.5)",
-      "primaryTitle": "Spread: 49ers (-3.5)",
-      "tier": 0,
-      "nAligned": 4,
-      "totalStake": 125505.5883,
-      "avgEntry": 0.5393749819661782,
-      "alignedNames": [
-        "gmpm2",
-        "BreakTheBank",
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "darkumbreon88"
-      ],
-      "whaleDetails": [
-        {
-          "name": "gmpm2",
-          "netCost": 52068.4963,
-          "avgPrice": 0.5797523119890828,
-          "pickLabel": "49ers ML"
-        },
-        {
-          "name": "BreakTheBank",
-          "netCost": 40283.0684,
-          "avgPrice": 0.6299,
-          "pickLabel": "49ers ML"
-        },
-        {
-          "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "netCost": 13798.8264,
-          "avgPrice": 0.5699,
-          "pickLabel": "49ers (-2.5)"
-        },
-        {
-          "name": "darkumbreon88",
-          "netCost": 2379.6766,
-          "avgPrice": 0.61,
-          "pickLabel": "49ers ML"
-        }
-      ],
-      "alertedAt": "2026-11-22T19:38:00.307935+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "tierLabel": "Proven Historical Pair (92% Conviction)",
-      "curPrice": 0.6312558108588829,
-      "convictionPct": 91.9,
-      "startEt": "8:20 PM ET",
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    },
-    {
       "signalKey": "nfl-bal-car-2026-11-22::TEAM::Ravens",
       "sport": "NFL",
       "eventSlug": "nfl-bal-car-2026-11-22",
@@ -803,15 +747,15 @@
         }
       ],
       "alertedAt": "2026-11-22T19:38:00.307935+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 0.85,
       "tierLabel": "Proven Historical Pair (92% Conviction)",
       "curPrice": 0.6312558108588829,
       "convictionPct": 91.9,
       "startEt": "8:20 PM ET",
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 8.5
     },
     {
       "signalKey": "nhl-car-nyr-2026-11-22::TEAM::Hurricanes",
@@ -2470,15 +2414,15 @@
   "sharps": [
     {
       "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-      "wins": 9,
+      "wins": 10,
       "losses": 2,
-      "NFL_w": 3,
+      "NFL_w": 4,
       "NFL_l": 0,
       "NBA_w": 5,
       "NBA_l": 1,
-      "staked": 363027.93,
-      "dollarPnl": 339166.31,
-      "units": 5.5,
+      "staked": 376826.76,
+      "dollarPnl": 349580.2,
+      "units": 6.35,
       "NHL_w": 1,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2489,19 +2433,19 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 55.0
+      "unitDollarPnl": 63.5
     },
     {
       "name": "BreakTheBank",
-      "wins": 7,
+      "wins": 8,
       "losses": 2,
-      "NFL_w": 5,
+      "NFL_w": 6,
       "NFL_l": 0,
       "NBA_w": 2,
       "NBA_l": 2,
-      "staked": 1212032.07,
-      "dollarPnl": 164195.54,
-      "units": 3.13,
+      "staked": 1252315.14,
+      "dollarPnl": 187864.0,
+      "units": 3.98,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2512,7 +2456,7 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 31.3
+      "unitDollarPnl": 39.8
     },
     {
       "name": "primm",
@@ -2722,6 +2666,29 @@
       "unitDollarPnl": 9.2
     },
     {
+      "name": "darkumbreon88",
+      "wins": 1,
+      "losses": 0,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "staked": 2379.68,
+      "dollarPnl": 1521.43,
+      "units": 0.85,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 8.5
+    },
+    {
       "name": "jakepaulthegoat2008",
       "wins": 1,
       "losses": 0,
@@ -2860,6 +2827,29 @@
       "unitDollarPnl": 3.5
     },
     {
+      "name": "gmpm2",
+      "wins": 6,
+      "losses": 5,
+      "NFL_w": 6,
+      "NFL_l": 2,
+      "NBA_w": 0,
+      "NBA_l": 1,
+      "staked": 500671.68,
+      "dollarPnl": 254370.89,
+      "units": -0.54,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 2,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": -5.4
+    },
+    {
       "name": "keeptheblueflagflyinghigh",
       "wins": 4,
       "losses": 4,
@@ -2927,29 +2917,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": -5.9
-    },
-    {
-      "name": "gmpm2",
-      "wins": 5,
-      "losses": 5,
-      "NFL_w": 5,
-      "NFL_l": 2,
-      "NBA_w": 0,
-      "NBA_l": 1,
-      "staked": 448603.18,
-      "dollarPnl": 216627.76,
-      "units": -1.39,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 2,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": -13.9
     },
     {
       "name": "bands1",
