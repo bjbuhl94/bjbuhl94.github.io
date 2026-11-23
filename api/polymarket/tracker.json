@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-23T14:17:23.904287+00:00",
+  "updatedAt": "2026-11-23T14:21:30.152874+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -4660,8 +4660,8 @@
         "combined_american": "+447",
         "combined_decimal": 5.47,
         "core3_american": "+196",
-        "core3_decimal": 2.96,
-        "status": "PENDING",
+        "core3_decimal": 1.93,
+        "status": "SETTLED",
         "legs": [
           {
             "rank": 1,
@@ -4675,7 +4675,10 @@
             "odds_decimal": 1.535,
             "is_alt": true,
             "cushion": 3.0,
-            "recent_avg": 37.75
+            "recent_avg": 37.75,
+            "status": "VOID",
+            "actual": null,
+            "hit": null
           },
           {
             "rank": 2,
@@ -4689,7 +4692,11 @@
             "odds_decimal": 1.373,
             "is_alt": true,
             "cushion": 3.0,
-            "recent_avg": 15.666666666666666
+            "recent_avg": 15.666666666666666,
+            "status": "SETTLED",
+            "actual": 15.0,
+            "minutes": "27",
+            "hit": true
           },
           {
             "rank": 3,
@@ -4703,7 +4710,11 @@
             "odds_decimal": 1.405,
             "is_alt": true,
             "cushion": 1.0,
-            "recent_avg": 4.0
+            "recent_avg": 4.0,
+            "status": "SETTLED",
+            "actual": 4.0,
+            "minutes": "29",
+            "hit": true
           },
           {
             "rank": 4,
@@ -4717,28 +4728,36 @@
             "odds_decimal": 1.847,
             "is_alt": true,
             "cushion": 1.0,
-            "recent_avg": 6.25
+            "recent_avg": 6.25,
+            "status": "SETTLED",
+            "actual": 2.0,
+            "minutes": "27",
+            "hit": true
           }
-        ]
+        ],
+        "won_400": true,
+        "units_400": 2.56,
+        "won_core3": true,
+        "units_core3": 0.93
       }
     },
     "summary": {
       "parlay_400": {
-        "wins": 6,
+        "wins": 7,
         "losses": 13,
-        "winRate": 31.6,
-        "units": 11.35
+        "winRate": 35.0,
+        "units": 13.91
       },
       "parlay_core3": {
-        "wins": 9,
+        "wins": 10,
         "losses": 10,
-        "winRate": 47.4,
-        "units": 7.42
+        "winRate": 50.0,
+        "units": 8.35
       },
       "legs": {
-        "wins": 54,
+        "wins": 57,
         "losses": 22,
-        "winRate": 71.1
+        "winRate": 72.2
       },
       "markets": {
         "THREE_POINTS_MADE": {
@@ -4746,7 +4765,7 @@
           "losses": 5
         },
         "ASSISTS": {
-          "wins": 10,
+          "wins": 11,
           "losses": 3
         },
         "REBOUNDS": {
@@ -4754,13 +4773,13 @@
           "losses": 7
         },
         "POINTS": {
-          "wins": 23,
+          "wins": 25,
           "losses": 7
         }
       },
       "by_alt": {
         "alt": {
-          "wins": 41,
+          "wins": 44,
           "losses": 14
         },
         "exact": {
