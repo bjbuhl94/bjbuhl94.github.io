@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "nfl-hybrid-2026.7-0db56496dea1a5bad4e303b49324f92a-spreads-Cincinnati Bengals--6",
+    "market": "spread",
+    "title": "Cincinnati Bengals -6",
+    "selection": "Cincinnati Bengals -6",
+    "game": "Cincinnati Bengals at Washington Commanders",
+    "kickoff": "2026-11-24T01:15:00.000Z",
+    "confidence": 55.1,
+    "odds": -112,
+    "impliedProbability": 52.8,
+    "edge": 2.3,
+    "rationale": "Offered at DraftKings. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Washington Commanders QB1: Jayden Daniels (ESPN depth chart); Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); Rachaad White Questionable; Austin Ekeler is an observed rushing option (not a confirmed starter). Offered odds imply 52.8%. Injury and depth-chart feeds checked 2026-11-23T01:47:35.295Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
+    "updatedAt": "2026-11-23T01:47:34.457Z",
+    "status": "qualified",
+    "line": "Cincinnati Bengals -6"
+  }
+]
