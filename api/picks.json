@@ -10,9 +10,9 @@
     "odds": -120,
     "impliedProbability": 54.5,
     "edge": 2.2,
-    "rationale": "Offered at FanDuel. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Washington Commanders QB1: Jayden Daniels (ESPN depth chart); Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); Rachaad White Questionable; Austin Ekeler is an observed rushing option (not a confirmed starter). Offered odds imply 54.5%. Injury and depth-chart feeds checked 2026-11-23T11:25:49.281Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "rationale": "Offered at FanDuel. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Washington Commanders QB1: Jayden Daniels (ESPN depth chart); Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); Rachaad White Questionable; Austin Ekeler is an observed rushing option (not a confirmed starter). Offered odds imply 54.5%. Injury and depth-chart feeds checked 2026-11-23T12:25:39.390Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-23T11:25:48.641Z",
+    "updatedAt": "2026-11-23T12:25:38.728Z",
     "status": "qualified",
     "line": "Cincinnati Bengals -5.5"
   }
