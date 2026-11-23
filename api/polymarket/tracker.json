@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-23T14:00:20.268701+00:00",
+  "updatedAt": "2026-11-23T14:06:59.892655+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -18,22 +18,22 @@
   ],
   "overall": {
     "wins": 29,
-    "losses": 18,
-    "pending": 1,
+    "losses": 19,
+    "pending": 0,
     "total": 48,
-    "units": 6.49,
+    "units": 5.49,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 64.9
+    "dollarPnl": 54.9
   },
   "summary": {
     "NFL": {
       "wins": 12,
-      "losses": 2,
-      "pending": 1,
+      "losses": 3,
+      "pending": 0,
       "total": 15,
-      "units": 6.46,
+      "units": 5.46,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 64.6
+      "dollarPnl": 54.6
     },
     "NBA": {
       "wins": 9,
@@ -280,14 +280,14 @@
       },
       "Ravens": {
         "wins": 0,
-        "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
         "staked": 39883.07,
         "winRate": 0.0,
         "picks": [
-          "Ravens ML (OPEN)"
+          "Ravens ML (L)"
         ]
       },
       "Bengals": {
@@ -610,53 +610,7 @@
       }
     }
   },
-  "activePicks": [
-    {
-      "signalKey": "nfl-bal-car-2026-11-22::TEAM::Ravens",
-      "sport": "NFL",
-      "eventSlug": "nfl-bal-car-2026-11-22",
-      "eventTitle": "Ravens vs. Panthers",
-      "family": "TEAM",
-      "side": "Ravens",
-      "pickLabel": "Ravens ML",
-      "primaryTitle": "Ravens vs. Panthers",
-      "tier": 1,
-      "nAligned": 3,
-      "totalStake": 39883.0746,
-      "avgEntry": 0.4193754021384607,
-      "alignedNames": [
-        "BreakTheBank",
-        "HomeRunHazard",
-        "0x448861155279dbf833d041b963e3ac854599e319"
-      ],
-      "whaleDetails": [
-        {
-          "name": "BreakTheBank",
-          "netCost": 27185.9214,
-          "avgPrice": 0.42689999999999995,
-          "pickLabel": "Ravens ML"
-        },
-        {
-          "name": "HomeRunHazard",
-          "netCost": 6354.3376,
-          "avgPrice": 0.4186,
-          "pickLabel": "Ravens ML"
-        },
-        {
-          "name": "0x448861155279dbf833d041b963e3ac854599e319",
-          "netCost": 6342.8156,
-          "avgPrice": 0.4242042726955518,
-          "pickLabel": "Ravens (-1.5)"
-        }
-      ],
-      "alertedAt": "2026-11-22T15:39:19.093362+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    }
-  ],
+  "activePicks": [],
   "picks": [
     {
       "signalKey": "nba-dal-uta-2026-11-22::TEAM::Jazz",
@@ -823,11 +777,11 @@
         }
       ],
       "alertedAt": "2026-11-22T15:39:19.093362+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": false,
+      "unitsPnl": -1.0,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": -10.0
     },
     {
       "signalKey": "nhl-cbj-tor-2026-11-21::TEAM::Maple Leafs",
@@ -2438,14 +2392,14 @@
     {
       "name": "BreakTheBank",
       "wins": 8,
-      "losses": 2,
+      "losses": 3,
       "NFL_w": 6,
-      "NFL_l": 0,
+      "NFL_l": 1,
       "NBA_w": 2,
       "NBA_l": 2,
-      "staked": 1252315.14,
-      "dollarPnl": 187864.0,
-      "units": 3.98,
+      "staked": 1279501.06,
+      "dollarPnl": 160678.08,
+      "units": 2.98,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2456,7 +2410,7 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 39.8
+      "unitDollarPnl": 29.8
     },
     {
       "name": "primm",
@@ -2620,29 +2574,6 @@
       "unitDollarPnl": 12.6
     },
     {
-      "name": "HomeRunHazard",
-      "wins": 9,
-      "losses": 8,
-      "NFL_w": 3,
-      "NFL_l": 2,
-      "NBA_w": 3,
-      "NBA_l": 2,
-      "staked": 199218.54,
-      "dollarPnl": 34317.98,
-      "units": 1.14,
-      "NHL_w": 1,
-      "NHL_l": 1,
-      "CFB_w": 2,
-      "CFB_l": 3,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 11.4
-    },
-    {
       "name": "RJW1",
       "wins": 1,
       "losses": 0,
@@ -2804,29 +2735,6 @@
       "unitDollarPnl": 5.1
     },
     {
-      "name": "0x448861155279dbf833d041b963e3ac854599e319",
-      "wins": 2,
-      "losses": 1,
-      "NFL_w": 2,
-      "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "staked": 24631.81,
-      "dollarPnl": 18447.43,
-      "units": 0.35,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 1,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 3.5
-    },
-    {
       "name": "gmpm2",
       "wins": 6,
       "losses": 5,
@@ -2848,6 +2756,29 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": -5.4
+    },
+    {
+      "name": "HomeRunHazard",
+      "wins": 9,
+      "losses": 9,
+      "NFL_w": 3,
+      "NFL_l": 3,
+      "NBA_w": 3,
+      "NBA_l": 2,
+      "staked": 205572.88,
+      "dollarPnl": 27963.64,
+      "units": 0.14,
+      "NHL_w": 1,
+      "NHL_l": 1,
+      "CFB_w": 2,
+      "CFB_l": 3,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 1.4
     },
     {
       "name": "keeptheblueflagflyinghigh",
@@ -2917,6 +2848,29 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": -5.9
+    },
+    {
+      "name": "0x448861155279dbf833d041b963e3ac854599e319",
+      "wins": 2,
+      "losses": 2,
+      "NFL_w": 2,
+      "NFL_l": 1,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "staked": 30974.63,
+      "dollarPnl": 12104.61,
+      "units": -0.65,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 1,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": -6.5
     },
     {
       "name": "bands1",
