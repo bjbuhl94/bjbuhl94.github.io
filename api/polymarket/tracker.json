@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-24T22:38:39.634693+00:00",
+  "updatedAt": "2026-11-24T22:56:06.824941+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -19,8 +19,8 @@
   "overall": {
     "wins": 30,
     "losses": 19,
-    "pending": 1,
-    "total": 50,
+    "pending": 2,
+    "total": 51,
     "units": 6.48,
     "unitSizeDollars": 10.0,
     "dollarPnl": 64.8
@@ -47,8 +47,8 @@
     "NHL": {
       "wins": 4,
       "losses": 1,
-      "pending": 0,
-      "total": 5,
+      "pending": 1,
+      "total": 6,
       "units": 2.88,
       "unitSizeDollars": 10.0,
       "dollarPnl": 28.8
@@ -91,6 +91,80 @@
     }
   },
   "teams": {
+    "NHL": {
+      "NHL Totals (Over/Under)": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 36288.5,
+        "winRate": 0.0,
+        "picks": [
+          "Under 6.5 (OPEN)"
+        ]
+      },
+      "Hurricanes": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.26,
+        "dollarPnl": 12.6,
+        "staked": 53740.04,
+        "winRate": 100.0,
+        "picks": [
+          "Hurricanes (-1.5) (W)"
+        ]
+      },
+      "Maple Leafs": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.92,
+        "dollarPnl": 9.2,
+        "staked": 50801.08,
+        "winRate": 100.0,
+        "picks": [
+          "Maple Leafs ML (W)"
+        ]
+      },
+      "Red Wings": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 22397.6,
+        "winRate": 0.0,
+        "picks": [
+          "Red Wings (+1.5) (L)"
+        ]
+      },
+      "Avalanche": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.03,
+        "dollarPnl": 10.3,
+        "staked": 56229.33,
+        "winRate": 100.0,
+        "picks": [
+          "Avalanche ML (W)"
+        ]
+      },
+      "Kraken": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.67,
+        "dollarPnl": 6.7,
+        "staked": 44922.6,
+        "winRate": 100.0,
+        "picks": [
+          "Kraken ML (W)"
+        ]
+      }
+    },
     "CFB": {
       "Miami (OH)": {
         "wins": 0,
@@ -559,71 +633,38 @@
           "Clippers (+2.5) (L)"
         ]
       }
-    },
-    "NHL": {
-      "Hurricanes": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.26,
-        "dollarPnl": 12.6,
-        "staked": 53740.04,
-        "winRate": 100.0,
-        "picks": [
-          "Hurricanes (-1.5) (W)"
-        ]
-      },
-      "Maple Leafs": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.92,
-        "dollarPnl": 9.2,
-        "staked": 50801.08,
-        "winRate": 100.0,
-        "picks": [
-          "Maple Leafs ML (W)"
-        ]
-      },
-      "Red Wings": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 22397.6,
-        "winRate": 0.0,
-        "picks": [
-          "Red Wings (+1.5) (L)"
-        ]
-      },
-      "Avalanche": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.03,
-        "dollarPnl": 10.3,
-        "staked": 56229.33,
-        "winRate": 100.0,
-        "picks": [
-          "Avalanche ML (W)"
-        ]
-      },
-      "Kraken": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.67,
-        "dollarPnl": 6.7,
-        "staked": 44922.6,
-        "winRate": 100.0,
-        "picks": [
-          "Kraken ML (W)"
-        ]
-      }
     }
   },
   "activePicks": [
+    {
+      "signalKey": "nhl-las-edm-2026-11-24::TOTAL::Under",
+      "sport": "NHL",
+      "eventSlug": "nhl-las-edm-2026-11-24",
+      "eventTitle": "Golden Knights vs. Oilers",
+      "family": "TOTAL",
+      "side": "Under",
+      "pickLabel": "Under 6.5",
+      "primaryTitle": "Golden Knights vs. Oilers",
+      "tier": 1,
+      "nAligned": 4,
+      "totalStake": 36288.5,
+      "avgEntry": 0.5089,
+      "curPrice": 0.5074,
+      "convictionPct": 91.0,
+      "startEt": "8:00 PM ET",
+      "alignedNames": [
+        "HomeRunHazard",
+        "Multicoloured-Serf",
+        "nigiri99",
+        "CUTJALENHURTS"
+      ],
+      "alertedAt": "2026-11-24T22:55:59.644770+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "cfb-miaoh-wmich-2026-11-24::TEAM::Miami (OH)",
       "sport": "CFB",
@@ -654,6 +695,35 @@
     }
   ],
   "picks": [
+    {
+      "signalKey": "nhl-las-edm-2026-11-24::TOTAL::Under",
+      "sport": "NHL",
+      "eventSlug": "nhl-las-edm-2026-11-24",
+      "eventTitle": "Golden Knights vs. Oilers",
+      "family": "TOTAL",
+      "side": "Under",
+      "pickLabel": "Under 6.5",
+      "primaryTitle": "Golden Knights vs. Oilers",
+      "tier": 1,
+      "nAligned": 4,
+      "totalStake": 36288.5,
+      "avgEntry": 0.5089,
+      "curPrice": 0.5074,
+      "convictionPct": 91.0,
+      "startEt": "8:00 PM ET",
+      "alignedNames": [
+        "HomeRunHazard",
+        "Multicoloured-Serf",
+        "nigiri99",
+        "CUTJALENHURTS"
+      ],
+      "alertedAt": "2026-11-24T22:55:59.644770+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "cfb-miaoh-wmich-2026-11-24::TEAM::Miami (OH)",
       "sport": "CFB",
