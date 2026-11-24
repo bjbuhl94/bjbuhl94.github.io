@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-24T04:27:14.877326+00:00",
+  "updatedAt": "2026-11-24T04:29:43.571706+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -2482,6 +2482,40 @@
     }
   ],
   "sharps": [
+    {
+      "name": "NFL Pick Model",
+      "isModel": true,
+      "badge": "\ud83e\udd16",
+      "wins": 52,
+      "losses": 23,
+      "pushes": 2,
+      "units": 17.88,
+      "staked": 0.0,
+      "dollarPnl": 0.0,
+      "unitDollarPnl": 178.8,
+      "NFL_w": 52,
+      "NFL_l": 23,
+      "NFL_p": 2,
+      "NFL_u": 17.88,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "NBA_u": 0.0,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "NHL_u": 0.0,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "CFB_u": 0.0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "NCAAB_u": 0.0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "UFC_u": 0.0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "SOCCER_u": 0.0
+    },
     {
       "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
       "wins": 10,
