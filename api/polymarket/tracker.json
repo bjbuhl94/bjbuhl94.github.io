@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-24T03:53:30.122835+00:00",
+  "updatedAt": "2026-11-24T03:59:51.927139+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -4970,5 +4970,86 @@
         }
       }
     }
+  },
+  "modelVsWhales": {
+    "unitSizeDollars": 10.0,
+    "aligned": {
+      "games": 2,
+      "settledGames": 2,
+      "openGames": 0,
+      "model": {
+        "wins": 1,
+        "losses": 1,
+        "pushes": 0,
+        "units": -0.26,
+        "dollarPnl": -2.6
+      },
+      "whales": {
+        "wins": 2,
+        "losses": 0,
+        "units": 1.01,
+        "dollarPnl": 10.1
+      },
+      "combined": {
+        "wins": 3,
+        "losses": 1,
+        "pushes": 0,
+        "units": 0.75,
+        "dollarPnl": 7.5
+      }
+    },
+    "opposite": {
+      "games": 0,
+      "settledGames": 0,
+      "openGames": 0,
+      "model": {
+        "wins": 0,
+        "losses": 0,
+        "pushes": 0,
+        "units": 0.0,
+        "dollarPnl": 0.0
+      },
+      "whales": {
+        "wins": 0,
+        "losses": 0,
+        "units": 0.0,
+        "dollarPnl": 0.0
+      },
+      "combined": {
+        "wins": 0,
+        "losses": 0,
+        "pushes": 0,
+        "units": 0.0,
+        "dollarPnl": 0.0
+      }
+    },
+    "matchups": [
+      {
+        "date": "2026-11-15",
+        "game": "Miami Dolphins at Indianapolis Colts",
+        "family": "TEAM",
+        "relation": "ALIGNED",
+        "status": "SETTLED",
+        "modelPick": "Indianapolis Colts",
+        "modelResult": "WIN",
+        "modelUnits": 0.74,
+        "whalePick": "Colts ML",
+        "whaleResult": "WIN",
+        "whaleUnits": 0.69
+      },
+      {
+        "date": "2026-11-01",
+        "game": "New England Patriots at Miami Dolphins",
+        "family": "TEAM",
+        "relation": "ALIGNED",
+        "status": "SETTLED",
+        "modelPick": "New England Patriots -7.5",
+        "modelResult": "LOSS",
+        "modelUnits": -1.0,
+        "whalePick": "Patriots ML",
+        "whaleResult": "WIN",
+        "whaleUnits": 0.32
+      }
+    ]
   }
 }
