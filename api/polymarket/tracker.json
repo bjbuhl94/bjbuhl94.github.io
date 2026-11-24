@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-24T04:55:43.248844+00:00",
+  "updatedAt": "2026-11-24T04:59:12.991526+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -17,23 +17,23 @@
     "SOCCER"
   ],
   "overall": {
-    "wins": 29,
+    "wins": 30,
     "losses": 19,
-    "pending": 1,
+    "pending": 0,
     "total": 49,
-    "units": 5.49,
+    "units": 6.48,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 54.9
+    "dollarPnl": 64.8
   },
   "summary": {
     "NFL": {
-      "wins": 12,
+      "wins": 13,
       "losses": 3,
-      "pending": 1,
+      "pending": 0,
       "total": 16,
-      "units": 5.46,
+      "units": 6.45,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 54.6
+      "dollarPnl": 64.5
     },
     "NBA": {
       "wins": 9,
@@ -93,15 +93,15 @@
   "teams": {
     "NFL": {
       "NFL Totals (Over/Under)": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
-        "pending": 1,
-        "units": -0.08,
-        "dollarPnl": -0.8,
+        "pending": 0,
+        "units": 0.91,
+        "dollarPnl": 9.1,
         "staked": 140603.06,
-        "winRate": 50.0,
+        "winRate": 66.7,
         "picks": [
-          "Under 54.5 (OPEN)",
+          "Under 54.5 (W)",
           "Under 44.5 (L)",
           "Over 46.5 (W)"
         ]
@@ -611,65 +611,7 @@
       }
     }
   },
-  "activePicks": [
-    {
-      "signalKey": "nfl-cin-was-2026-11-24::TOTAL::Under",
-      "sport": "NFL",
-      "eventSlug": "nfl-cin-was-2026-11-24",
-      "eventTitle": "Bengals vs. Commanders",
-      "family": "TOTAL",
-      "side": "Under",
-      "pickLabel": "Under 54.5",
-      "primaryTitle": "Bengals vs. Commanders: O/U 54.5",
-      "tier": 1,
-      "tierLabel": "Top NFL Sharp Consensus (96% Conviction)",
-      "nAligned": 4,
-      "totalStake": 110087.7838,
-      "avgEntry": 0.5023391701546815,
-      "curPrice": 0.515,
-      "convictionPct": 96.2,
-      "startEt": "8:15 PM ET",
-      "alignedNames": [
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "BreakTheBank",
-        "keeptheblueflagflyinghigh",
-        "HomeRunHazard"
-      ],
-      "whaleDetails": [
-        {
-          "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "netCost": 75813.74,
-          "avgPrice": 0.5,
-          "pickLabel": "Under 54.5"
-        },
-        {
-          "name": "BreakTheBank",
-          "netCost": 15632.1363,
-          "avgPrice": 0.5099,
-          "pickLabel": "Under 54.5"
-        },
-        {
-          "name": "keeptheblueflagflyinghigh",
-          "netCost": 11067.9283,
-          "avgPrice": 0.5099,
-          "pickLabel": "Under 54.5"
-        },
-        {
-          "name": "HomeRunHazard",
-          "netCost": 7573.9792,
-          "avgPrice": 0.4991,
-          "pickLabel": "Under 54.5"
-        }
-      ],
-      "exitWarned": false,
-      "alertedAt": "2026-11-24T00:30:11.840156+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    }
-  ],
+  "activePicks": [],
   "picks": [
     {
       "signalKey": "nfl-cin-was-2026-11-24::TOTAL::Under",
@@ -722,11 +664,11 @@
       ],
       "exitWarned": false,
       "alertedAt": "2026-11-24T00:30:11.840156+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 0.99,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 9.9
     },
     {
       "signalKey": "nba-dal-uta-2026-11-22::TEAM::Jazz",
@@ -2518,15 +2460,15 @@
     },
     {
       "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-      "wins": 10,
+      "wins": 11,
       "losses": 2,
-      "NFL_w": 4,
+      "NFL_w": 5,
       "NFL_l": 0,
       "NBA_w": 5,
       "NBA_l": 1,
-      "staked": 376826.76,
-      "dollarPnl": 349580.2,
-      "units": 6.35,
+      "staked": 452640.5,
+      "dollarPnl": 425393.94,
+      "units": 7.34,
       "NHL_w": 1,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2537,19 +2479,19 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 63.5
+      "unitDollarPnl": 73.4
     },
     {
       "name": "BreakTheBank",
-      "wins": 8,
+      "wins": 9,
       "losses": 3,
-      "NFL_w": 6,
+      "NFL_w": 7,
       "NFL_l": 1,
       "NBA_w": 2,
       "NBA_l": 2,
-      "staked": 1279501.06,
-      "dollarPnl": 160678.08,
-      "units": 2.98,
+      "staked": 1295133.2,
+      "dollarPnl": 175703.2,
+      "units": 3.97,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2560,7 +2502,7 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 29.8
+      "unitDollarPnl": 39.7
     },
     {
       "name": "primm",
@@ -2724,6 +2666,29 @@
       "unitDollarPnl": 12.6
     },
     {
+      "name": "HomeRunHazard",
+      "wins": 10,
+      "losses": 9,
+      "NFL_w": 4,
+      "NFL_l": 3,
+      "NBA_w": 3,
+      "NBA_l": 2,
+      "staked": 213146.86,
+      "dollarPnl": 35564.93,
+      "units": 1.13,
+      "NHL_w": 1,
+      "NHL_l": 1,
+      "CFB_w": 2,
+      "CFB_l": 3,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 11.3
+    },
+    {
       "name": "RJW1",
       "wins": 1,
       "losses": 0,
@@ -2768,6 +2733,29 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 8.5
+    },
+    {
+      "name": "keeptheblueflagflyinghigh",
+      "wins": 5,
+      "losses": 4,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 1,
+      "NBA_l": 1,
+      "staked": 98758.45,
+      "dollarPnl": 74408.22,
+      "units": 0.76,
+      "NHL_w": 2,
+      "NHL_l": 1,
+      "CFB_w": 1,
+      "CFB_l": 2,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 7.6
     },
     {
       "name": "jakepaulthegoat2008",
@@ -2906,52 +2894,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": -5.4
-    },
-    {
-      "name": "HomeRunHazard",
-      "wins": 9,
-      "losses": 9,
-      "NFL_w": 3,
-      "NFL_l": 3,
-      "NBA_w": 3,
-      "NBA_l": 2,
-      "staked": 205572.88,
-      "dollarPnl": 27963.64,
-      "units": 0.14,
-      "NHL_w": 1,
-      "NHL_l": 1,
-      "CFB_w": 2,
-      "CFB_l": 3,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 1.4
-    },
-    {
-      "name": "keeptheblueflagflyinghigh",
-      "wins": 4,
-      "losses": 4,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 1,
-      "NBA_l": 1,
-      "staked": 87690.52,
-      "dollarPnl": 63770.07,
-      "units": -0.23,
-      "NHL_w": 2,
-      "NHL_l": 1,
-      "CFB_w": 1,
-      "CFB_l": 2,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": -2.3
     },
     {
       "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
