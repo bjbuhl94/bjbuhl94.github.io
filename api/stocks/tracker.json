@@ -1,6 +1,6 @@
 {
   "summary": {
-    "updated_at": "2026-11-24 10:16 AM ET",
+    "updated_at": "2026-11-24 11:34 AM ET",
     "total_sheet_trades": 48,
     "closed_count": 47,
     "open_count": 1,
@@ -28,9 +28,9 @@
       "open_positions": 1,
       "open_green": 1,
       "open_cost_dlr": 72.83,
-      "open_unrealized_dlr": 1.5,
-      "open_unrealized_pct": 2.06,
-      "combined_net_pnl_dlr": 16.35
+      "open_unrealized_dlr": 2.52,
+      "open_unrealized_pct": 3.46,
+      "combined_net_pnl_dlr": 17.37
     }
   },
   "activePositions": [
@@ -56,10 +56,10 @@
       "runner_active": false,
       "stagnation_warned": false,
       "atr_val": 3.386,
-      "highest_price_seen": 75.55,
+      "highest_price_seen": 75.69,
       "lowest_price_seen": 71.4,
-      "current_price": 74.33,
-      "current_pnl_pct": 2.06,
+      "current_price": 75.35,
+      "current_pnl_pct": 3.46,
       "days_held": 7,
       "robinhood_url": "https://robinhood.com/stocks/SHAK",
       "setup_type": "PULLBACK_SUPPORT_BOUNCE"
