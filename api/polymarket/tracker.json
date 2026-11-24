@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-23T23:36:59.891058+00:00",
+  "updatedAt": "2026-11-24T00:30:21.648218+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -19,8 +19,8 @@
   "overall": {
     "wins": 29,
     "losses": 19,
-    "pending": 0,
-    "total": 48,
+    "pending": 1,
+    "total": 49,
     "units": 5.49,
     "unitSizeDollars": 10.0,
     "dollarPnl": 54.9
@@ -29,8 +29,8 @@
     "NFL": {
       "wins": 12,
       "losses": 3,
-      "pending": 0,
-      "total": 15,
+      "pending": 1,
+      "total": 16,
       "units": 5.46,
       "unitSizeDollars": 10.0,
       "dollarPnl": 54.6
@@ -91,6 +91,167 @@
     }
   },
   "teams": {
+    "NFL": {
+      "NFL Totals (Over/Under)": {
+        "wins": 1,
+        "losses": 1,
+        "pending": 1,
+        "units": -0.08,
+        "dollarPnl": -0.8,
+        "staked": 140603.06,
+        "winRate": 50.0,
+        "picks": [
+          "Under 54.5 (OPEN)",
+          "Under 44.5 (L)",
+          "Over 46.5 (W)"
+        ]
+      },
+      "49ers": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.85,
+        "dollarPnl": 8.5,
+        "staked": 125505.59,
+        "winRate": 100.0,
+        "picks": [
+          "49ers (-3.5) (W)"
+        ]
+      },
+      "Ravens": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 39883.07,
+        "winRate": 0.0,
+        "picks": [
+          "Ravens ML (L)"
+        ]
+      },
+      "Bengals": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.75,
+        "dollarPnl": 7.5,
+        "staked": 144397.17,
+        "winRate": 100.0,
+        "picks": [
+          "Bengals (-3.5) (W)"
+        ]
+      },
+      "Colts": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.69,
+        "dollarPnl": 6.9,
+        "staked": 186429.06,
+        "winRate": 100.0,
+        "picks": [
+          "Colts ML (W)"
+        ]
+      },
+      "Chiefs": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.6,
+        "dollarPnl": 6.0,
+        "staked": 272998.72,
+        "winRate": 100.0,
+        "picks": [
+          "Chiefs ML (W)"
+        ]
+      },
+      "Bears": {
+        "wins": 2,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.79,
+        "dollarPnl": 17.9,
+        "staked": 283929.15,
+        "winRate": 100.0,
+        "picks": [
+          "Bears ML (W)",
+          "Bears (+2.5) (W)"
+        ]
+      },
+      "Buccaneers": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.28,
+        "dollarPnl": 2.8,
+        "staked": 34731.92,
+        "winRate": 100.0,
+        "picks": [
+          "Buccaneers (+14.5) (W)"
+        ]
+      },
+      "Browns": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.79,
+        "dollarPnl": 7.9,
+        "staked": 46925.56,
+        "winRate": 100.0,
+        "picks": [
+          "Browns (+3.5) (W)"
+        ]
+      },
+      "Commanders": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.43,
+        "dollarPnl": 4.3,
+        "staked": 257214.63,
+        "winRate": 100.0,
+        "picks": [
+          "Commanders ML (W)"
+        ]
+      },
+      "Eagles": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 312367.3,
+        "winRate": 0.0,
+        "picks": [
+          "Eagles (+5.5) (L)"
+        ]
+      },
+      "Patriots": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.32,
+        "dollarPnl": 3.2,
+        "staked": 84420.66,
+        "winRate": 100.0,
+        "picks": [
+          "Patriots ML (W)"
+        ]
+      },
+      "Broncos": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.04,
+        "dollarPnl": 10.4,
+        "staked": 12717.07,
+        "winRate": 100.0,
+        "picks": [
+          "Broncos ML (W)"
+        ]
+      }
+    },
     "NBA": {
       "Jazz": {
         "wins": 0,
@@ -262,166 +423,6 @@
         "winRate": 0.0,
         "picks": [
           "Clippers (+2.5) (L)"
-        ]
-      }
-    },
-    "NFL": {
-      "49ers": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.85,
-        "dollarPnl": 8.5,
-        "staked": 125505.59,
-        "winRate": 100.0,
-        "picks": [
-          "49ers (-3.5) (W)"
-        ]
-      },
-      "Ravens": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 39883.07,
-        "winRate": 0.0,
-        "picks": [
-          "Ravens ML (L)"
-        ]
-      },
-      "Bengals": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.75,
-        "dollarPnl": 7.5,
-        "staked": 144397.17,
-        "winRate": 100.0,
-        "picks": [
-          "Bengals (-3.5) (W)"
-        ]
-      },
-      "Colts": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.69,
-        "dollarPnl": 6.9,
-        "staked": 186429.06,
-        "winRate": 100.0,
-        "picks": [
-          "Colts ML (W)"
-        ]
-      },
-      "Chiefs": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.6,
-        "dollarPnl": 6.0,
-        "staked": 272998.72,
-        "winRate": 100.0,
-        "picks": [
-          "Chiefs ML (W)"
-        ]
-      },
-      "Bears": {
-        "wins": 2,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.79,
-        "dollarPnl": 17.9,
-        "staked": 283929.15,
-        "winRate": 100.0,
-        "picks": [
-          "Bears ML (W)",
-          "Bears (+2.5) (W)"
-        ]
-      },
-      "Buccaneers": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.28,
-        "dollarPnl": 2.8,
-        "staked": 34731.92,
-        "winRate": 100.0,
-        "picks": [
-          "Buccaneers (+14.5) (W)"
-        ]
-      },
-      "NFL Totals (Over/Under)": {
-        "wins": 1,
-        "losses": 1,
-        "pending": 0,
-        "units": -0.08,
-        "dollarPnl": -0.8,
-        "staked": 30515.28,
-        "winRate": 50.0,
-        "picks": [
-          "Under 44.5 (L)",
-          "Over 46.5 (W)"
-        ]
-      },
-      "Browns": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.79,
-        "dollarPnl": 7.9,
-        "staked": 46925.56,
-        "winRate": 100.0,
-        "picks": [
-          "Browns (+3.5) (W)"
-        ]
-      },
-      "Commanders": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.43,
-        "dollarPnl": 4.3,
-        "staked": 257214.63,
-        "winRate": 100.0,
-        "picks": [
-          "Commanders ML (W)"
-        ]
-      },
-      "Eagles": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 312367.3,
-        "winRate": 0.0,
-        "picks": [
-          "Eagles (+5.5) (L)"
-        ]
-      },
-      "Patriots": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.32,
-        "dollarPnl": 3.2,
-        "staked": 84420.66,
-        "winRate": 100.0,
-        "picks": [
-          "Patriots ML (W)"
-        ]
-      },
-      "Broncos": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.04,
-        "dollarPnl": 10.4,
-        "staked": 12717.07,
-        "winRate": 100.0,
-        "picks": [
-          "Broncos ML (W)"
         ]
       }
     },
@@ -610,8 +611,123 @@
       }
     }
   },
-  "activePicks": [],
+  "activePicks": [
+    {
+      "signalKey": "nfl-cin-was-2026-11-24::TOTAL::Under",
+      "sport": "NFL",
+      "eventSlug": "nfl-cin-was-2026-11-24",
+      "eventTitle": "Bengals vs. Commanders",
+      "family": "TOTAL",
+      "side": "Under",
+      "pickLabel": "Under 54.5",
+      "primaryTitle": "Bengals vs. Commanders: O/U 54.5",
+      "tier": 1,
+      "tierLabel": "Top NFL Sharp Consensus (96% Conviction)",
+      "nAligned": 4,
+      "totalStake": 110087.7838,
+      "avgEntry": 0.5023391701546815,
+      "curPrice": 0.515,
+      "convictionPct": 96.2,
+      "startEt": "8:15 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "BreakTheBank",
+        "keeptheblueflagflyinghigh",
+        "HomeRunHazard"
+      ],
+      "whaleDetails": [
+        {
+          "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "netCost": 75813.74,
+          "avgPrice": 0.5,
+          "pickLabel": "Under 54.5"
+        },
+        {
+          "name": "BreakTheBank",
+          "netCost": 15632.1363,
+          "avgPrice": 0.5099,
+          "pickLabel": "Under 54.5"
+        },
+        {
+          "name": "keeptheblueflagflyinghigh",
+          "netCost": 11067.9283,
+          "avgPrice": 0.5099,
+          "pickLabel": "Under 54.5"
+        },
+        {
+          "name": "HomeRunHazard",
+          "netCost": 7573.9792,
+          "avgPrice": 0.4991,
+          "pickLabel": "Under 54.5"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-24T00:30:11.840156+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    }
+  ],
   "picks": [
+    {
+      "signalKey": "nfl-cin-was-2026-11-24::TOTAL::Under",
+      "sport": "NFL",
+      "eventSlug": "nfl-cin-was-2026-11-24",
+      "eventTitle": "Bengals vs. Commanders",
+      "family": "TOTAL",
+      "side": "Under",
+      "pickLabel": "Under 54.5",
+      "primaryTitle": "Bengals vs. Commanders: O/U 54.5",
+      "tier": 1,
+      "tierLabel": "Top NFL Sharp Consensus (96% Conviction)",
+      "nAligned": 4,
+      "totalStake": 110087.7838,
+      "avgEntry": 0.5023391701546815,
+      "curPrice": 0.515,
+      "convictionPct": 96.2,
+      "startEt": "8:15 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "BreakTheBank",
+        "keeptheblueflagflyinghigh",
+        "HomeRunHazard"
+      ],
+      "whaleDetails": [
+        {
+          "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "netCost": 75813.74,
+          "avgPrice": 0.5,
+          "pickLabel": "Under 54.5"
+        },
+        {
+          "name": "BreakTheBank",
+          "netCost": 15632.1363,
+          "avgPrice": 0.5099,
+          "pickLabel": "Under 54.5"
+        },
+        {
+          "name": "keeptheblueflagflyinghigh",
+          "netCost": 11067.9283,
+          "avgPrice": 0.5099,
+          "pickLabel": "Under 54.5"
+        },
+        {
+          "name": "HomeRunHazard",
+          "netCost": 7573.9792,
+          "avgPrice": 0.4991,
+          "pickLabel": "Under 54.5"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-24T00:30:11.840156+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "nba-dal-uta-2026-11-22::TEAM::Jazz",
       "sport": "NBA",
