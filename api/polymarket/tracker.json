@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T17:31:48.501810+00:00",
+  "updatedAt": "2026-11-25T18:10:41.759862+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -108,7 +108,7 @@
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 102548.6,
+        "staked": 102662.9,
         "winRate": 0.0,
         "picks": [
           "Rams ML (OPEN)"
@@ -669,12 +669,12 @@
       "pickLabel": "Rams ML",
       "primaryTitle": "Packers vs. Rams",
       "tier": 0,
-      "tierLabel": "2 Top NFL Sharps Aligned (88% Conviction)",
+      "tierLabel": "2 Top NFL Sharps Aligned (84% Conviction)",
       "nAligned": 3,
-      "totalStake": 102548.5986,
+      "totalStake": 102662.8964,
       "avgEntry": 0.5505055856260734,
       "curPrice": 0.565,
-      "convictionPct": 87.7,
+      "convictionPct": 84.4,
       "startEt": "8:00 PM ET",
       "alignedNames": [
         "Multicoloured-Serf",
@@ -690,7 +690,7 @@
         },
         {
           "name": "gmpm2",
-          "netCost": 5531.5943,
+          "netCost": 5645.8921,
           "avgPrice": 0.5599,
           "pickLabel": "Rams ML"
         },
@@ -721,12 +721,12 @@
       "pickLabel": "Rams ML",
       "primaryTitle": "Packers vs. Rams",
       "tier": 0,
-      "tierLabel": "2 Top NFL Sharps Aligned (88% Conviction)",
+      "tierLabel": "2 Top NFL Sharps Aligned (84% Conviction)",
       "nAligned": 3,
-      "totalStake": 102548.5986,
+      "totalStake": 102662.8964,
       "avgEntry": 0.5505055856260734,
       "curPrice": 0.565,
-      "convictionPct": 87.7,
+      "convictionPct": 84.4,
       "startEt": "8:00 PM ET",
       "alignedNames": [
         "Multicoloured-Serf",
@@ -742,7 +742,7 @@
         },
         {
           "name": "gmpm2",
-          "netCost": 5531.5943,
+          "netCost": 5645.8921,
           "avgPrice": 0.5599,
           "pickLabel": "Rams ML"
         },
