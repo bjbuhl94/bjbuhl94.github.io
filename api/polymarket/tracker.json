@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T14:28:48.080591+00:00",
+  "updatedAt": "2026-11-25T14:31:28.657295+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -17,13 +17,13 @@
     "SOCCER"
   ],
   "overall": {
-    "wins": 32,
-    "losses": 20,
+    "wins": 31,
+    "losses": 21,
     "pending": 0,
     "total": 52,
-    "units": 8.79,
+    "units": 6.41,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 87.9
+    "dollarPnl": 64.1
   },
   "summary": {
     "NFL": {
@@ -45,13 +45,13 @@
       "dollarPnl": -22.4
     },
     "NHL": {
-      "wins": 5,
-      "losses": 1,
+      "wins": 4,
+      "losses": 2,
       "pending": 0,
       "total": 6,
-      "units": 3.85,
+      "units": 1.47,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 38.5
+      "dollarPnl": 14.7
     },
     "CFB": {
       "wins": 5,
@@ -268,15 +268,15 @@
     },
     "NHL": {
       "NHL Totals (Over/Under)": {
-        "wins": 1,
-        "losses": 0,
+        "wins": 0,
+        "losses": 1,
         "pending": 0,
-        "units": 0.97,
-        "dollarPnl": 9.7,
+        "units": -1.0,
+        "dollarPnl": -10.0,
         "staked": 36288.5,
-        "winRate": 100.0,
+        "winRate": 0.0,
         "picks": [
-          "Under 6.5 (W)"
+          "Under 6.5 (L)"
         ]
       },
       "Hurricanes": {
@@ -292,27 +292,27 @@
         ]
       },
       "Maple Leafs": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.92,
-        "dollarPnl": 9.2,
-        "staked": 50801.08,
-        "winRate": 100.0,
-        "picks": [
-          "Maple Leafs ML (W)"
-        ]
-      },
-      "Red Wings": {
         "wins": 0,
         "losses": 1,
         "pending": 0,
         "units": -1.0,
         "dollarPnl": -10.0,
-        "staked": 22397.6,
+        "staked": 50801.08,
         "winRate": 0.0,
         "picks": [
-          "Red Wings (+1.5) (L)"
+          "Maple Leafs ML (L)"
+        ]
+      },
+      "Red Wings": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.51,
+        "dollarPnl": 5.1,
+        "staked": 22397.6,
+        "winRate": 100.0,
+        "picks": [
+          "Red Wings (+1.5) (W)"
         ]
       },
       "Avalanche": {
@@ -712,10 +712,10 @@
       ],
       "alertedAt": "2026-11-24T22:55:59.644770+00:00",
       "status": "SETTLED",
-      "won": true,
-      "unitsPnl": 0.97,
+      "won": false,
+      "unitsPnl": -1.0,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 9.7
+      "dollarPnl": -10.0
     },
     {
       "signalKey": "cfb-miaoh-wmich-2026-11-24::TEAM::Miami (OH)",
@@ -995,10 +995,10 @@
       ],
       "alertedAt": "2026-11-21T23:24:06.552723+00:00",
       "status": "SETTLED",
-      "won": true,
-      "unitsPnl": 0.92,
+      "won": false,
+      "unitsPnl": -1.0,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 9.2
+      "dollarPnl": -10.0
     },
     {
       "signalKey": "cfb-arkst-loutch-2026-11-21::TEAM::Arkansas State",
@@ -1218,10 +1218,10 @@
       ],
       "alertedAt": "2026-11-21T15:39:43.512396+00:00",
       "status": "SETTLED",
-      "won": false,
-      "unitsPnl": -1.0,
+      "won": true,
+      "unitsPnl": 0.51,
       "unitSizeDollars": 10.0,
-      "dollarPnl": -10.0
+      "dollarPnl": 5.1
     },
     {
       "signalKey": "cfb-sdst-boise-2026-11-21::TEAM::Boise State",
@@ -2637,29 +2637,6 @@
       "unitDollarPnl": 39.7
     },
     {
-      "name": "nigiri99",
-      "wins": 12,
-      "losses": 8,
-      "NFL_w": 2,
-      "NFL_l": 0,
-      "NBA_w": 3,
-      "NBA_l": 4,
-      "staked": 462267.06,
-      "dollarPnl": 344263.31,
-      "units": 4.28,
-      "NHL_w": 3,
-      "NHL_l": 0,
-      "CFB_w": 4,
-      "CFB_l": 4,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 42.8
-    },
-    {
       "name": "primm",
       "wins": 5,
       "losses": 1,
@@ -2692,7 +2669,7 @@
       "NBA_l": 2,
       "staked": 213146.86,
       "dollarPnl": 35564.93,
-      "units": 4.44,
+      "units": 3.98,
       "NHL_w": 2,
       "NHL_l": 1,
       "CFB_w": 3,
@@ -2703,30 +2680,30 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 44.4
+      "unitDollarPnl": 39.8
     },
     {
-      "name": "Multicoloured-Serf",
-      "wins": 3,
-      "losses": 0,
-      "NFL_w": 1,
+      "name": "nigiri99",
+      "wins": 11,
+      "losses": 9,
+      "NFL_w": 2,
       "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "staked": 8325.24,
-      "dollarPnl": 9019.01,
-      "units": 2.27,
-      "NHL_w": 1,
-      "NHL_l": 0,
-      "CFB_w": 1,
-      "CFB_l": 0,
+      "NBA_w": 3,
+      "NBA_l": 4,
+      "staked": 462267.06,
+      "dollarPnl": 344263.31,
+      "units": 2.31,
+      "NHL_w": 2,
+      "NHL_l": 1,
+      "CFB_w": 4,
+      "CFB_l": 4,
       "NCAAB_w": 0,
       "NCAAB_l": 0,
       "UFC_w": 0,
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 22.7
+      "unitDollarPnl": 23.1
     },
     {
       "name": "googleplay",
@@ -2750,29 +2727,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 13.1
-    },
-    {
-      "name": "robloxgamblemaster-2008-10-18",
-      "wins": 4,
-      "losses": 2,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 3,
-      "NBA_l": 2,
-      "staked": 703307.2,
-      "dollarPnl": 207893.05,
-      "units": 1.16,
-      "NHL_w": 1,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 11.6
     },
     {
       "name": "drainedandpoor",
@@ -2821,29 +2775,6 @@
       "unitDollarPnl": 12.6
     },
     {
-      "name": "CUTJALENHURTS",
-      "wins": 1,
-      "losses": 0,
-      "units": 0.97,
-      "staked": 0.0,
-      "dollarPnl": 0.0,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "NHL_w": 1,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 9.7
-    },
-    {
       "name": "RJW1",
       "wins": 1,
       "losses": 0,
@@ -2888,29 +2819,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 8.5
-    },
-    {
-      "name": "keeptheblueflagflyinghigh",
-      "wins": 5,
-      "losses": 4,
-      "NFL_w": 1,
-      "NFL_l": 0,
-      "NBA_w": 1,
-      "NBA_l": 1,
-      "staked": 98758.45,
-      "dollarPnl": 74408.22,
-      "units": 0.76,
-      "NHL_w": 2,
-      "NHL_l": 1,
-      "CFB_w": 1,
-      "CFB_l": 2,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 7.6
     },
     {
       "name": "jakepaulthegoat2008",
@@ -3028,6 +2936,52 @@
       "unitDollarPnl": 5.1
     },
     {
+      "name": "keeptheblueflagflyinghigh",
+      "wins": 5,
+      "losses": 4,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 1,
+      "NBA_l": 1,
+      "staked": 98758.45,
+      "dollarPnl": 74408.22,
+      "units": 0.35,
+      "NHL_w": 2,
+      "NHL_l": 1,
+      "CFB_w": 1,
+      "CFB_l": 2,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 3.5
+    },
+    {
+      "name": "Multicoloured-Serf",
+      "wins": 2,
+      "losses": 1,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "staked": 8325.24,
+      "dollarPnl": 9019.01,
+      "units": 0.3,
+      "NHL_w": 0,
+      "NHL_l": 1,
+      "CFB_w": 1,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 3.0
+    },
+    {
       "name": "gmpm2",
       "wins": 6,
       "losses": 5,
@@ -3120,6 +3074,29 @@
       "unitDollarPnl": -6.5
     },
     {
+      "name": "robloxgamblemaster-2008-10-18",
+      "wins": 3,
+      "losses": 3,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 3,
+      "NBA_l": 2,
+      "staked": 703307.2,
+      "dollarPnl": 207893.05,
+      "units": -0.76,
+      "NHL_w": 0,
+      "NHL_l": 1,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": -7.6
+    },
+    {
       "name": "monkeymashingkeyboard",
       "wins": 2,
       "losses": 3,
@@ -3141,6 +3118,29 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 3.8
+    },
+    {
+      "name": "CUTJALENHURTS",
+      "wins": 0,
+      "losses": 1,
+      "units": -1.0,
+      "staked": 0.0,
+      "dollarPnl": 0.0,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "NHL_w": 0,
+      "NHL_l": 1,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": -10.0
     },
     {
       "name": "bands1",
