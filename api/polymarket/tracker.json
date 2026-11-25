@@ -1,12 +1,11 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T16:52:18.968516+00:00",
+  "updatedAt": "2026-11-25T16:54:07.197432+00:00",
   "activeSports": [
     "NFL",
     "NBA",
     "NHL",
-    "CFB",
-    "SOCCER"
+    "CFB"
   ],
   "supportedSports": [
     "NFL",
@@ -21,8 +20,8 @@
   "overall": {
     "wins": 31,
     "losses": 21,
-    "pending": 2,
-    "total": 54,
+    "pending": 1,
+    "total": 53,
     "units": 6.41,
     "unitSizeDollars": 10.0,
     "dollarPnl": 64.1
@@ -85,8 +84,8 @@
     "SOCCER": {
       "wins": 0,
       "losses": 0,
-      "pending": 1,
-      "total": 1,
+      "pending": 0,
+      "total": 0,
       "units": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -272,20 +271,6 @@
         "winRate": 100.0,
         "picks": [
           "Broncos ML (W)"
-        ]
-      }
-    },
-    "SOCCER": {
-      "SOCCER Totals (Over/Under)": {
-        "wins": 0,
-        "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
-        "staked": 34326.37,
-        "winRate": 0.0,
-        "picks": [
-          "Double Chance: Either Team Wins (No Draw) (OPEN)"
         ]
       }
     },
@@ -723,33 +708,6 @@
       "unitsPnl": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
-    },
-    {
-      "signalKey": "ucl-slp-vil-2026-11-25::DOUBLE_CHANCE::No Draw",
-      "sport": "SOCCER",
-      "eventSlug": "ucl-slp-vil-2026-11-25",
-      "eventTitle": "SK Slavia Praha vs. Villarreal CF",
-      "family": "DOUBLE_CHANCE",
-      "side": "No Draw",
-      "pickLabel": "Double Chance: Either Team Wins (No Draw)",
-      "primaryTitle": "Will SK Slavia Praha vs. Villarreal CF end in a draw?",
-      "tier": 0,
-      "nAligned": 2,
-      "totalStake": 34326.37,
-      "avgEntry": 0.7308,
-      "curPrice": 0.735,
-      "convictionPct": 86.0,
-      "startEt": "12:45 PM ET",
-      "alignedNames": [
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "Flaznorp"
-      ],
-      "alertedAt": "2026-11-25T16:36:13.207836+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
     }
   ],
   "picks": [
@@ -797,33 +755,6 @@
       ],
       "exitWarned": false,
       "alertedAt": "2026-11-25T16:38:44.368257+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    },
-    {
-      "signalKey": "ucl-slp-vil-2026-11-25::DOUBLE_CHANCE::No Draw",
-      "sport": "SOCCER",
-      "eventSlug": "ucl-slp-vil-2026-11-25",
-      "eventTitle": "SK Slavia Praha vs. Villarreal CF",
-      "family": "DOUBLE_CHANCE",
-      "side": "No Draw",
-      "pickLabel": "Double Chance: Either Team Wins (No Draw)",
-      "primaryTitle": "Will SK Slavia Praha vs. Villarreal CF end in a draw?",
-      "tier": 0,
-      "nAligned": 2,
-      "totalStake": 34326.37,
-      "avgEntry": 0.7308,
-      "curPrice": 0.735,
-      "convictionPct": 86.0,
-      "startEt": "12:45 PM ET",
-      "alignedNames": [
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "Flaznorp"
-      ],
-      "alertedAt": "2026-11-25T16:36:13.207836+00:00",
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
