@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T19:04:39.570611+00:00",
+  "updatedAt": "2026-11-25T19:18:47.608499+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -108,7 +108,7 @@
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 102662.9,
+        "staked": 102775.86,
         "winRate": 0.0,
         "picks": [
           "Rams ML (OPEN)"
@@ -671,7 +671,7 @@
       "tier": 0,
       "tierLabel": "2 Top NFL Sharps Aligned (84% Conviction)",
       "nAligned": 3,
-      "totalStake": 102662.8964,
+      "totalStake": 102775.8601,
       "avgEntry": 0.5505055856260734,
       "curPrice": 0.565,
       "convictionPct": 84.4,
@@ -690,7 +690,7 @@
         },
         {
           "name": "gmpm2",
-          "netCost": 5645.8921,
+          "netCost": 5758.8558,
           "avgPrice": 0.5599,
           "pickLabel": "Rams ML"
         },
@@ -723,7 +723,7 @@
       "tier": 0,
       "tierLabel": "2 Top NFL Sharps Aligned (84% Conviction)",
       "nAligned": 3,
-      "totalStake": 102662.8964,
+      "totalStake": 102775.8601,
       "avgEntry": 0.5505055856260734,
       "curPrice": 0.565,
       "convictionPct": 84.4,
@@ -742,7 +742,7 @@
         },
         {
           "name": "gmpm2",
-          "netCost": 5645.8921,
+          "netCost": 5758.8558,
           "avgPrice": 0.5599,
           "pickLabel": "Rams ML"
         },
