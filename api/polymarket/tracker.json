@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T22:03:15.128589+00:00",
+  "updatedAt": "2026-11-25T22:19:43.574321+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -295,7 +295,7 @@
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 107696.22,
+        "staked": 164478.46,
         "winRate": 0.0,
         "picks": [
           "Rams ML (OPEN)"
@@ -681,16 +681,17 @@
       "pickLabel": "Rams ML",
       "primaryTitle": "Packers vs. Rams",
       "tier": 0,
-      "tierLabel": "2 Top NFL Sharps Aligned (85% Conviction)",
-      "nAligned": 3,
-      "totalStake": 107696.2165,
+      "tierLabel": "2 Top NFL Sharps Aligned (92% Conviction)",
+      "nAligned": 4,
+      "totalStake": 164478.4632,
       "avgEntry": 0.5505055856260734,
-      "curPrice": 0.565,
-      "convictionPct": 84.9,
+      "curPrice": 0.5649999999999998,
+      "convictionPct": 92.1,
       "startEt": "8:00 PM ET",
       "alignedNames": [
         "Multicoloured-Serf",
         "gmpm2",
+        "primm",
         "NFL Pick Model"
       ],
       "whaleDetails": [
@@ -702,9 +703,15 @@
         },
         {
           "name": "gmpm2",
-          "netCost": 10679.2122,
+          "netCost": 61292.2806,
           "avgPrice": 0.5599,
           "pickLabel": "Rams ML"
+        },
+        {
+          "name": "primm",
+          "netCost": 6169.1783,
+          "avgPrice": 0.4242332680139914,
+          "pickLabel": "Rams (-3.5)"
         },
         {
           "name": "NFL Pick Model",
@@ -833,16 +840,17 @@
       "pickLabel": "Rams ML",
       "primaryTitle": "Packers vs. Rams",
       "tier": 0,
-      "tierLabel": "2 Top NFL Sharps Aligned (85% Conviction)",
-      "nAligned": 3,
-      "totalStake": 107696.2165,
+      "tierLabel": "2 Top NFL Sharps Aligned (92% Conviction)",
+      "nAligned": 4,
+      "totalStake": 164478.4632,
       "avgEntry": 0.5505055856260734,
-      "curPrice": 0.565,
-      "convictionPct": 84.9,
+      "curPrice": 0.5649999999999998,
+      "convictionPct": 92.1,
       "startEt": "8:00 PM ET",
       "alignedNames": [
         "Multicoloured-Serf",
         "gmpm2",
+        "primm",
         "NFL Pick Model"
       ],
       "whaleDetails": [
@@ -854,9 +862,15 @@
         },
         {
           "name": "gmpm2",
-          "netCost": 10679.2122,
+          "netCost": 61292.2806,
           "avgPrice": 0.5599,
           "pickLabel": "Rams ML"
+        },
+        {
+          "name": "primm",
+          "netCost": 6169.1783,
+          "avgPrice": 0.4242332680139914,
+          "pickLabel": "Rams (-3.5)"
         },
         {
           "name": "NFL Pick Model",
