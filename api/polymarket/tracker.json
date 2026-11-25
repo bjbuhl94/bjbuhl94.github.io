@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T02:37:06.985341+00:00",
+  "updatedAt": "2026-11-25T03:00:36.110052+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -18,12 +18,12 @@
   ],
   "overall": {
     "wins": 30,
-    "losses": 19,
-    "pending": 3,
+    "losses": 20,
+    "pending": 2,
     "total": 52,
-    "units": 6.48,
+    "units": 5.48,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 64.8
+    "dollarPnl": 54.8
   },
   "summary": {
     "NFL": {
@@ -37,12 +37,12 @@
     },
     "NBA": {
       "wins": 9,
-      "losses": 9,
-      "pending": 1,
+      "losses": 10,
+      "pending": 0,
       "total": 19,
-      "units": -1.24,
+      "units": -2.24,
       "unitSizeDollars": 10.0,
-      "dollarPnl": -12.4
+      "dollarPnl": -22.4
     },
     "NHL": {
       "wins": 4,
@@ -94,14 +94,14 @@
     "NBA": {
       "Magic": {
         "wins": 1,
-        "losses": 0,
-        "pending": 1,
-        "units": 1.08,
-        "dollarPnl": 10.8,
+        "losses": 1,
+        "pending": 0,
+        "units": 0.08,
+        "dollarPnl": 0.8,
         "staked": 162880.74,
-        "winRate": 100.0,
+        "winRate": 50.0,
         "picks": [
-          "Magic (+1.5) (OPEN)",
+          "Magic (+1.5) (L)",
           "Magic (-4.5) (W)"
         ]
       },
@@ -638,56 +638,6 @@
   },
   "activePicks": [
     {
-      "signalKey": "nba-det-orl-2026-11-24::TEAM::Magic",
-      "sport": "NBA",
-      "eventSlug": "nba-det-orl-2026-11-24",
-      "eventTitle": "Pistons vs. Magic",
-      "family": "TEAM",
-      "side": "Magic",
-      "pickLabel": "Magic (+1.5)",
-      "primaryTitle": "Spread: Pistons (-1.5)",
-      "tier": 1,
-      "tierLabel": "Top NBA Sharp Consensus (87% Conviction)",
-      "nAligned": 3,
-      "totalStake": 81531.1848,
-      "avgEntry": 0.5934473462308371,
-      "curPrice": 0.5962894551923642,
-      "convictionPct": 86.9,
-      "startEt": "7:00 PM ET",
-      "alignedNames": [
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "drainedandpoor",
-        "nigiri99"
-      ],
-      "whaleDetails": [
-        {
-          "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "netCost": 36134.9873,
-          "avgPrice": 0.5934473462308371,
-          "pickLabel": "Magic (+1.5)"
-        },
-        {
-          "name": "drainedandpoor",
-          "netCost": 28000.0,
-          "avgPrice": 0.56,
-          "pickLabel": "Magic ML"
-        },
-        {
-          "name": "nigiri99",
-          "netCost": 17396.197500000002,
-          "avgPrice": 0.5191470377523594,
-          "pickLabel": "Magic ML"
-        }
-      ],
-      "exitWarned": false,
-      "alertedAt": "2026-11-24T23:45:44.202532+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    },
-    {
       "signalKey": "nhl-las-edm-2026-11-24::TOTAL::Under",
       "sport": "NHL",
       "eventSlug": "nhl-las-edm-2026-11-24",
@@ -790,11 +740,11 @@
       ],
       "exitWarned": false,
       "alertedAt": "2026-11-24T23:45:44.202532+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": false,
+      "unitsPnl": -1.0,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": -10.0
     },
     {
       "signalKey": "nhl-las-edm-2026-11-24::TOTAL::Under",
@@ -2701,14 +2651,14 @@
     {
       "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
       "wins": 11,
-      "losses": 2,
+      "losses": 3,
       "NFL_w": 5,
       "NFL_l": 0,
       "NBA_w": 5,
-      "NBA_l": 1,
-      "staked": 452640.5,
-      "dollarPnl": 425393.94,
-      "units": 7.34,
+      "NBA_l": 2,
+      "staked": 488775.49,
+      "dollarPnl": 389258.95,
+      "units": 6.34,
       "NHL_w": 1,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2719,7 +2669,7 @@
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 73.4
+      "unitDollarPnl": 63.4
     },
     {
       "name": "BreakTheBank",
@@ -2766,52 +2716,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 40.8
-    },
-    {
-      "name": "nigiri99",
-      "wins": 10,
-      "losses": 7,
-      "NFL_w": 2,
-      "NFL_l": 0,
-      "NBA_w": 3,
-      "NBA_l": 3,
-      "staked": 444870.86,
-      "dollarPnl": 361659.51,
-      "units": 1.97,
-      "NHL_w": 2,
-      "NHL_l": 0,
-      "CFB_w": 3,
-      "CFB_l": 4,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 19.7
-    },
-    {
-      "name": "drainedandpoor",
-      "wins": 6,
-      "losses": 3,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 6,
-      "NBA_l": 3,
-      "staked": 85176.87,
-      "dollarPnl": -5841.34,
-      "units": 1.8,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 18.0
     },
     {
       "name": "googleplay",
@@ -2881,6 +2785,52 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 11.6
+    },
+    {
+      "name": "nigiri99",
+      "wins": 10,
+      "losses": 8,
+      "NFL_w": 2,
+      "NFL_l": 0,
+      "NBA_w": 3,
+      "NBA_l": 4,
+      "staked": 462267.06,
+      "dollarPnl": 344263.31,
+      "units": 0.97,
+      "NHL_w": 2,
+      "NHL_l": 0,
+      "CFB_w": 3,
+      "CFB_l": 4,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 9.7
+    },
+    {
+      "name": "drainedandpoor",
+      "wins": 6,
+      "losses": 4,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 6,
+      "NBA_l": 4,
+      "staked": 113176.87,
+      "dollarPnl": -33841.34,
+      "units": 0.8,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 8.0
     },
     {
       "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
