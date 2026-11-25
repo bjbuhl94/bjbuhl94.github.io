@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T03:41:31.218471+00:00",
+  "updatedAt": "2026-11-25T04:11:14.789596+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -17,13 +17,13 @@
     "SOCCER"
   ],
   "overall": {
-    "wins": 30,
+    "wins": 32,
     "losses": 20,
-    "pending": 2,
+    "pending": 0,
     "total": 52,
-    "units": 5.48,
+    "units": 8.79,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 54.8
+    "dollarPnl": 87.9
   },
   "summary": {
     "NFL": {
@@ -45,22 +45,22 @@
       "dollarPnl": -22.4
     },
     "NHL": {
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
-      "pending": 1,
+      "pending": 0,
       "total": 6,
-      "units": 2.88,
+      "units": 3.85,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 28.8
+      "dollarPnl": 38.5
     },
     "CFB": {
-      "wins": 4,
+      "wins": 5,
       "losses": 6,
-      "pending": 1,
+      "pending": 0,
       "total": 11,
-      "units": -1.61,
+      "units": 0.73,
       "unitSizeDollars": 10.0,
-      "dollarPnl": -16.1
+      "dollarPnl": 7.3
     },
     "NCAAB": {
       "wins": 0,
@@ -268,15 +268,15 @@
     },
     "NHL": {
       "NHL Totals (Over/Under)": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "pending": 0,
+        "units": 0.97,
+        "dollarPnl": 9.7,
         "staked": 36288.5,
-        "winRate": 0.0,
+        "winRate": 100.0,
         "picks": [
-          "Under 6.5 (OPEN)"
+          "Under 6.5 (W)"
         ]
       },
       "Hurricanes": {
@@ -342,15 +342,15 @@
     },
     "CFB": {
       "Miami (OH)": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "pending": 0,
+        "units": 2.34,
+        "dollarPnl": 23.4,
         "staked": 21208.52,
-        "winRate": 0.0,
+        "winRate": 100.0,
         "picks": [
-          "Miami (OH) ML (OPEN)"
+          "Miami (OH) ML (W)"
         ]
       },
       "Arkansas State": {
@@ -636,65 +636,7 @@
       }
     }
   },
-  "activePicks": [
-    {
-      "signalKey": "nhl-las-edm-2026-11-24::TOTAL::Under",
-      "sport": "NHL",
-      "eventSlug": "nhl-las-edm-2026-11-24",
-      "eventTitle": "Golden Knights vs. Oilers",
-      "family": "TOTAL",
-      "side": "Under",
-      "pickLabel": "Under 6.5",
-      "primaryTitle": "Golden Knights vs. Oilers",
-      "tier": 1,
-      "nAligned": 4,
-      "totalStake": 36288.5,
-      "avgEntry": 0.5089,
-      "curPrice": 0.5074,
-      "convictionPct": 91.0,
-      "startEt": "8:00 PM ET",
-      "alignedNames": [
-        "HomeRunHazard",
-        "Multicoloured-Serf",
-        "nigiri99",
-        "CUTJALENHURTS"
-      ],
-      "alertedAt": "2026-11-24T22:55:59.644770+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    },
-    {
-      "signalKey": "cfb-miaoh-wmich-2026-11-24::TEAM::Miami (OH)",
-      "sport": "CFB",
-      "eventSlug": "cfb-miaoh-wmich-2026-11-24",
-      "eventTitle": "Miami (OH) vs. Western Michigan",
-      "family": "TEAM",
-      "side": "Miami (OH)",
-      "pickLabel": "Miami (OH) ML",
-      "primaryTitle": "Miami (OH) vs. Western Michigan",
-      "tier": 1,
-      "nAligned": 3,
-      "totalStake": 21208.52,
-      "avgEntry": 0.2998,
-      "curPrice": 0.315,
-      "convictionPct": 91.0,
-      "startEt": "7:00 PM ET",
-      "alignedNames": [
-        "HomeRunHazard",
-        "monkeymashingkeyboard",
-        "nigiri99"
-      ],
-      "alertedAt": "2026-11-24T15:59:40.038745+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    }
-  ],
+  "activePicks": [],
   "picks": [
     {
       "signalKey": "nba-det-orl-2026-11-24::TEAM::Magic",
@@ -769,11 +711,11 @@
         "CUTJALENHURTS"
       ],
       "alertedAt": "2026-11-24T22:55:59.644770+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 0.97,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 9.7
     },
     {
       "signalKey": "cfb-miaoh-wmich-2026-11-24::TEAM::Miami (OH)",
@@ -797,11 +739,11 @@
         "nigiri99"
       ],
       "alertedAt": "2026-11-24T15:59:40.038745+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 2.34,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 23.4
     },
     {
       "signalKey": "nfl-cin-was-2026-11-24::TOTAL::Under",
@@ -2695,6 +2637,29 @@
       "unitDollarPnl": 39.7
     },
     {
+      "name": "nigiri99",
+      "wins": 12,
+      "losses": 8,
+      "NFL_w": 2,
+      "NFL_l": 0,
+      "NBA_w": 3,
+      "NBA_l": 4,
+      "staked": 462267.06,
+      "dollarPnl": 344263.31,
+      "units": 4.28,
+      "NHL_w": 3,
+      "NHL_l": 0,
+      "CFB_w": 4,
+      "CFB_l": 4,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 42.8
+    },
+    {
       "name": "primm",
       "wins": 5,
       "losses": 1,
@@ -2716,6 +2681,52 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 40.8
+    },
+    {
+      "name": "HomeRunHazard",
+      "wins": 12,
+      "losses": 9,
+      "NFL_w": 4,
+      "NFL_l": 3,
+      "NBA_w": 3,
+      "NBA_l": 2,
+      "staked": 213146.86,
+      "dollarPnl": 35564.93,
+      "units": 4.44,
+      "NHL_w": 2,
+      "NHL_l": 1,
+      "CFB_w": 3,
+      "CFB_l": 3,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 44.4
+    },
+    {
+      "name": "Multicoloured-Serf",
+      "wins": 3,
+      "losses": 0,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "staked": 8325.24,
+      "dollarPnl": 9019.01,
+      "units": 2.27,
+      "NHL_w": 1,
+      "NHL_l": 0,
+      "CFB_w": 1,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 22.7
     },
     {
       "name": "googleplay",
@@ -2741,29 +2752,6 @@
       "unitDollarPnl": 13.1
     },
     {
-      "name": "Multicoloured-Serf",
-      "wins": 2,
-      "losses": 0,
-      "NFL_w": 1,
-      "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "staked": 8325.24,
-      "dollarPnl": 9019.01,
-      "units": 1.3,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 1,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 13.0
-    },
-    {
       "name": "robloxgamblemaster-2008-10-18",
       "wins": 4,
       "losses": 2,
@@ -2785,29 +2773,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": 11.6
-    },
-    {
-      "name": "nigiri99",
-      "wins": 10,
-      "losses": 8,
-      "NFL_w": 2,
-      "NFL_l": 0,
-      "NBA_w": 3,
-      "NBA_l": 4,
-      "staked": 462267.06,
-      "dollarPnl": 344263.31,
-      "units": 0.97,
-      "NHL_w": 2,
-      "NHL_l": 0,
-      "CFB_w": 3,
-      "CFB_l": 4,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": 9.7
     },
     {
       "name": "drainedandpoor",
@@ -2856,27 +2821,27 @@
       "unitDollarPnl": 12.6
     },
     {
-      "name": "HomeRunHazard",
-      "wins": 10,
-      "losses": 9,
-      "NFL_w": 4,
-      "NFL_l": 3,
-      "NBA_w": 3,
-      "NBA_l": 2,
-      "staked": 213146.86,
-      "dollarPnl": 35564.93,
-      "units": 1.13,
+      "name": "CUTJALENHURTS",
+      "wins": 1,
+      "losses": 0,
+      "units": 0.97,
+      "staked": 0.0,
+      "dollarPnl": 0.0,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
       "NHL_w": 1,
-      "NHL_l": 1,
-      "CFB_w": 2,
-      "CFB_l": 3,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 0,
       "NCAAB_w": 0,
       "NCAAB_l": 0,
       "UFC_w": 0,
       "UFC_l": 0,
       "SOCCER_w": 0,
       "SOCCER_l": 0,
-      "unitDollarPnl": 11.3
+      "unitDollarPnl": 9.7
     },
     {
       "name": "RJW1",
@@ -3155,6 +3120,29 @@
       "unitDollarPnl": -6.5
     },
     {
+      "name": "monkeymashingkeyboard",
+      "wins": 2,
+      "losses": 3,
+      "NFL_w": 1,
+      "NFL_l": 1,
+      "NBA_w": 0,
+      "NBA_l": 1,
+      "staked": 82735.02,
+      "dollarPnl": -69758.41,
+      "units": 0.38,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 1,
+      "CFB_l": 1,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "unitDollarPnl": 3.8
+    },
+    {
       "name": "bands1",
       "wins": 0,
       "losses": 1,
@@ -3245,29 +3233,6 @@
       "SOCCER_w": 0,
       "SOCCER_l": 0,
       "unitDollarPnl": -16.4
-    },
-    {
-      "name": "monkeymashingkeyboard",
-      "wins": 1,
-      "losses": 3,
-      "NFL_w": 1,
-      "NFL_l": 1,
-      "NBA_w": 0,
-      "NBA_l": 1,
-      "staked": 82735.02,
-      "dollarPnl": -69758.41,
-      "units": -1.96,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 1,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "unitDollarPnl": -19.6
     }
   ],
   "nbaParlays": {
