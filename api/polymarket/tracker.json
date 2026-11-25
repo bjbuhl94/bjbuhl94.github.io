@@ -1,11 +1,12 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T16:44:02.480274+00:00",
+  "updatedAt": "2026-11-25T16:47:11.399381+00:00",
   "activeSports": [
     "NFL",
     "NBA",
     "NHL",
-    "CFB"
+    "CFB",
+    "SOCCER"
   ],
   "supportedSports": [
     "NFL",
@@ -20,8 +21,8 @@
   "overall": {
     "wins": 31,
     "losses": 21,
-    "pending": 0,
-    "total": 52,
+    "pending": 2,
+    "total": 54,
     "units": 6.41,
     "unitSizeDollars": 10.0,
     "dollarPnl": 64.1
@@ -30,8 +31,8 @@
     "NFL": {
       "wins": 13,
       "losses": 3,
-      "pending": 0,
-      "total": 16,
+      "pending": 1,
+      "total": 17,
       "units": 6.45,
       "unitSizeDollars": 10.0,
       "dollarPnl": 64.5
@@ -84,8 +85,8 @@
     "SOCCER": {
       "wins": 0,
       "losses": 0,
-      "pending": 0,
-      "total": 0,
+      "pending": 1,
+      "total": 1,
       "units": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -101,6 +102,193 @@
     }
   },
   "teams": {
+    "NFL": {
+      "Rams": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 102238.23,
+        "winRate": 0.0,
+        "picks": [
+          "Rams ML (OPEN)"
+        ]
+      },
+      "NFL Totals (Over/Under)": {
+        "wins": 2,
+        "losses": 1,
+        "pending": 0,
+        "units": 0.91,
+        "dollarPnl": 9.1,
+        "staked": 140603.06,
+        "winRate": 66.7,
+        "picks": [
+          "Under 54.5 (W)",
+          "Under 44.5 (L)",
+          "Over 46.5 (W)"
+        ]
+      },
+      "49ers": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.85,
+        "dollarPnl": 8.5,
+        "staked": 125505.59,
+        "winRate": 100.0,
+        "picks": [
+          "49ers (-3.5) (W)"
+        ]
+      },
+      "Ravens": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 39883.07,
+        "winRate": 0.0,
+        "picks": [
+          "Ravens ML (L)"
+        ]
+      },
+      "Bengals": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.75,
+        "dollarPnl": 7.5,
+        "staked": 144397.17,
+        "winRate": 100.0,
+        "picks": [
+          "Bengals (-3.5) (W)"
+        ]
+      },
+      "Colts": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.69,
+        "dollarPnl": 6.9,
+        "staked": 186429.06,
+        "winRate": 100.0,
+        "picks": [
+          "Colts ML (W)"
+        ]
+      },
+      "Chiefs": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.6,
+        "dollarPnl": 6.0,
+        "staked": 272998.72,
+        "winRate": 100.0,
+        "picks": [
+          "Chiefs ML (W)"
+        ]
+      },
+      "Bears": {
+        "wins": 2,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.79,
+        "dollarPnl": 17.9,
+        "staked": 283929.15,
+        "winRate": 100.0,
+        "picks": [
+          "Bears ML (W)",
+          "Bears (+2.5) (W)"
+        ]
+      },
+      "Buccaneers": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.28,
+        "dollarPnl": 2.8,
+        "staked": 34731.92,
+        "winRate": 100.0,
+        "picks": [
+          "Buccaneers (+14.5) (W)"
+        ]
+      },
+      "Browns": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.79,
+        "dollarPnl": 7.9,
+        "staked": 46925.56,
+        "winRate": 100.0,
+        "picks": [
+          "Browns (+3.5) (W)"
+        ]
+      },
+      "Commanders": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.43,
+        "dollarPnl": 4.3,
+        "staked": 257214.63,
+        "winRate": 100.0,
+        "picks": [
+          "Commanders ML (W)"
+        ]
+      },
+      "Eagles": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 312367.3,
+        "winRate": 0.0,
+        "picks": [
+          "Eagles (+5.5) (L)"
+        ]
+      },
+      "Patriots": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.32,
+        "dollarPnl": 3.2,
+        "staked": 84420.66,
+        "winRate": 100.0,
+        "picks": [
+          "Patriots ML (W)"
+        ]
+      },
+      "Broncos": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.04,
+        "dollarPnl": 10.4,
+        "staked": 12717.07,
+        "winRate": 100.0,
+        "picks": [
+          "Broncos ML (W)"
+        ]
+      }
+    },
+    "SOCCER": {
+      "SOCCER Totals (Over/Under)": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 34326.37,
+        "winRate": 0.0,
+        "picks": [
+          "Double Chance: Either Team Wins (No Draw) (OPEN)"
+        ]
+      }
+    },
     "NBA": {
       "Magic": {
         "wins": 1,
@@ -483,171 +671,165 @@
           "Central Michigan (+2.5) (L)"
         ]
       }
-    },
-    "NFL": {
-      "NFL Totals (Over/Under)": {
-        "wins": 2,
-        "losses": 1,
-        "pending": 0,
-        "units": 0.91,
-        "dollarPnl": 9.1,
-        "staked": 140603.06,
-        "winRate": 66.7,
-        "picks": [
-          "Under 54.5 (W)",
-          "Under 44.5 (L)",
-          "Over 46.5 (W)"
-        ]
-      },
-      "49ers": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.85,
-        "dollarPnl": 8.5,
-        "staked": 125505.59,
-        "winRate": 100.0,
-        "picks": [
-          "49ers (-3.5) (W)"
-        ]
-      },
-      "Ravens": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 39883.07,
-        "winRate": 0.0,
-        "picks": [
-          "Ravens ML (L)"
-        ]
-      },
-      "Bengals": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.75,
-        "dollarPnl": 7.5,
-        "staked": 144397.17,
-        "winRate": 100.0,
-        "picks": [
-          "Bengals (-3.5) (W)"
-        ]
-      },
-      "Colts": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.69,
-        "dollarPnl": 6.9,
-        "staked": 186429.06,
-        "winRate": 100.0,
-        "picks": [
-          "Colts ML (W)"
-        ]
-      },
-      "Chiefs": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.6,
-        "dollarPnl": 6.0,
-        "staked": 272998.72,
-        "winRate": 100.0,
-        "picks": [
-          "Chiefs ML (W)"
-        ]
-      },
-      "Bears": {
-        "wins": 2,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.79,
-        "dollarPnl": 17.9,
-        "staked": 283929.15,
-        "winRate": 100.0,
-        "picks": [
-          "Bears ML (W)",
-          "Bears (+2.5) (W)"
-        ]
-      },
-      "Buccaneers": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.28,
-        "dollarPnl": 2.8,
-        "staked": 34731.92,
-        "winRate": 100.0,
-        "picks": [
-          "Buccaneers (+14.5) (W)"
-        ]
-      },
-      "Browns": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.79,
-        "dollarPnl": 7.9,
-        "staked": 46925.56,
-        "winRate": 100.0,
-        "picks": [
-          "Browns (+3.5) (W)"
-        ]
-      },
-      "Commanders": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.43,
-        "dollarPnl": 4.3,
-        "staked": 257214.63,
-        "winRate": 100.0,
-        "picks": [
-          "Commanders ML (W)"
-        ]
-      },
-      "Eagles": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 312367.3,
-        "winRate": 0.0,
-        "picks": [
-          "Eagles (+5.5) (L)"
-        ]
-      },
-      "Patriots": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.32,
-        "dollarPnl": 3.2,
-        "staked": 84420.66,
-        "winRate": 100.0,
-        "picks": [
-          "Patriots ML (W)"
-        ]
-      },
-      "Broncos": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.04,
-        "dollarPnl": 10.4,
-        "staked": 12717.07,
-        "winRate": 100.0,
-        "picks": [
-          "Broncos ML (W)"
-        ]
-      }
     }
   },
-  "activePicks": [],
+  "activePicks": [
+    {
+      "signalKey": "nfl-gb-la-2026-11-26::TEAM::Rams",
+      "sport": "NFL",
+      "eventSlug": "nfl-gb-la-2026-11-26",
+      "eventTitle": "Packers vs. Rams",
+      "family": "TEAM",
+      "side": "Rams",
+      "pickLabel": "Rams ML",
+      "primaryTitle": "Packers vs. Rams",
+      "tier": 0,
+      "tierLabel": "2 Top NFL Sharps Aligned (88% Conviction)",
+      "nAligned": 3,
+      "totalStake": 102238.2348,
+      "avgEntry": 0.5505055856260734,
+      "curPrice": 0.5649999999999998,
+      "convictionPct": 87.7,
+      "startEt": "8:00 PM ET",
+      "alignedNames": [
+        "Multicoloured-Serf",
+        "gmpm2",
+        "NFL Pick Model"
+      ],
+      "whaleDetails": [
+        {
+          "name": "Multicoloured-Serf",
+          "netCost": 97017.0043,
+          "avgPrice": 0.55,
+          "pickLabel": "Rams ML"
+        },
+        {
+          "name": "gmpm2",
+          "netCost": 5221.2305,
+          "avgPrice": 0.5599,
+          "pickLabel": "Rams ML"
+        },
+        {
+          "name": "NFL Pick Model",
+          "netCost": 0.0,
+          "avgPrice": 0.52,
+          "pickLabel": "Los Angeles Rams"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-25T16:38:44.368257+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "ucl-slp-vil-2026-11-25::DOUBLE_CHANCE::No Draw",
+      "sport": "SOCCER",
+      "eventSlug": "ucl-slp-vil-2026-11-25",
+      "eventTitle": "SK Slavia Praha vs. Villarreal CF",
+      "family": "DOUBLE_CHANCE",
+      "side": "No Draw",
+      "pickLabel": "Double Chance: Either Team Wins (No Draw)",
+      "primaryTitle": "Will SK Slavia Praha vs. Villarreal CF end in a draw?",
+      "tier": 0,
+      "nAligned": 2,
+      "totalStake": 34326.37,
+      "avgEntry": 0.7308,
+      "curPrice": 0.735,
+      "convictionPct": 86.0,
+      "startEt": "12:45 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Flaznorp"
+      ],
+      "alertedAt": "2026-11-25T16:36:13.207836+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    }
+  ],
   "picks": [
+    {
+      "signalKey": "nfl-gb-la-2026-11-26::TEAM::Rams",
+      "sport": "NFL",
+      "eventSlug": "nfl-gb-la-2026-11-26",
+      "eventTitle": "Packers vs. Rams",
+      "family": "TEAM",
+      "side": "Rams",
+      "pickLabel": "Rams ML",
+      "primaryTitle": "Packers vs. Rams",
+      "tier": 0,
+      "tierLabel": "2 Top NFL Sharps Aligned (88% Conviction)",
+      "nAligned": 3,
+      "totalStake": 102238.2348,
+      "avgEntry": 0.5505055856260734,
+      "curPrice": 0.5649999999999998,
+      "convictionPct": 87.7,
+      "startEt": "8:00 PM ET",
+      "alignedNames": [
+        "Multicoloured-Serf",
+        "gmpm2",
+        "NFL Pick Model"
+      ],
+      "whaleDetails": [
+        {
+          "name": "Multicoloured-Serf",
+          "netCost": 97017.0043,
+          "avgPrice": 0.55,
+          "pickLabel": "Rams ML"
+        },
+        {
+          "name": "gmpm2",
+          "netCost": 5221.2305,
+          "avgPrice": 0.5599,
+          "pickLabel": "Rams ML"
+        },
+        {
+          "name": "NFL Pick Model",
+          "netCost": 0.0,
+          "avgPrice": 0.52,
+          "pickLabel": "Los Angeles Rams"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-25T16:38:44.368257+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "ucl-slp-vil-2026-11-25::DOUBLE_CHANCE::No Draw",
+      "sport": "SOCCER",
+      "eventSlug": "ucl-slp-vil-2026-11-25",
+      "eventTitle": "SK Slavia Praha vs. Villarreal CF",
+      "family": "DOUBLE_CHANCE",
+      "side": "No Draw",
+      "pickLabel": "Double Chance: Either Team Wins (No Draw)",
+      "primaryTitle": "Will SK Slavia Praha vs. Villarreal CF end in a draw?",
+      "tier": 0,
+      "nAligned": 2,
+      "totalStake": 34326.37,
+      "avgEntry": 0.7308,
+      "curPrice": 0.735,
+      "convictionPct": 86.0,
+      "startEt": "12:45 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Flaznorp"
+      ],
+      "alertedAt": "2026-11-25T16:36:13.207836+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "nba-det-orl-2026-11-24::TEAM::Magic",
       "sport": "NBA",
@@ -3343,9 +3525,9 @@
   "modelVsWhales": {
     "unitSizeDollars": 10.0,
     "aligned": {
-      "games": 2,
+      "games": 3,
       "settledGames": 2,
-      "openGames": 0,
+      "openGames": 1,
       "model": {
         "wins": 1,
         "losses": 1,
@@ -3393,6 +3575,19 @@
       }
     },
     "matchups": [
+      {
+        "date": "2026-11-26",
+        "game": "Green Bay Packers at Los Angeles Rams",
+        "family": "TEAM",
+        "relation": "ALIGNED",
+        "status": "OPEN",
+        "modelPick": "Los Angeles Rams",
+        "modelResult": "OPEN",
+        "modelUnits": 0.0,
+        "whalePick": "Rams ML",
+        "whaleResult": "OPEN",
+        "whaleUnits": 0.0
+      },
       {
         "date": "2026-11-15",
         "game": "Miami Dolphins at Indianapolis Colts",
