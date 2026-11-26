@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-26T01:01:14.636447+00:00",
+  "updatedAt": "2026-11-26T01:14:26.317273+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -22,9 +22,9 @@
     "losses": 21,
     "pending": 3,
     "total": 55,
-    "units": 6.41,
+    "units": 4.19,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 64.1
+    "dollarPnl": 41.9
   },
   "summary": {
     "NFL": {
@@ -32,36 +32,36 @@
       "losses": 3,
       "pending": 1,
       "total": 17,
-      "units": 6.45,
+      "units": 5.65,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 64.5
+      "dollarPnl": 56.5
     },
     "NBA": {
       "wins": 9,
       "losses": 10,
       "pending": 1,
       "total": 20,
-      "units": -2.24,
+      "units": -3.01,
       "unitSizeDollars": 10.0,
-      "dollarPnl": -22.4
+      "dollarPnl": -30.1
     },
     "NHL": {
       "wins": 4,
       "losses": 2,
       "pending": 1,
       "total": 7,
-      "units": 1.47,
+      "units": 1.13,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 14.7
+      "dollarPnl": 11.3
     },
     "CFB": {
       "wins": 5,
       "losses": 6,
       "pending": 0,
       "total": 11,
-      "units": 0.73,
+      "units": 0.42,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 7.3
+      "dollarPnl": 4.2
     },
     "NCAAB": {
       "wins": 0,
@@ -106,8 +106,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 1,
-        "units": 1.26,
-        "dollarPnl": 12.6,
+        "units": 1.16,
+        "dollarPnl": 11.6,
         "staked": 169173.02,
         "winRate": 100.0,
         "picks": [
@@ -143,8 +143,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.51,
-        "dollarPnl": 5.1,
+        "units": 0.44,
+        "dollarPnl": 4.4,
         "staked": 22397.6,
         "winRate": 100.0,
         "picks": [
@@ -155,8 +155,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 1.03,
-        "dollarPnl": 10.3,
+        "units": 0.94,
+        "dollarPnl": 9.4,
         "staked": 56229.33,
         "winRate": 100.0,
         "picks": [
@@ -167,8 +167,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.67,
-        "dollarPnl": 6.7,
+        "units": 0.59,
+        "dollarPnl": 5.9,
         "staked": 44922.6,
         "winRate": 100.0,
         "picks": [
@@ -193,8 +193,8 @@
         "wins": 1,
         "losses": 1,
         "pending": 0,
-        "units": 0.08,
-        "dollarPnl": 0.8,
+        "units": -0.09,
+        "dollarPnl": -0.9,
         "staked": 162880.74,
         "winRate": 50.0,
         "picks": [
@@ -218,8 +218,8 @@
         "wins": 1,
         "losses": 1,
         "pending": 0,
-        "units": -0.06,
-        "dollarPnl": -0.6,
+        "units": -0.09,
+        "dollarPnl": -0.9,
         "staked": 53151.99,
         "winRate": 50.0,
         "picks": [
@@ -243,8 +243,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 1.17,
-        "dollarPnl": 11.7,
+        "units": 1.07,
+        "dollarPnl": 10.7,
         "staked": 617475.02,
         "winRate": 100.0,
         "picks": [
@@ -255,8 +255,8 @@
         "wins": 1,
         "losses": 1,
         "pending": 0,
-        "units": -0.08,
-        "dollarPnl": -0.8,
+        "units": -0.17,
+        "dollarPnl": -1.7,
         "staked": 643951.33,
         "winRate": 50.0,
         "picks": [
@@ -268,8 +268,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.7,
-        "dollarPnl": 7.0,
+        "units": 0.62,
+        "dollarPnl": 6.2,
         "staked": 180440.66,
         "winRate": 100.0,
         "picks": [
@@ -293,8 +293,8 @@
         "wins": 2,
         "losses": 0,
         "pending": 0,
-        "units": 1.12,
-        "dollarPnl": 11.2,
+        "units": 0.99,
+        "dollarPnl": 9.9,
         "staked": 287567.44,
         "winRate": 100.0,
         "picks": [
@@ -318,8 +318,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.56,
-        "dollarPnl": 5.6,
+        "units": 0.49,
+        "dollarPnl": 4.9,
         "staked": 97052.03,
         "winRate": 100.0,
         "picks": [
@@ -330,8 +330,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 1.27,
-        "dollarPnl": 12.7,
+        "units": 1.17,
+        "dollarPnl": 11.7,
         "staked": 12334.51,
         "winRate": 100.0,
         "picks": [
@@ -380,8 +380,8 @@
         "wins": 2,
         "losses": 1,
         "pending": 0,
-        "units": 0.91,
-        "dollarPnl": 9.1,
+        "units": 0.82,
+        "dollarPnl": 8.2,
         "staked": 140603.06,
         "winRate": 66.7,
         "picks": [
@@ -394,8 +394,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.85,
-        "dollarPnl": 8.5,
+        "units": 0.91,
+        "dollarPnl": 9.1,
         "staked": 125505.59,
         "winRate": 100.0,
         "picks": [
@@ -418,8 +418,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.75,
-        "dollarPnl": 7.5,
+        "units": 0.67,
+        "dollarPnl": 6.7,
         "staked": 144397.17,
         "winRate": 100.0,
         "picks": [
@@ -430,8 +430,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.69,
-        "dollarPnl": 6.9,
+        "units": 0.61,
+        "dollarPnl": 6.1,
         "staked": 186429.06,
         "winRate": 100.0,
         "picks": [
@@ -442,8 +442,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.6,
-        "dollarPnl": 6.0,
+        "units": 0.53,
+        "dollarPnl": 5.3,
         "staked": 272998.72,
         "winRate": 100.0,
         "picks": [
@@ -454,8 +454,8 @@
         "wins": 2,
         "losses": 0,
         "pending": 0,
-        "units": 1.79,
-        "dollarPnl": 17.9,
+        "units": 1.61,
+        "dollarPnl": 16.1,
         "staked": 283929.15,
         "winRate": 100.0,
         "picks": [
@@ -467,8 +467,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.28,
-        "dollarPnl": 2.8,
+        "units": 0.22,
+        "dollarPnl": 2.2,
         "staked": 34731.92,
         "winRate": 100.0,
         "picks": [
@@ -479,8 +479,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.79,
-        "dollarPnl": 7.9,
+        "units": 0.71,
+        "dollarPnl": 7.1,
         "staked": 46925.56,
         "winRate": 100.0,
         "picks": [
@@ -491,8 +491,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.43,
-        "dollarPnl": 4.3,
+        "units": 0.36,
+        "dollarPnl": 3.6,
         "staked": 257214.63,
         "winRate": 100.0,
         "picks": [
@@ -515,8 +515,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.32,
-        "dollarPnl": 3.2,
+        "units": 0.26,
+        "dollarPnl": 2.6,
         "staked": 84420.66,
         "winRate": 100.0,
         "picks": [
@@ -527,8 +527,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 1.04,
-        "dollarPnl": 10.4,
+        "units": 0.95,
+        "dollarPnl": 9.5,
         "staked": 12717.07,
         "winRate": 100.0,
         "picks": [
@@ -541,8 +541,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 2.34,
-        "dollarPnl": 23.4,
+        "units": 2.18,
+        "dollarPnl": 21.8,
         "staked": 21208.52,
         "winRate": 100.0,
         "picks": [
@@ -589,8 +589,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.89,
-        "dollarPnl": 8.9,
+        "units": 0.91,
+        "dollarPnl": 9.1,
         "staked": 30290.89,
         "winRate": 100.0,
         "picks": [
@@ -613,8 +613,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.9,
-        "dollarPnl": 9.0,
+        "units": 0.91,
+        "dollarPnl": 9.1,
         "staked": 15542.56,
         "winRate": 100.0,
         "picks": [
@@ -625,8 +625,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 1.63,
-        "dollarPnl": 16.3,
+        "units": 1.51,
+        "dollarPnl": 15.1,
         "staked": 44797.3,
         "winRate": 100.0,
         "picks": [
@@ -649,8 +649,8 @@
         "wins": 1,
         "losses": 0,
         "pending": 0,
-        "units": 0.97,
-        "dollarPnl": 9.7,
+        "units": 0.91,
+        "dollarPnl": 9.1,
         "staked": 15042.29,
         "winRate": 100.0,
         "picks": [
@@ -733,6 +733,8 @@
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
+      "fanduelOdds": "-138",
+      "fanduelOddsInt": -138,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
     },
@@ -750,6 +752,8 @@
       "totalStake": 115432.98,
       "avgEntry": 0.5199,
       "curPrice": 0.515,
+      "fanduelOdds": "-120",
+      "polyUnitsPnl": null,
       "convictionPct": 80.0,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -810,6 +814,8 @@
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
+      "fanduelOdds": "+102",
+      "fanduelOddsInt": 102,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
     }
@@ -829,6 +835,8 @@
       "totalStake": 115432.98,
       "avgEntry": 0.5199,
       "curPrice": 0.515,
+      "fanduelOdds": "-120",
+      "polyUnitsPnl": null,
       "convictionPct": 80.0,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -889,6 +897,8 @@
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
+      "fanduelOdds": "+102",
+      "fanduelOddsInt": 102,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
     },
@@ -953,6 +963,8 @@
       "status": "PENDING",
       "won": null,
       "unitsPnl": 0.0,
+      "fanduelOdds": "-138",
+      "fanduelOddsInt": -138,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
     },
@@ -1003,6 +1015,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-164",
+      "fanduelOddsInt": -164,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1020,6 +1035,8 @@
       "totalStake": 36288.5,
       "avgEntry": 0.5089,
       "curPrice": 0.5074,
+      "fanduelOdds": "-114",
+      "polyUnitsPnl": -1.0,
       "convictionPct": 91.0,
       "startEt": "8:00 PM ET",
       "alignedNames": [
@@ -1049,6 +1066,8 @@
       "totalStake": 21208.52,
       "avgEntry": 0.2998,
       "curPrice": 0.315,
+      "fanduelOdds": "+218",
+      "polyUnitsPnl": 2.34,
       "convictionPct": 91.0,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -1059,9 +1078,9 @@
       "alertedAt": "2026-11-24T15:59:40.038745+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 2.34,
+      "unitsPnl": 2.18,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 23.4
+      "dollarPnl": 21.8
     },
     {
       "signalKey": "nfl-cin-was-2026-11-24::TOTAL::Under",
@@ -1116,9 +1135,12 @@
       "alertedAt": "2026-11-24T00:30:11.840156+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.99,
+      "unitsPnl": 0.91,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": 0.99,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 9.9
+      "dollarPnl": 9.1
     },
     {
       "signalKey": "nba-dal-uta-2026-11-22::TEAM::Jazz",
@@ -1160,6 +1182,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "+110",
+      "fanduelOddsInt": 110,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1211,13 +1236,16 @@
       "alertedAt": "2026-11-22T19:38:00.307935+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.85,
+      "unitsPnl": 0.91,
       "tierLabel": "Proven Historical Pair (92% Conviction)",
       "curPrice": 0.6312558108588829,
       "convictionPct": 91.9,
       "startEt": "8:20 PM ET",
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": 0.85,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 8.5
+      "dollarPnl": 9.1
     },
     {
       "signalKey": "nhl-car-nyr-2026-11-22::TEAM::Hurricanes",
@@ -1233,6 +1261,8 @@
       "totalStake": 53740.04,
       "avgEntry": 0.4418,
       "curPrice": 0.4418,
+      "fanduelOdds": "+116",
+      "polyUnitsPnl": 1.26,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1242,9 +1272,9 @@
       "alertedAt": "2026-11-22T17:17:47.488993+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 1.26,
+      "unitsPnl": 1.16,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 12.6
+      "dollarPnl": 11.6
     },
     {
       "signalKey": "nfl-bal-car-2026-11-22::TEAM::Ravens",
@@ -1288,6 +1318,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "+128",
+      "fanduelOddsInt": 128,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1305,6 +1338,8 @@
       "totalStake": 50801.08,
       "avgEntry": 0.5215,
       "curPrice": 0.5215,
+      "fanduelOdds": "-120",
+      "polyUnitsPnl": -1.0,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1332,6 +1367,8 @@
       "totalStake": 17098.58,
       "avgEntry": 0.5324,
       "curPrice": 0.5324,
+      "fanduelOdds": "-110",
+      "polyUnitsPnl": -1.0,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1360,6 +1397,8 @@
       "totalStake": 19345.72,
       "avgEntry": 0.5034,
       "curPrice": 0.5034,
+      "fanduelOdds": "-112",
+      "polyUnitsPnl": -1.0,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1389,6 +1428,8 @@
       "totalStake": 30357.56,
       "avgEntry": 0.476,
       "curPrice": 0.476,
+      "fanduelOdds": "-110",
+      "polyUnitsPnl": -1.0,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1417,6 +1458,8 @@
       "totalStake": 30290.89,
       "avgEntry": 0.5281,
       "curPrice": 0.5281,
+      "fanduelOdds": "-110",
+      "polyUnitsPnl": 0.89,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1426,9 +1469,9 @@
       "alertedAt": "2026-11-21T19:34:02.491886+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.89,
+      "unitsPnl": 0.91,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 8.9
+      "dollarPnl": 9.1
     },
     {
       "signalKey": "cfb-txtech-bayl-2026-11-21::TEAM::Baylor",
@@ -1444,6 +1487,8 @@
       "totalStake": 117545.96,
       "avgEntry": 0.4653,
       "curPrice": 0.4653,
+      "fanduelOdds": "-110",
+      "polyUnitsPnl": -1.0,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1472,6 +1517,8 @@
       "totalStake": 15542.56,
       "avgEntry": 0.5262,
       "curPrice": 0.5262,
+      "fanduelOdds": "-110",
+      "polyUnitsPnl": 0.9,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1482,9 +1529,9 @@
       "alertedAt": "2026-11-21T16:26:20.038455+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.9,
+      "unitsPnl": 0.91,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 9.0
+      "dollarPnl": 9.1
     },
     {
       "signalKey": "cfb-ohiost-nebr-2026-11-21::TEAM::Nebraska",
@@ -1500,6 +1547,8 @@
       "totalStake": 44797.3,
       "avgEntry": 0.3808,
       "curPrice": 0.3808,
+      "fanduelOdds": "+151",
+      "polyUnitsPnl": 1.63,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1510,9 +1559,9 @@
       "alertedAt": "2026-11-21T15:39:43.512396+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 1.63,
+      "unitsPnl": 1.51,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 16.3
+      "dollarPnl": 15.1
     },
     {
       "signalKey": "nhl-nyi-det-2026-11-21::TEAM::Red Wings",
@@ -1528,6 +1577,8 @@
       "totalStake": 22397.6,
       "avgEntry": 0.6625,
       "curPrice": 0.6625,
+      "fanduelOdds": "-227",
+      "polyUnitsPnl": 0.51,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1537,9 +1588,9 @@
       "alertedAt": "2026-11-21T15:39:43.512396+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.51,
+      "unitsPnl": 0.44,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 5.1
+      "dollarPnl": 4.4
     },
     {
       "signalKey": "cfb-sdst-boise-2026-11-21::TEAM::Boise State",
@@ -1555,6 +1606,8 @@
       "totalStake": 25250.59,
       "avgEntry": 0.5178,
       "curPrice": 0.5178,
+      "fanduelOdds": "-110",
+      "polyUnitsPnl": -1.0,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1582,6 +1635,8 @@
       "totalStake": 15042.29,
       "avgEntry": 0.5077,
       "curPrice": 0.5077,
+      "fanduelOdds": "-110",
+      "polyUnitsPnl": 0.97,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1592,9 +1647,9 @@
       "alertedAt": "2026-11-20T22:26:00.970372+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.97,
+      "unitsPnl": 0.91,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 9.7
+      "dollarPnl": 9.1
     },
     {
       "signalKey": "nhl-ana-col-2026-11-19::TEAM::Avalanche",
@@ -1610,6 +1665,8 @@
       "totalStake": 56229.33,
       "avgEntry": 0.4922,
       "curPrice": 0.4922,
+      "fanduelOdds": "-106",
+      "polyUnitsPnl": 1.03,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1620,9 +1677,9 @@
       "alertedAt": "2026-11-20T01:32:18.959438+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 1.03,
+      "unitsPnl": 0.94,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 10.3
+      "dollarPnl": 9.4
     },
     {
       "signalKey": "nhl-van-sea-2026-11-19::TEAM::Kraken",
@@ -1638,6 +1695,8 @@
       "totalStake": 44922.6,
       "avgEntry": 0.6,
       "curPrice": 0.6,
+      "fanduelOdds": "-169",
+      "polyUnitsPnl": 0.67,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1646,9 +1705,9 @@
       "alertedAt": "2026-11-19T20:51:35.711370+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.67,
+      "unitsPnl": 0.59,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 6.7
+      "dollarPnl": 5.9
     },
     {
       "signalKey": "cfb-cmich-buf-2026-11-18::TEAM::Central Michigan",
@@ -1664,6 +1723,8 @@
       "totalStake": 45309.2,
       "avgEntry": 0.4941,
       "curPrice": 0.4941,
+      "fanduelOdds": "-110",
+      "polyUnitsPnl": -1.0,
       "convictionPct": null,
       "startEt": "",
       "alignedNames": [
@@ -1712,6 +1773,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1750,6 +1814,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-199",
+      "fanduelOddsInt": -199,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1808,9 +1875,12 @@
       "alertedAt": "2026-11-16T23:58:45.496125+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 1.17,
+      "unitsPnl": 1.07,
+      "fanduelOdds": "+107",
+      "fanduelOddsInt": 107,
+      "polyUnitsPnl": 1.17,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 11.7
+      "dollarPnl": 10.7
     },
     {
       "signalKey": "nfl-pit-cin-2026-11-16::TEAM::Bengals",
@@ -1853,9 +1923,12 @@
       "alertedAt": "2026-11-16T00:28:06.740186+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.75,
+      "unitsPnl": 0.67,
+      "fanduelOdds": "-149",
+      "fanduelOddsInt": -149,
+      "polyUnitsPnl": 0.75,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 7.5
+      "dollarPnl": 6.7
     },
     {
       "signalKey": "nfl-mia-ind-2026-11-15::TEAM::Colts",
@@ -1912,9 +1985,12 @@
       "alertedAt": "2026-11-15T17:50:28.940032+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.69,
+      "unitsPnl": 0.61,
+      "fanduelOdds": "-163",
+      "fanduelOddsInt": -163,
+      "polyUnitsPnl": 0.69,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 6.9
+      "dollarPnl": 6.1
     },
     {
       "signalKey": "nfl-kc-atl-2026-11-15::TEAM::Chiefs",
@@ -1971,9 +2047,12 @@
       "alertedAt": "2026-11-15T15:33:11.226617+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.6,
+      "unitsPnl": 0.53,
+      "fanduelOdds": "-190",
+      "fanduelOddsInt": -190,
+      "polyUnitsPnl": 0.6,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 6.0
+      "dollarPnl": 5.3
     },
     {
       "signalKey": "nba-den-mem-2026-11-11::TEAM::Grizzlies",
@@ -2010,6 +2089,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "+138",
+      "fanduelOddsInt": 138,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2054,9 +2136,12 @@
       "alertedAt": "2026-11-11T23:40:08.618144+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.7,
+      "unitsPnl": 0.62,
+      "fanduelOdds": "-161",
+      "fanduelOddsInt": -161,
+      "polyUnitsPnl": 0.7,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 7.0
+      "dollarPnl": 6.2
     },
     {
       "signalKey": "nba-bos-tor-2026-11-11::TEAM::Raptors",
@@ -2100,6 +2185,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "+143",
+      "fanduelOddsInt": 143,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2144,9 +2232,12 @@
       "alertedAt": "2026-11-11T21:50:57.246153+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 1.08,
+      "unitsPnl": 0.91,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": 1.08,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 10.8
+      "dollarPnl": 9.1
     },
     {
       "signalKey": "nba-mem-tor-2026-11-09::TEAM::Grizzlies",
@@ -2203,9 +2294,12 @@
       "alertedAt": "2026-11-10T00:10:07.459760+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.92,
+      "unitsPnl": 0.83,
+      "fanduelOdds": "-120",
+      "fanduelOddsInt": -120,
+      "polyUnitsPnl": 0.92,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 9.2
+      "dollarPnl": 8.3
     },
     {
       "signalKey": "nfl-tb-chi-2026-11-09::TEAM::Bears",
@@ -2262,9 +2356,12 @@
       "alertedAt": "2026-11-08T23:52:34.646143+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.41,
+      "unitsPnl": 0.34,
+      "fanduelOdds": "-290",
+      "fanduelOddsInt": -290,
+      "polyUnitsPnl": 0.41,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 4.1
+      "dollarPnl": 3.4
     },
     {
       "signalKey": "nba-uta-min-2026-11-08::TOTAL::Under",
@@ -2300,9 +2397,12 @@
       "alertedAt": "2026-11-08T23:52:34.646143+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.94,
+      "unitsPnl": 0.91,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": 0.94,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 9.4
+      "dollarPnl": 9.1
     },
     {
       "signalKey": "nfl-tb-chi-2026-11-09::TEAM::Buccaneers",
@@ -2338,9 +2438,12 @@
       "alertedAt": "2026-11-08T15:51:18.588422+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.28,
+      "unitsPnl": 0.22,
+      "fanduelOdds": "-447",
+      "fanduelOddsInt": -447,
+      "polyUnitsPnl": 0.28,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 2.8
+      "dollarPnl": 2.2
     },
     {
       "signalKey": "nfl-gb-ne-2026-11-08::TOTAL::Under",
@@ -2377,6 +2480,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2414,9 +2520,12 @@
       "alertedAt": "2026-11-08T13:16:02.409802+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.79,
+      "unitsPnl": 0.71,
+      "fanduelOdds": "-141",
+      "fanduelOddsInt": -141,
+      "polyUnitsPnl": 0.79,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 7.9
+      "dollarPnl": 7.1
     },
     {
       "signalKey": "nba-orl-gsw-2026-11-07::TEAM::Warriors",
@@ -2466,9 +2575,12 @@
       "alertedAt": "2026-11-08T01:16:44.430291+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.37,
+      "unitsPnl": 0.31,
+      "fanduelOdds": "-324",
+      "fanduelOddsInt": -324,
+      "polyUnitsPnl": 0.37,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 3.7
+      "dollarPnl": 3.1
     },
     {
       "signalKey": "nba-mil-min-2026-11-02::TEAM::Bucks",
@@ -2505,6 +2617,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2549,9 +2664,12 @@
       "alertedAt": "2026-11-02T18:50:08.687670+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.56,
+      "unitsPnl": 0.49,
+      "fanduelOdds": "-206",
+      "fanduelOddsInt": -206,
+      "polyUnitsPnl": 0.56,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 5.6
+      "dollarPnl": 4.9
     },
     {
       "signalKey": "nfl-chi-sea-2026-11-03::TEAM::Bears",
@@ -2587,9 +2705,12 @@
       "alertedAt": "2026-11-02T18:03:15.595139+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 1.38,
+      "unitsPnl": 1.27,
+      "fanduelOdds": "+127",
+      "fanduelOddsInt": 127,
+      "polyUnitsPnl": 1.38,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 13.8
+      "dollarPnl": 12.7
     },
     {
       "signalKey": "nba-was-orl-2026-11-02::TEAM::Wizards",
@@ -2625,9 +2746,12 @@
       "alertedAt": "2026-11-02T13:40:07.898248+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 1.27,
+      "unitsPnl": 1.17,
+      "fanduelOdds": "+117",
+      "fanduelOddsInt": 117,
+      "polyUnitsPnl": 1.27,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 12.7
+      "dollarPnl": 11.7
     },
     {
       "signalKey": "nba-phx-gsw-2026-11-02::TEAM::Suns",
@@ -2651,6 +2775,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-120",
+      "fanduelOddsInt": -120,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2688,9 +2815,12 @@
       "alertedAt": "2026-11-02T13:20:43.298449+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.92,
+      "unitsPnl": 0.91,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": 0.92,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 9.2
+      "dollarPnl": 9.1
     },
     {
       "signalKey": "nfl-phi-was-2026-11-02::TEAM::Commanders",
@@ -2712,9 +2842,12 @@
       "alertedAt": "2026-11-02T00:50:06.650283+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.43,
+      "unitsPnl": 0.36,
+      "fanduelOdds": "-275",
+      "fanduelOddsInt": -275,
+      "polyUnitsPnl": 0.43,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 4.3
+      "dollarPnl": 3.6
     },
     {
       "signalKey": "nba-lac-gsw-2026-11-01::TEAM::Warriors",
@@ -2737,9 +2870,12 @@
       "alertedAt": "2026-11-02T00:50:06.650283+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.75,
+      "unitsPnl": 0.68,
+      "fanduelOdds": "-148",
+      "fanduelOddsInt": -148,
+      "polyUnitsPnl": 0.75,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 7.5
+      "dollarPnl": 6.8
     },
     {
       "signalKey": "nba-lac-gsw-2026-11-01::TEAM::Clippers",
@@ -2763,6 +2899,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2790,6 +2929,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-110",
+      "fanduelOddsInt": -110,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2819,6 +2961,9 @@
       "status": "SETTLED",
       "won": false,
       "unitsPnl": -1.0,
+      "fanduelOdds": "-155",
+      "fanduelOddsInt": -155,
+      "polyUnitsPnl": -1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2843,9 +2988,12 @@
       "alertedAt": "2026-11-01T20:31:47.110228+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 0.32,
+      "unitsPnl": 0.26,
+      "fanduelOdds": "-391",
+      "fanduelOddsInt": -391,
+      "polyUnitsPnl": 0.32,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 3.2
+      "dollarPnl": 2.6
     },
     {
       "signalKey": "nfl-kc-den-2026-11-01::TEAM::Broncos",
@@ -2868,9 +3016,12 @@
       "alertedAt": "2026-11-01T20:31:47.110228+00:00",
       "status": "SETTLED",
       "won": true,
-      "unitsPnl": 1.04,
+      "unitsPnl": 0.95,
+      "fanduelOdds": "-105",
+      "fanduelOddsInt": -105,
+      "polyUnitsPnl": 1.04,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 10.4
+      "dollarPnl": 9.5
     }
   ],
   "sharps": [
@@ -2921,7 +3072,7 @@
       "NBA_l": 2,
       "staked": 488775.49,
       "dollarPnl": 389258.95,
-      "units": 6.34,
+      "units": 5.55,
       "NHL_w": 1,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2934,7 +3085,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 63.4
+      "unitDollarPnl": 55.5
     },
     {
       "name": "BreakTheBank",
@@ -2946,7 +3097,7 @@
       "NBA_l": 2,
       "staked": 1295133.2,
       "dollarPnl": 175703.2,
-      "units": 3.97,
+      "units": 3.38,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -2959,7 +3110,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 39.7
+      "unitDollarPnl": 33.8
     },
     {
       "name": "primm",
@@ -2971,7 +3122,7 @@
       "NBA_l": 0,
       "staked": 10207.28,
       "dollarPnl": 12652.5,
-      "units": 4.08,
+      "units": 3.85,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 4,
@@ -2984,7 +3135,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 40.8
+      "unitDollarPnl": 38.5
     },
     {
       "name": "HomeRunHazard",
@@ -2996,7 +3147,7 @@
       "NBA_l": 2,
       "staked": 213146.86,
       "dollarPnl": 35564.93,
-      "units": 3.98,
+      "units": 2.88,
       "NHL_w": 2,
       "NHL_l": 1,
       "CFB_w": 3,
@@ -3009,7 +3160,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 39.8
+      "unitDollarPnl": 28.8
     },
     {
       "name": "nigiri99",
@@ -3021,7 +3172,7 @@
       "NBA_l": 4,
       "staked": 462267.06,
       "dollarPnl": 344263.31,
-      "units": 2.31,
+      "units": 1.42,
       "NHL_w": 2,
       "NHL_l": 1,
       "CFB_w": 4,
@@ -3034,7 +3185,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 23.1
+      "unitDollarPnl": 14.2
     },
     {
       "name": "googleplay",
@@ -3046,7 +3197,7 @@
       "NBA_l": 0,
       "staked": 75995.97,
       "dollarPnl": 72467.2,
-      "units": 1.31,
+      "units": 1.22,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3059,7 +3210,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 13.1
+      "unitDollarPnl": 12.2
     },
     {
       "name": "drainedandpoor",
@@ -3071,7 +3222,7 @@
       "NBA_l": 4,
       "staked": 113176.87,
       "dollarPnl": -33841.34,
-      "units": 0.8,
+      "units": 0.23,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3084,13 +3235,13 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 8.0
+      "unitDollarPnl": 2.3
     },
     {
       "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
       "wins": 1,
       "losses": 0,
-      "units": 1.26,
+      "units": 1.16,
       "staked": 0.0,
       "dollarPnl": 0.0,
       "NFL_w": 0,
@@ -3109,32 +3260,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 12.6
-    },
-    {
-      "name": "RJW1",
-      "wins": 1,
-      "losses": 0,
-      "NFL_w": 0,
-      "NFL_l": 0,
-      "NBA_w": 1,
-      "NBA_l": 0,
-      "staked": 20950.29,
-      "dollarPnl": 21216.25,
-      "units": 0.92,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "TENNIS_w": 0,
-      "TENNIS_l": 0,
-      "unitDollarPnl": 9.2
+      "unitDollarPnl": 11.6
     },
     {
       "name": "darkumbreon88",
@@ -3146,7 +3272,7 @@
       "NBA_l": 0,
       "staked": 2379.68,
       "dollarPnl": 1521.43,
-      "units": 0.85,
+      "units": 0.91,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3159,7 +3285,32 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 8.5
+      "unitDollarPnl": 9.1
+    },
+    {
+      "name": "RJW1",
+      "wins": 1,
+      "losses": 0,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 1,
+      "NBA_l": 0,
+      "staked": 20950.29,
+      "dollarPnl": 21216.25,
+      "units": 0.83,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 8.3
     },
     {
       "name": "jakepaulthegoat2008",
@@ -3171,7 +3322,7 @@
       "NBA_l": 0,
       "staked": 20298.69,
       "dollarPnl": 15313.05,
-      "units": 0.75,
+      "units": 0.68,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3184,7 +3335,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 7.5
+      "unitDollarPnl": 6.8
     },
     {
       "name": "justwins",
@@ -3196,7 +3347,7 @@
       "NBA_l": 0,
       "staked": 42921.71,
       "dollarPnl": 41255.02,
-      "units": 0.69,
+      "units": 0.61,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3209,7 +3360,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 6.9
+      "unitDollarPnl": 6.1
     },
     {
       "name": "VirIntrepidus",
@@ -3221,7 +3372,7 @@
       "NBA_l": 0,
       "staked": 6200.0,
       "dollarPnl": 3800.0,
-      "units": 0.6,
+      "units": 0.53,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3234,7 +3385,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 6.0
+      "unitDollarPnl": 5.3
     },
     {
       "name": "chongchong37",
@@ -3246,7 +3397,7 @@
       "NBA_l": 0,
       "staked": 4319.99,
       "dollarPnl": 3681.47,
-      "units": 0.56,
+      "units": 0.49,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3259,7 +3410,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 5.6
+      "unitDollarPnl": 4.9
     },
     {
       "name": "UpTheBlues",
@@ -3271,7 +3422,7 @@
       "NBA_l": 1,
       "staked": 105360.55,
       "dollarPnl": -40122.44,
-      "units": 0.51,
+      "units": 0.34,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3284,7 +3435,32 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 5.1
+      "unitDollarPnl": 3.4
+    },
+    {
+      "name": "Multicoloured-Serf",
+      "wins": 2,
+      "losses": 1,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "staked": 8325.24,
+      "dollarPnl": 9019.01,
+      "units": 0.25,
+      "NHL_w": 0,
+      "NHL_l": 1,
+      "CFB_w": 1,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 2.5
     },
     {
       "name": "keeptheblueflagflyinghigh",
@@ -3296,7 +3472,7 @@
       "NBA_l": 1,
       "staked": 98758.45,
       "dollarPnl": 74408.22,
-      "units": 0.35,
+      "units": 0.03,
       "NHL_w": 2,
       "NHL_l": 1,
       "CFB_w": 1,
@@ -3309,32 +3485,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 3.5
-    },
-    {
-      "name": "Multicoloured-Serf",
-      "wins": 2,
-      "losses": 1,
-      "NFL_w": 1,
-      "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "staked": 8325.24,
-      "dollarPnl": 9019.01,
-      "units": 0.3,
-      "NHL_w": 0,
-      "NHL_l": 1,
-      "CFB_w": 1,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "TENNIS_w": 0,
-      "TENNIS_l": 0,
-      "unitDollarPnl": 3.0
+      "unitDollarPnl": 0.3
     },
     {
       "name": "gmpm2",
@@ -3346,7 +3497,7 @@
       "NBA_l": 1,
       "staked": 500671.68,
       "dollarPnl": 254370.89,
-      "units": -0.54,
+      "units": -0.88,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3359,7 +3510,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": -5.4
+      "unitDollarPnl": -8.8
     },
     {
       "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
@@ -3371,7 +3522,7 @@
       "NBA_l": 0,
       "staked": 1692.63,
       "dollarPnl": 911.82,
-      "units": -0.31,
+      "units": -0.39,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3384,7 +3535,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": -3.1
+      "unitDollarPnl": -3.9
     },
     {
       "name": "takeormake",
@@ -3396,7 +3547,7 @@
       "NBA_l": 1,
       "staked": 7603.08,
       "dollarPnl": -2554.04,
-      "units": -0.59,
+      "units": -0.66,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3409,7 +3560,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": -5.9
+      "unitDollarPnl": -6.6
     },
     {
       "name": "0x448861155279dbf833d041b963e3ac854599e319",
@@ -3421,7 +3572,7 @@
       "NBA_l": 0,
       "staked": 30974.63,
       "dollarPnl": 12104.61,
-      "units": -0.65,
+      "units": -0.8,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3434,7 +3585,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": -6.5
+      "unitDollarPnl": -8.0
     },
     {
       "name": "robloxgamblemaster-2008-10-18",
@@ -3446,7 +3597,7 @@
       "NBA_l": 2,
       "staked": 703307.2,
       "dollarPnl": 207893.05,
-      "units": -0.76,
+      "units": -1.0,
       "NHL_w": 0,
       "NHL_l": 1,
       "CFB_w": 0,
@@ -3459,7 +3610,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": -7.6
+      "unitDollarPnl": -10.0
     },
     {
       "name": "monkeymashingkeyboard",
@@ -3471,7 +3622,7 @@
       "NBA_l": 1,
       "staked": 82735.02,
       "dollarPnl": -69758.41,
-      "units": 0.38,
+      "units": 0.13,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 1,
@@ -3484,7 +3635,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 3.8
+      "unitDollarPnl": 1.3
     },
     {
       "name": "CUTJALENHURTS",
@@ -3596,7 +3747,7 @@
       "NBA_l": 2,
       "staked": 131569.73,
       "dollarPnl": -63053.21,
-      "units": -1.64,
+      "units": -1.79,
       "NHL_w": 0,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3609,7 +3760,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": -16.4
+      "unitDollarPnl": -17.9
     }
   ],
   "nbaParlays": {
@@ -3664,15 +3815,15 @@
       "whales": {
         "wins": 2,
         "losses": 0,
-        "units": 1.01,
-        "dollarPnl": 10.1
+        "units": 0.87,
+        "dollarPnl": 8.7
       },
       "combined": {
         "wins": 3,
         "losses": 1,
         "pushes": 0,
-        "units": 0.75,
-        "dollarPnl": 7.5
+        "units": 0.61,
+        "dollarPnl": 6.1
       }
     },
     "opposite": {
@@ -3725,7 +3876,7 @@
         "modelUnits": 0.74,
         "whalePick": "Colts ML",
         "whaleResult": "WIN",
-        "whaleUnits": 0.69
+        "whaleUnits": 0.61
       },
       {
         "date": "2026-11-01",
@@ -3738,7 +3889,7 @@
         "modelUnits": -1.0,
         "whalePick": "Patriots ML",
         "whaleResult": "WIN",
-        "whaleUnits": 0.32
+        "whaleUnits": 0.26
       }
     ]
   }
