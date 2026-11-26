@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-26T02:41:10.363583+00:00",
+  "updatedAt": "2026-11-26T02:48:19.944152+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -112,7 +112,7 @@
         "staked": 68744.17,
         "winRate": 0.0,
         "picks": [
-          "Double Chance: Opp/Draw (Not CF Monterrey) (OPEN)"
+          "Double Chance: CF Am\u00e9rica or Draw (OPEN)"
         ]
       }
     },
@@ -789,7 +789,7 @@
       "eventTitle": "CF Monterrey vs. CF Am\u00e9rica",
       "family": "DOUBLE_CHANCE",
       "side": "Not CF Monterrey",
-      "pickLabel": "Double Chance: Opp/Draw (Not CF Monterrey)",
+      "pickLabel": "Double Chance: CF Am\u00e9rica or Draw",
       "primaryTitle": "Will CF Monterrey win on 2026-11-25?",
       "tier": 0,
       "nAligned": 2,
@@ -820,7 +820,7 @@
       "eventTitle": "CF Monterrey vs. CF Am\u00e9rica",
       "family": "DOUBLE_CHANCE",
       "side": "Not CF Monterrey",
-      "pickLabel": "Double Chance: Opp/Draw (Not CF Monterrey)",
+      "pickLabel": "Double Chance: CF Am\u00e9rica or Draw",
       "primaryTitle": "Will CF Monterrey win on 2026-11-25?",
       "tier": 0,
       "nAligned": 2,

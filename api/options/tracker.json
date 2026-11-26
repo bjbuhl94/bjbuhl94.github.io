@@ -1,0 +1,188 @@
+{
+  "campaign": "Robinhood Level-3 Options Campaign",
+  "startedAt": "2026-11-25",
+  "startingBankroll": 1000.0,
+  "cashBalance": 1000.0,
+  "realizedPnl": 0,
+  "unrealizedPnl": 0,
+  "currentEquity": 1000.0,
+  "totalReturnPct": 0.0,
+  "maxEquityPeak": 1000.0,
+  "maxDrawdownPct": 0.0,
+  "openRiskDollars": 0,
+  "openPositions": [],
+  "closedPositions": [],
+  "summary": {
+    "wins": 0,
+    "losses": 0,
+    "winRatePct": 0.0,
+    "profitFactor": 0.0,
+    "avgWinDollars": 0.0,
+    "avgLossDollars": 0.0,
+    "avgHoldDays": 0.0,
+    "byPlaybook": {
+      "PUT_CREDIT": {
+        "wins": 0,
+        "losses": 0,
+        "pnl": 0.0
+      },
+      "CALL_DEBIT": {
+        "wins": 0,
+        "losses": 0,
+        "pnl": 0.0
+      }
+    }
+  },
+  "marketSnapshot": {
+    "lastScanAt": "2026-11-26T02:38:32.915672+00:00",
+    "marketStatus": "After-hours (09:38 PM ET; OPRA closed at 04:00 PM ET)",
+    "entryWindowOpen": false,
+    "spyPrice": 716.7,
+    "spySma200": 730.77,
+    "vix": 28.29,
+    "regime": "DEFENSIVE_CAUTION (New Bull Entries Paused)",
+    "watchlist": [
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "price": 406.03,
+        "dayChangePct": -1.75,
+        "rsi2": 17.6,
+        "rsi14": 38.0,
+        "ivRank": 100.0,
+        "sma50": 548.35,
+        "sma200": 432.96,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc.",
+        "price": 300.86,
+        "dayChangePct": -0.07,
+        "rsi2": 18.8,
+        "rsi14": 40.8,
+        "ivRank": 87.4,
+        "sma50": 340.53,
+        "sma200": 366.43,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc.",
+        "price": 273.1,
+        "dayChangePct": -2.13,
+        "rsi2": 31.9,
+        "rsi14": 36.9,
+        "ivRank": 99.8,
+        "sma50": 318.24,
+        "sma200": 336.06,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "QQQ",
+        "name": "Invesco QQQ Nasdaq-100 ETF",
+        "price": 633.93,
+        "dayChangePct": -0.65,
+        "rsi2": 39.6,
+        "rsi14": 38.6,
+        "ivRank": 66.1,
+        "sma50": 707.02,
+        "sma200": 682.54,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp.",
+        "price": 149.3,
+        "dayChangePct": -3.91,
+        "rsi2": 41.3,
+        "rsi14": 37.5,
+        "ivRank": 100.0,
+        "sma50": 203.65,
+        "sma200": 202.62,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "SPY",
+        "name": "SPDR S&P 500 ETF",
+        "price": 716.7,
+        "dayChangePct": -0.29,
+        "rsi2": 49.5,
+        "rsi14": 39.9,
+        "ivRank": 66.1,
+        "sma50": 757.85,
+        "sma200": 730.77,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "IWM",
+        "name": "iShares Russell 2000 ETF",
+        "price": 268.87,
+        "dayChangePct": 0.65,
+        "rsi2": 76.9,
+        "rsi14": 45.0,
+        "ivRank": 66.1,
+        "sma50": 277.16,
+        "sma200": 278.73,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "NFLX",
+        "name": "Netflix Inc.",
+        "price": 59.41,
+        "dayChangePct": 0.92,
+        "rsi2": 79.2,
+        "rsi14": 38.8,
+        "ivRank": 32.3,
+        "sma50": 66.24,
+        "sma200": 79.59,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      }
+    ]
+  },
+  "backtestBenchmark": {
+    "period": "2023-11-25 to 2026-11-24 (3 Full Years, Zero Losing 12M Windows)",
+    "startingBankroll": 1000.0,
+    "endingBankroll3Y": 1652.32,
+    "totalTrades3Y": 73,
+    "wins3Y": 53,
+    "losses3Y": 20,
+    "winRatePct": 72.6,
+    "profitFactor": 1.48,
+    "maxDrawdownPct": -15.1,
+    "windows12M": [
+      {
+        "period": "2023\u20132024",
+        "record": "19W-5L",
+        "winRatePct": 79.2,
+        "returnPct": 43.4,
+        "profitFactor": 2.97,
+        "maxDrawdownPct": -6.6
+      },
+      {
+        "period": "2024\u20132025",
+        "record": "14W-6L",
+        "winRatePct": 70.0,
+        "returnPct": 16.6,
+        "profitFactor": 1.58,
+        "maxDrawdownPct": -15.0
+      },
+      {
+        "period": "2025\u20132026",
+        "record": "18W-7L",
+        "winRatePct": 72.0,
+        "returnPct": 14.5,
+        "profitFactor": 1.31,
+        "maxDrawdownPct": -13.7
+      }
+    ]
+  }
+}
