@@ -13,7 +13,7 @@
     "edge": 10.6,
     "rationale": "Official Telegram-triggered NFL Pick Model play locked at Under +50.5 (-110 \u00b7 63.0% model estimate vs 52.4% implied). Active in the official NFL season ledger (even if sportsbook lines subsequently move) and graded automatically at final score.",
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T14:13:04.771071+00:00",
+    "updatedAt": "2026-11-26T14:16:46.692499+00:00",
     "status": "qualified"
   },
   {
@@ -64,7 +64,7 @@
     "edge": 4.4,
     "rationale": "Official Telegram-triggered NFL Pick Model play locked at New York Giants -6.5 (-111 \u00b7 57.0% model estimate vs 52.6% implied). Active in the official NFL season ledger (even if sportsbook lines subsequently move) and graded automatically at final score.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T14:13:04.771071+00:00",
+    "updatedAt": "2026-11-26T14:16:46.692499+00:00",
     "status": "qualified"
   },
   {
@@ -98,7 +98,7 @@
     "edge": 2.5,
     "rationale": "Official Telegram-triggered NFL Pick Model play locked at New England Patriots +1.5 (-115 \u00b7 56.0% model estimate vs 53.5% implied). Active in the official NFL season ledger (even if sportsbook lines subsequently move) and graded automatically at final score.",
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T14:13:04.771071+00:00",
+    "updatedAt": "2026-11-26T14:16:46.692499+00:00",
     "status": "qualified"
   }
 ]
