@@ -698,6 +698,8 @@
       "pickLabel": "Double Chance: CF Am\u00e9rica or Tie",
       "primaryTitle": "Will CF Monterrey win on 2026-11-25?",
       "tier": 0,
+      "tierLabel": "Multi-Whale High-WR Consensus",
+      "recommendedUnits": 1.5,
       "nAligned": 2,
       "totalStake": 68744.17,
       "avgEntry": 0.5327,
@@ -727,6 +729,8 @@
       "pickLabel": "Hurricanes ML",
       "primaryTitle": "Hurricanes vs. Lightning",
       "tier": 0,
+      "tierLabel": "Multi-Whale High-WR Consensus",
+      "recommendedUnits": 1.5,
       "nAligned": 2,
       "totalStake": 115432.98,
       "avgEntry": 0.5199,
@@ -796,6 +800,7 @@
       "fanduelOdds": "+102",
       "fanduelOddsInt": 102,
       "polyUnitsPnl": 1.12,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 10.2
     },
@@ -863,6 +868,7 @@
       "fanduelOdds": "-138",
       "fanduelOddsInt": -138,
       "polyUnitsPnl": 0.82,
+      "recommendedUnits": 1.5,
       "unitSizeDollars": 10.0,
       "dollarPnl": 7.2
     },
@@ -916,6 +922,7 @@
       "fanduelOdds": "-164",
       "fanduelOddsInt": -164,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -929,6 +936,8 @@
       "pickLabel": "Under 6.5",
       "primaryTitle": "Golden Knights vs. Oilers",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 4,
       "totalStake": 36288.5,
       "avgEntry": 0.5089,
@@ -960,6 +969,8 @@
       "pickLabel": "Miami (OH) ML",
       "primaryTitle": "Miami (OH) vs. Western Michigan",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 3,
       "totalStake": 21208.52,
       "avgEntry": 0.2998,
@@ -1037,6 +1048,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": 0.99,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 9.1
     },
@@ -1083,6 +1095,7 @@
       "fanduelOdds": "+110",
       "fanduelOddsInt": 110,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1142,6 +1155,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": 0.85,
+      "recommendedUnits": 1.5,
       "unitSizeDollars": 10.0,
       "dollarPnl": 9.1
     },
@@ -1155,6 +1169,8 @@
       "pickLabel": "Hurricanes (-1.5)",
       "primaryTitle": "Hurricanes vs. Rangers",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 2,
       "totalStake": 53740.04,
       "avgEntry": 0.4418,
@@ -1219,6 +1235,7 @@
       "fanduelOdds": "+128",
       "fanduelOddsInt": 128,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1232,6 +1249,8 @@
       "pickLabel": "Maple Leafs ML",
       "primaryTitle": "Blue Jackets vs. Maple Leafs",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 2,
       "totalStake": 50801.08,
       "avgEntry": 0.5215,
@@ -1261,6 +1280,8 @@
       "pickLabel": "Arkansas State (+17.5)",
       "primaryTitle": "Arkansas State vs. Louisiana Tech",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 3,
       "totalStake": 17098.58,
       "avgEntry": 0.5324,
@@ -1291,6 +1312,8 @@
       "pickLabel": "LSU ML",
       "primaryTitle": "LSU vs. Tennessee",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 4,
       "totalStake": 19345.72,
       "avgEntry": 0.5034,
@@ -1322,6 +1345,8 @@
       "pickLabel": "New Mexico State (+2.5)",
       "primaryTitle": "Delaware vs. New Mexico State",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 3,
       "totalStake": 30357.56,
       "avgEntry": 0.476,
@@ -1352,6 +1377,8 @@
       "pickLabel": "Over 47.5",
       "primaryTitle": "Old Dominion vs. UConn",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 2,
       "totalStake": 30290.89,
       "avgEntry": 0.5281,
@@ -1381,6 +1408,8 @@
       "pickLabel": "Baylor (+4.5)",
       "primaryTitle": "Texas Tech vs. Baylor",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 3,
       "totalStake": 117545.96,
       "avgEntry": 0.4653,
@@ -1411,6 +1440,8 @@
       "pickLabel": "Wake Forest (-19.5)",
       "primaryTitle": "Wake Forest vs. Georgia Tech",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 3,
       "totalStake": 15542.56,
       "avgEntry": 0.5262,
@@ -1441,6 +1472,8 @@
       "pickLabel": "Nebraska ML",
       "primaryTitle": "Ohio State vs. Nebraska",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 3,
       "totalStake": 44797.3,
       "avgEntry": 0.3808,
@@ -1471,6 +1504,8 @@
       "pickLabel": "Red Wings (+1.5)",
       "primaryTitle": "Islanders vs. Red Wings",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 2,
       "totalStake": 22397.6,
       "avgEntry": 0.6625,
@@ -1500,6 +1535,8 @@
       "pickLabel": "Boise State (-18.5)",
       "primaryTitle": "San Diego State vs. Boise State",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 2,
       "totalStake": 25250.59,
       "avgEntry": 0.5178,
@@ -1529,6 +1566,8 @@
       "pickLabel": "Air Force (-21.5)",
       "primaryTitle": "UTEP vs. Air Force",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 3,
       "totalStake": 15042.29,
       "avgEntry": 0.5077,
@@ -1559,6 +1598,8 @@
       "pickLabel": "Avalanche ML",
       "primaryTitle": "Ducks vs. Avalanche",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 3,
       "totalStake": 56229.33,
       "avgEntry": 0.4922,
@@ -1589,6 +1630,8 @@
       "pickLabel": "Kraken ML",
       "primaryTitle": "Canucks vs. Kraken",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 1,
       "totalStake": 44922.6,
       "avgEntry": 0.6,
@@ -1617,6 +1660,8 @@
       "pickLabel": "Central Michigan (+2.5)",
       "primaryTitle": "Central Michigan vs. Buffalo",
       "tier": 1,
+      "tierLabel": "Elite Profitable Sharp",
+      "recommendedUnits": 1.0,
       "nAligned": 2,
       "totalStake": 45309.2,
       "avgEntry": 0.4941,
@@ -1674,6 +1719,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1715,6 +1761,7 @@
       "fanduelOdds": "-199",
       "fanduelOddsInt": -199,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -1777,6 +1824,7 @@
       "fanduelOdds": "+107",
       "fanduelOddsInt": 107,
       "polyUnitsPnl": 1.17,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 10.7
     },
@@ -1825,6 +1873,7 @@
       "fanduelOdds": "-149",
       "fanduelOddsInt": -149,
       "polyUnitsPnl": 0.75,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 6.7
     },
@@ -1887,6 +1936,7 @@
       "fanduelOdds": "-163",
       "fanduelOddsInt": -163,
       "polyUnitsPnl": 0.69,
+      "recommendedUnits": 1.5,
       "unitSizeDollars": 10.0,
       "dollarPnl": 6.1
     },
@@ -1949,6 +1999,7 @@
       "fanduelOdds": "-190",
       "fanduelOddsInt": -190,
       "polyUnitsPnl": 0.6,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 5.3
     },
@@ -1990,6 +2041,7 @@
       "fanduelOdds": "+138",
       "fanduelOddsInt": 138,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2038,6 +2090,7 @@
       "fanduelOdds": "-161",
       "fanduelOddsInt": -161,
       "polyUnitsPnl": 0.7,
+      "recommendedUnits": 1.5,
       "unitSizeDollars": 10.0,
       "dollarPnl": 6.2
     },
@@ -2086,6 +2139,7 @@
       "fanduelOdds": "+143",
       "fanduelOddsInt": 143,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2134,6 +2188,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": 1.08,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 9.1
     },
@@ -2196,6 +2251,7 @@
       "fanduelOdds": "-120",
       "fanduelOddsInt": -120,
       "polyUnitsPnl": 0.92,
+      "recommendedUnits": 1.5,
       "unitSizeDollars": 10.0,
       "dollarPnl": 8.3
     },
@@ -2258,6 +2314,7 @@
       "fanduelOdds": "-290",
       "fanduelOddsInt": -290,
       "polyUnitsPnl": 0.41,
+      "recommendedUnits": 1.5,
       "unitSizeDollars": 10.0,
       "dollarPnl": 3.4
     },
@@ -2299,6 +2356,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": 0.94,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 9.1
     },
@@ -2340,6 +2398,7 @@
       "fanduelOdds": "-447",
       "fanduelOddsInt": -447,
       "polyUnitsPnl": 0.28,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 2.2
     },
@@ -2381,6 +2440,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2422,6 +2482,7 @@
       "fanduelOdds": "-141",
       "fanduelOddsInt": -141,
       "polyUnitsPnl": 0.79,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 7.1
     },
@@ -2477,6 +2538,7 @@
       "fanduelOdds": "-324",
       "fanduelOddsInt": -324,
       "polyUnitsPnl": 0.37,
+      "recommendedUnits": 1.5,
       "unitSizeDollars": 10.0,
       "dollarPnl": 3.1
     },
@@ -2518,6 +2580,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2566,6 +2629,7 @@
       "fanduelOdds": "-206",
       "fanduelOddsInt": -206,
       "polyUnitsPnl": 0.56,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 4.9
     },
@@ -2607,6 +2671,7 @@
       "fanduelOdds": "+127",
       "fanduelOddsInt": 127,
       "polyUnitsPnl": 1.38,
+      "recommendedUnits": 1.5,
       "unitSizeDollars": 10.0,
       "dollarPnl": 12.7
     },
@@ -2648,6 +2713,7 @@
       "fanduelOdds": "+117",
       "fanduelOddsInt": 117,
       "polyUnitsPnl": 1.27,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 11.7
     },
@@ -2676,6 +2742,7 @@
       "fanduelOdds": "-120",
       "fanduelOddsInt": -120,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2717,6 +2784,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": 0.92,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 9.1
     },
@@ -2744,6 +2812,7 @@
       "fanduelOdds": "-275",
       "fanduelOddsInt": -275,
       "polyUnitsPnl": 0.43,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 3.6
     },
@@ -2772,6 +2841,7 @@
       "fanduelOdds": "-148",
       "fanduelOddsInt": -148,
       "polyUnitsPnl": 0.75,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 6.8
     },
@@ -2800,6 +2870,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2830,6 +2901,7 @@
       "fanduelOdds": "-110",
       "fanduelOddsInt": -110,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2862,6 +2934,7 @@
       "fanduelOdds": "-155",
       "fanduelOddsInt": -155,
       "polyUnitsPnl": -1.0,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": -10.0
     },
@@ -2890,6 +2963,7 @@
       "fanduelOdds": "-391",
       "fanduelOddsInt": -391,
       "polyUnitsPnl": 0.32,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 2.6
     },
@@ -2918,6 +2992,7 @@
       "fanduelOdds": "-105",
       "fanduelOddsInt": -105,
       "polyUnitsPnl": 1.04,
+      "recommendedUnits": 1.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 9.5
     }
