@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-25T23:19:15.262328+00:00",
+  "updatedAt": "2026-11-26T00:06:41.961655+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -108,7 +108,7 @@
         "pending": 1,
         "units": 1.26,
         "dollarPnl": 12.6,
-        "staked": 157398.42,
+        "staked": 169173.02,
         "winRate": 100.0,
         "picks": [
           "Hurricanes ML (OPEN)",
@@ -370,7 +370,7 @@
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 171727.83,
+        "staked": 209099.35,
         "winRate": 0.0,
         "picks": [
           "Rams ML (OPEN)"
@@ -682,16 +682,17 @@
       "pickLabel": "Rams ML",
       "primaryTitle": "Packers vs. Rams",
       "tier": 0,
-      "tierLabel": "2 Top NFL Sharps Aligned (93% Conviction)",
-      "nAligned": 4,
-      "totalStake": 171727.8298,
+      "tierLabel": "2 Top NFL Sharps Aligned (94% Conviction)",
+      "nAligned": 5,
+      "totalStake": 209099.3503,
       "avgEntry": 0.5505055856260734,
       "curPrice": 0.565,
-      "convictionPct": 92.7,
+      "convictionPct": 93.5,
       "startEt": "8:00 PM ET",
       "alignedNames": [
         "Multicoloured-Serf",
         "gmpm2",
+        "robloxgamblemaster-2008-10-18",
         "primm",
         "NFL Pick Model"
       ],
@@ -704,14 +705,20 @@
         },
         {
           "name": "gmpm2",
-          "netCost": 67542.5754,
+          "netCost": 72375.3539,
           "avgPrice": 0.5599,
           "pickLabel": "Rams ML"
         },
         {
+          "name": "robloxgamblemaster-2008-10-18",
+          "netCost": 31350.0,
+          "avgPrice": 0.57,
+          "pickLabel": "Rams ML"
+        },
+        {
           "name": "primm",
-          "netCost": 7168.250099999999,
-          "avgPrice": 0.420825518349311,
+          "netCost": 8356.9921,
+          "avgPrice": 0.41219199927806566,
           "pickLabel": "Rams (-3.5)"
         },
         {
@@ -740,9 +747,9 @@
       "primaryTitle": "Hurricanes vs. Lightning",
       "tier": 0,
       "nAligned": 2,
-      "totalStake": 103658.38,
+      "totalStake": 115432.98,
       "avgEntry": 0.5199,
-      "curPrice": 0.525,
+      "curPrice": 0.515,
       "convictionPct": 80.0,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -819,9 +826,9 @@
       "primaryTitle": "Hurricanes vs. Lightning",
       "tier": 0,
       "nAligned": 2,
-      "totalStake": 103658.38,
+      "totalStake": 115432.98,
       "avgEntry": 0.5199,
-      "curPrice": 0.525,
+      "curPrice": 0.515,
       "convictionPct": 80.0,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -895,16 +902,17 @@
       "pickLabel": "Rams ML",
       "primaryTitle": "Packers vs. Rams",
       "tier": 0,
-      "tierLabel": "2 Top NFL Sharps Aligned (93% Conviction)",
-      "nAligned": 4,
-      "totalStake": 171727.8298,
+      "tierLabel": "2 Top NFL Sharps Aligned (94% Conviction)",
+      "nAligned": 5,
+      "totalStake": 209099.3503,
       "avgEntry": 0.5505055856260734,
       "curPrice": 0.565,
-      "convictionPct": 92.7,
+      "convictionPct": 93.5,
       "startEt": "8:00 PM ET",
       "alignedNames": [
         "Multicoloured-Serf",
         "gmpm2",
+        "robloxgamblemaster-2008-10-18",
         "primm",
         "NFL Pick Model"
       ],
@@ -917,14 +925,20 @@
         },
         {
           "name": "gmpm2",
-          "netCost": 67542.5754,
+          "netCost": 72375.3539,
           "avgPrice": 0.5599,
           "pickLabel": "Rams ML"
         },
         {
+          "name": "robloxgamblemaster-2008-10-18",
+          "netCost": 31350.0,
+          "avgPrice": 0.57,
+          "pickLabel": "Rams ML"
+        },
+        {
           "name": "primm",
-          "netCost": 7168.250099999999,
-          "avgPrice": 0.420825518349311,
+          "netCost": 8356.9921,
+          "avgPrice": 0.41219199927806566,
           "pickLabel": "Rams (-3.5)"
         },
         {
