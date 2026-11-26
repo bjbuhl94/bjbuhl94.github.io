@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-26T11:36:13.687850+00:00",
+  "updatedAt": "2026-11-26T11:54:19.586602+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -19,13 +19,13 @@
     "TENNIS"
   ],
   "overall": {
-    "wins": 34,
+    "wins": 35,
     "losses": 21,
-    "pending": 1,
+    "pending": 0,
     "total": 56,
-    "units": 6.76,
+    "units": 7.51,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 67.6
+    "dollarPnl": 75.1
   },
   "summary": {
     "NFL": {
@@ -83,13 +83,13 @@
       "dollarPnl": 0.0
     },
     "SOCCER": {
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "pending": 1,
+      "pending": 0,
       "total": 1,
-      "units": 0.0,
+      "units": 0.75,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 7.5
     },
     "TENNIS": {
       "wins": 0,
@@ -104,15 +104,15 @@
   "teams": {
     "SOCCER": {
       "SOCCER Totals (Over/Under)": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "pending": 0,
+        "units": 0.75,
+        "dollarPnl": 7.5,
         "staked": 68744.17,
-        "winRate": 0.0,
+        "winRate": 100.0,
         "picks": [
-          "Double Chance: CF Am\u00e9rica or Tie (OPEN)"
+          "Double Chance: CF Am\u00e9rica or Tie (W)"
         ]
       }
     },
@@ -686,37 +686,7 @@
       }
     }
   },
-  "activePicks": [
-    {
-      "signalKey": "mex-mon1-ame-2026-11-25::DOUBLE_CHANCE::Not CF Monterrey",
-      "sport": "SOCCER",
-      "eventSlug": "mex-mon1-ame-2026-11-25",
-      "eventTitle": "CF Monterrey vs. CF Am\u00e9rica",
-      "family": "DOUBLE_CHANCE",
-      "side": "Not CF Monterrey",
-      "pickLabel": "Double Chance: CF Am\u00e9rica or Tie",
-      "primaryTitle": "Will CF Monterrey win on 2026-11-25?",
-      "tier": 0,
-      "nAligned": 2,
-      "totalStake": 68744.17,
-      "avgEntry": 0.5327,
-      "curPrice": 0.545,
-      "fanduelOdds": "-133",
-      "polyUnitsPnl": null,
-      "convictionPct": 86.0,
-      "startEt": "10:10 PM ET",
-      "alignedNames": [
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "RN1"
-      ],
-      "alertedAt": "2026-11-26T02:35:31.545510+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    }
-  ],
+  "activePicks": [],
   "picks": [
     {
       "signalKey": "mex-mon1-ame-2026-11-25::DOUBLE_CHANCE::Not CF Monterrey",
@@ -733,7 +703,7 @@
       "avgEntry": 0.5327,
       "curPrice": 0.545,
       "fanduelOdds": "-133",
-      "polyUnitsPnl": null,
+      "polyUnitsPnl": 0.88,
       "convictionPct": 86.0,
       "startEt": "10:10 PM ET",
       "alignedNames": [
@@ -741,11 +711,11 @@
         "RN1"
       ],
       "alertedAt": "2026-11-26T02:35:31.545510+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 0.75,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 7.5
     },
     {
       "signalKey": "nhl-car-tb-2026-11-25::TEAM::Hurricanes",
@@ -2992,7 +2962,7 @@
     },
     {
       "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-      "wins": 11,
+      "wins": 12,
       "losses": 3,
       "NFL_w": 5,
       "NFL_l": 0,
@@ -3000,7 +2970,7 @@
       "NBA_l": 2,
       "staked": 488775.49,
       "dollarPnl": 389258.95,
-      "units": 5.55,
+      "units": 6.3,
       "NHL_w": 1,
       "NHL_l": 0,
       "CFB_w": 0,
@@ -3009,11 +2979,11 @@
       "NCAAB_l": 0,
       "UFC_w": 0,
       "UFC_l": 0,
-      "SOCCER_w": 0,
+      "SOCCER_w": 1,
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 55.5
+      "unitDollarPnl": 63.0
     },
     {
       "name": "BreakTheBank",
@@ -3314,6 +3284,31 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 8.3
+    },
+    {
+      "name": "RN1",
+      "wins": 1,
+      "losses": 0,
+      "units": 0.75,
+      "staked": 0.0,
+      "dollarPnl": 0.0,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 1,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 7.5
     },
     {
       "name": "jakepaulthegoat2008",
