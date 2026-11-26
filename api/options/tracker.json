@@ -1,5 +1,6 @@
 {
-  "campaign": "Robinhood Level-3 Options Campaign",
+  "campaign": "Robinhood Level-2 Options Campaign",
+  "optionsLevel": 2,
   "startedAt": "2026-11-25",
   "startingBankroll": 1000.0,
   "cashBalance": 1000.0,
@@ -9,6 +10,7 @@
   "totalReturnPct": 0.0,
   "maxEquityPeak": 1000.0,
   "maxDrawdownPct": 0.0,
+  "openCapitalCommitted": 0,
   "openRiskDollars": 0,
   "openPositions": [],
   "closedPositions": [],
@@ -21,12 +23,12 @@
     "avgLossDollars": 0.0,
     "avgHoldDays": 0.0,
     "byPlaybook": {
-      "PUT_CREDIT": {
+      "LONG_CALL": {
         "wins": 0,
         "losses": 0,
         "pnl": 0.0
       },
-      "CALL_DEBIT": {
+      "CASH_SECURED_PUT": {
         "wins": 0,
         "losses": 0,
         "pnl": 0.0
@@ -34,37 +36,24 @@
     }
   },
   "marketSnapshot": {
-    "lastScanAt": "2026-11-26T02:38:32.915672+00:00",
-    "marketStatus": "After-hours (09:38 PM ET; OPRA closed at 04:00 PM ET)",
+    "lastScanAt": "2026-11-26T03:37:29.611381+00:00",
+    "marketStatus": "After-hours (10:37 PM ET; OPRA closed at 04:00 PM ET)",
     "entryWindowOpen": false,
     "spyPrice": 716.7,
     "spySma200": 730.77,
     "vix": 28.29,
-    "regime": "DEFENSIVE_CAUTION (New Bull Entries Paused)",
+    "regime": "DEFENSIVE_CAUTION (SLV Active \u00b7 Equity Calls Paused)",
     "watchlist": [
       {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "price": 406.03,
-        "dayChangePct": -1.75,
-        "rsi2": 17.6,
-        "rsi14": 38.0,
+        "ticker": "SOXL",
+        "name": "Direxion Semiconductor ETF",
+        "price": 32.02,
+        "dayChangePct": -1.78,
+        "rsi2": 27.9,
+        "rsi14": 33.0,
         "ivRank": 100.0,
-        "sma50": 548.35,
-        "sma200": 432.96,
-        "inUptrend": false,
-        "signalStatus": "BELOW TREND FILTER"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "Broadcom Inc.",
-        "price": 300.86,
-        "dayChangePct": -0.07,
-        "rsi2": 18.8,
-        "rsi14": 40.8,
-        "ivRank": 87.4,
-        "sma50": 340.53,
-        "sma200": 366.43,
+        "sma50": 98.79,
+        "sma200": 123.25,
         "inUptrend": false,
         "signalStatus": "BELOW TREND FILTER"
       },
@@ -82,15 +71,28 @@
         "signalStatus": "BELOW TREND FILTER"
       },
       {
-        "ticker": "QQQ",
-        "name": "Invesco QQQ Nasdaq-100 ETF",
-        "price": 633.93,
-        "dayChangePct": -0.65,
-        "rsi2": 39.6,
-        "rsi14": 38.6,
-        "ivRank": 66.1,
-        "sma50": 707.02,
-        "sma200": 682.54,
+        "ticker": "SLV",
+        "name": "iShares Silver Trust ETF",
+        "price": 37.1,
+        "dayChangePct": 0.71,
+        "rsi2": 33.1,
+        "rsi14": 27.0,
+        "ivRank": 34.7,
+        "sma50": 49.84,
+        "sma200": 60.54,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "TQQQ",
+        "name": "ProShares UltraPro QQQ (Nasdaq ETF)",
+        "price": 45.28,
+        "dayChangePct": -1.97,
+        "rsi2": 35.6,
+        "rsi14": 35.6,
+        "ivRank": 100.0,
+        "sma50": 67.48,
+        "sma200": 65.41,
         "inUptrend": false,
         "signalStatus": "BELOW TREND FILTER"
       },
@@ -108,15 +110,15 @@
         "signalStatus": "BELOW TREND FILTER"
       },
       {
-        "ticker": "SPY",
-        "name": "SPDR S&P 500 ETF",
-        "price": 716.7,
-        "dayChangePct": -0.29,
-        "rsi2": 49.5,
-        "rsi14": 39.9,
-        "ivRank": 66.1,
-        "sma50": 757.85,
-        "sma200": 730.77,
+        "ticker": "SOFI",
+        "name": "SoFi Technologies",
+        "price": 13.07,
+        "dayChangePct": 1.63,
+        "rsi2": 54.4,
+        "rsi14": 34.9,
+        "ivRank": 53.4,
+        "sma50": 15.55,
+        "sma200": 17.01,
         "inUptrend": false,
         "signalStatus": "BELOW TREND FILTER"
       },
@@ -145,43 +147,82 @@
         "sma200": 79.59,
         "inUptrend": false,
         "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "HAL",
+        "name": "Halliburton Co.",
+        "price": 31.61,
+        "dayChangePct": 2.3,
+        "rsi2": 83.1,
+        "rsi14": 43.9,
+        "ivRank": 80.9,
+        "sma50": 32.93,
+        "sma200": 35.52,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
+      },
+      {
+        "ticker": "PYPL",
+        "name": "PayPal Holdings",
+        "price": 57.81,
+        "dayChangePct": 2.92,
+        "rsi2": 83.7,
+        "rsi14": 52.4,
+        "ivRank": 26.7,
+        "sma50": 56.13,
+        "sma200": 50.5,
+        "inUptrend": true,
+        "signalStatus": "STAGE-2 UPTREND \u00b7 WATCHING DIP"
+      },
+      {
+        "ticker": "F",
+        "name": "Ford Motor Co.",
+        "price": 12.17,
+        "dayChangePct": 1.84,
+        "rsi2": 96.0,
+        "rsi14": 55.0,
+        "ivRank": 29.6,
+        "sma50": 12.08,
+        "sma200": 12.9,
+        "inUptrend": false,
+        "signalStatus": "BELOW TREND FILTER"
       }
     ]
   },
   "backtestBenchmark": {
-    "period": "2023-11-25 to 2026-11-24 (3 Full Years, Zero Losing 12M Windows)",
+    "period": "2023-11-25 to 2026-11-24 (3 Full Years \u00b7 Robinhood Level 2 Single-Leg)",
     "startingBankroll": 1000.0,
-    "endingBankroll3Y": 1652.32,
-    "totalTrades3Y": 73,
-    "wins3Y": 53,
-    "losses3Y": 20,
-    "winRatePct": 72.6,
-    "profitFactor": 1.48,
-    "maxDrawdownPct": -15.1,
+    "endingBankroll3Y": 5399.31,
+    "totalTrades3Y": 69,
+    "wins3Y": 56,
+    "losses3Y": 13,
+    "winRatePct": 81.2,
+    "profitFactor": 3.04,
+    "maxDrawdownPct": -19.8,
     "windows12M": [
       {
         "period": "2023\u20132024",
-        "record": "19W-5L",
-        "winRatePct": 79.2,
-        "returnPct": 43.4,
-        "profitFactor": 2.97,
-        "maxDrawdownPct": -6.6
+        "record": "20W-7L",
+        "winRatePct": 74.1,
+        "returnPct": 68.4,
+        "profitFactor": 1.95,
+        "maxDrawdownPct": -19.8
       },
       {
         "period": "2024\u20132025",
-        "record": "14W-6L",
-        "winRatePct": 70.0,
-        "returnPct": 16.6,
-        "profitFactor": 1.58,
-        "maxDrawdownPct": -15.0
+        "record": "20W-3L",
+        "winRatePct": 87.0,
+        "returnPct": 118.1,
+        "profitFactor": 3.33,
+        "maxDrawdownPct": -11.9
       },
       {
         "period": "2025\u20132026",
-        "record": "18W-7L",
-        "winRatePct": 72.0,
-        "returnPct": 14.5,
-        "profitFactor": 1.31,
-        "maxDrawdownPct": -13.7
+        "record": "11W-2L",
+        "winRatePct": 84.6,
+        "returnPct": 62.8,
+        "profitFactor": 4.21,
+        "maxDrawdownPct": -8.7
       }
     ]
   }
