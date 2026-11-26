@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-26T04:45:35.058420+00:00",
+  "updatedAt": "2026-11-26T04:46:36.413399+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -2957,17 +2957,17 @@
       "name": "NFL Pick Model",
       "isModel": true,
       "badge": "\ud83e\udd16",
-      "wins": 52,
+      "wins": 53,
       "losses": 24,
       "pushes": 2,
-      "units": 16.88,
+      "units": 17.63,
       "staked": 0.0,
       "dollarPnl": 0.0,
-      "unitDollarPnl": 168.8,
-      "NFL_w": 52,
+      "unitDollarPnl": 176.3,
+      "NFL_w": 53,
       "NFL_l": 24,
       "NFL_p": 2,
-      "NFL_u": 16.88,
+      "NFL_u": 17.63,
       "NBA_w": 0,
       "NBA_l": 0,
       "NBA_u": 0.0,
@@ -3756,27 +3756,27 @@
     "unitSizeDollars": 10.0,
     "aligned": {
       "games": 3,
-      "settledGames": 2,
-      "openGames": 1,
+      "settledGames": 3,
+      "openGames": 0,
       "model": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "pushes": 0,
-        "units": -0.26,
-        "dollarPnl": -2.6
+        "units": 0.49,
+        "dollarPnl": 4.9
       },
       "whales": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
-        "units": 0.87,
-        "dollarPnl": 8.7
+        "units": 1.59,
+        "dollarPnl": 15.9
       },
       "combined": {
-        "wins": 3,
+        "wins": 5,
         "losses": 1,
         "pushes": 0,
-        "units": 0.61,
-        "dollarPnl": 6.1
+        "units": 2.08,
+        "dollarPnl": 20.8
       }
     },
     "opposite": {
@@ -3810,10 +3810,10 @@
         "game": "Green Bay Packers at Los Angeles Rams",
         "family": "TEAM",
         "relation": "ALIGNED",
-        "status": "OPEN",
+        "status": "SETTLED",
         "modelPick": "Los Angeles Rams",
-        "modelResult": "OPEN",
-        "modelUnits": 0.0,
+        "modelResult": "WIN",
+        "modelUnits": 0.75,
         "whalePick": "Rams ML",
         "whaleResult": "WIN",
         "whaleUnits": 0.72
