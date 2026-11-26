@@ -1,11 +1,12 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-26T02:34:14.907441+00:00",
+  "updatedAt": "2026-11-26T02:35:38.332874+00:00",
   "activeSports": [
     "NFL",
     "NBA",
     "NHL",
-    "CFB"
+    "CFB",
+    "SOCCER"
   ],
   "supportedSports": [
     "NFL",
@@ -20,8 +21,8 @@
   "overall": {
     "wins": 32,
     "losses": 21,
-    "pending": 2,
-    "total": 55,
+    "pending": 3,
+    "total": 56,
     "units": 5.21,
     "unitSizeDollars": 10.0,
     "dollarPnl": 52.1
@@ -84,8 +85,8 @@
     "SOCCER": {
       "wins": 0,
       "losses": 0,
-      "pending": 0,
-      "total": 0,
+      "pending": 1,
+      "total": 1,
       "units": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -101,6 +102,20 @@
     }
   },
   "teams": {
+    "SOCCER": {
+      "SOCCER Totals (Over/Under)": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 68744.17,
+        "winRate": 0.0,
+        "picks": [
+          "Double Chance: Opp/Draw (Not CF Monterrey) (OPEN)"
+        ]
+      }
+    },
     "NHL": {
       "Hurricanes": {
         "wins": 1,
@@ -766,9 +781,67 @@
       "unitsPnl": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "mex-mon1-ame-2026-11-25::DOUBLE_CHANCE::Not CF Monterrey",
+      "sport": "SOCCER",
+      "eventSlug": "mex-mon1-ame-2026-11-25",
+      "eventTitle": "CF Monterrey vs. CF Am\u00e9rica",
+      "family": "DOUBLE_CHANCE",
+      "side": "Not CF Monterrey",
+      "pickLabel": "Double Chance: Opp/Draw (Not CF Monterrey)",
+      "primaryTitle": "Will CF Monterrey win on 2026-11-25?",
+      "tier": 0,
+      "nAligned": 2,
+      "totalStake": 68744.17,
+      "avgEntry": 0.5327,
+      "curPrice": 0.545,
+      "fanduelOdds": "-133",
+      "polyUnitsPnl": null,
+      "convictionPct": 86.0,
+      "startEt": "10:10 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "RN1"
+      ],
+      "alertedAt": "2026-11-26T02:35:31.545510+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
     }
   ],
   "picks": [
+    {
+      "signalKey": "mex-mon1-ame-2026-11-25::DOUBLE_CHANCE::Not CF Monterrey",
+      "sport": "SOCCER",
+      "eventSlug": "mex-mon1-ame-2026-11-25",
+      "eventTitle": "CF Monterrey vs. CF Am\u00e9rica",
+      "family": "DOUBLE_CHANCE",
+      "side": "Not CF Monterrey",
+      "pickLabel": "Double Chance: Opp/Draw (Not CF Monterrey)",
+      "primaryTitle": "Will CF Monterrey win on 2026-11-25?",
+      "tier": 0,
+      "nAligned": 2,
+      "totalStake": 68744.17,
+      "avgEntry": 0.5327,
+      "curPrice": 0.545,
+      "fanduelOdds": "-133",
+      "polyUnitsPnl": null,
+      "convictionPct": 86.0,
+      "startEt": "10:10 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "RN1"
+      ],
+      "alertedAt": "2026-11-26T02:35:31.545510+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "nhl-car-tb-2026-11-25::TEAM::Hurricanes",
       "sport": "NHL",
