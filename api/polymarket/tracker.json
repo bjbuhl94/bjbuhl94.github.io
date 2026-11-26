@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-26T01:14:26.317273+00:00",
+  "updatedAt": "2026-11-26T01:21:56.065701+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -18,13 +18,13 @@
     "TENNIS"
   ],
   "overall": {
-    "wins": 31,
+    "wins": 32,
     "losses": 21,
-    "pending": 3,
+    "pending": 2,
     "total": 55,
-    "units": 4.19,
+    "units": 5.21,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 41.9
+    "dollarPnl": 52.1
   },
   "summary": {
     "NFL": {
@@ -37,13 +37,13 @@
       "dollarPnl": 56.5
     },
     "NBA": {
-      "wins": 9,
+      "wins": 10,
       "losses": 10,
-      "pending": 1,
+      "pending": 0,
       "total": 20,
-      "units": -3.01,
+      "units": -1.99,
       "unitSizeDollars": 10.0,
-      "dollarPnl": -30.1
+      "dollarPnl": -19.9
     },
     "NHL": {
       "wins": 4,
@@ -178,15 +178,15 @@
     },
     "NBA": {
       "76ers": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "pending": 0,
+        "units": 1.02,
+        "dollarPnl": 10.2,
         "staked": 75682.1,
-        "winRate": 0.0,
+        "winRate": 100.0,
         "picks": [
-          "76ers ML (OPEN)"
+          "76ers ML (W)"
         ]
       },
       "Magic": {
@@ -766,58 +766,6 @@
       "unitsPnl": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
-    },
-    {
-      "signalKey": "nba-mia-phi-2026-11-25::TEAM::76ers",
-      "sport": "NBA",
-      "eventSlug": "nba-mia-phi-2026-11-25",
-      "eventTitle": "Heat vs. 76ers",
-      "family": "TEAM",
-      "side": "76ers",
-      "pickLabel": "76ers ML",
-      "primaryTitle": "Heat vs. 76ers",
-      "tier": 1,
-      "tierLabel": "Top NBA Sharp Consensus (90% Conviction)",
-      "nAligned": 3,
-      "totalStake": 75682.1033,
-      "avgEntry": 0.47221062343678283,
-      "curPrice": 0.4550435537974802,
-      "convictionPct": 90.0,
-      "startEt": "5:00 PM ET",
-      "alignedNames": [
-        "Multicoloured-Serf",
-        "HomeRunHazard",
-        "Flaznorp"
-      ],
-      "whaleDetails": [
-        {
-          "name": "Multicoloured-Serf",
-          "netCost": 40648.9243,
-          "avgPrice": 0.48674911562100065,
-          "pickLabel": "76ers ML"
-        },
-        {
-          "name": "HomeRunHazard",
-          "netCost": 29273.0978,
-          "avgPrice": 0.45148064530327914,
-          "pickLabel": "76ers ML"
-        },
-        {
-          "name": "Flaznorp",
-          "netCost": 5760.0812,
-          "avgPrice": 0.4749634681469422,
-          "pickLabel": "76ers ML"
-        }
-      ],
-      "exitWarned": false,
-      "alertedAt": "2026-11-25T20:17:00.632567+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "fanduelOdds": "+102",
-      "fanduelOddsInt": 102,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
     }
   ],
   "picks": [
@@ -894,13 +842,14 @@
       ],
       "exitWarned": false,
       "alertedAt": "2026-11-25T20:17:00.632567+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 1.02,
       "fanduelOdds": "+102",
       "fanduelOddsInt": 102,
+      "polyUnitsPnl": 1.12,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 10.2
     },
     {
       "signalKey": "nfl-gb-la-2026-11-26::TEAM::Rams",
@@ -3113,6 +3062,31 @@
       "unitDollarPnl": 33.8
     },
     {
+      "name": "HomeRunHazard",
+      "wins": 13,
+      "losses": 9,
+      "NFL_w": 4,
+      "NFL_l": 3,
+      "NBA_w": 4,
+      "NBA_l": 2,
+      "staked": 242419.96,
+      "dollarPnl": 71129.82,
+      "units": 3.9,
+      "NHL_w": 2,
+      "NHL_l": 1,
+      "CFB_w": 3,
+      "CFB_l": 3,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 39.0
+    },
+    {
       "name": "primm",
       "wins": 5,
       "losses": 1,
@@ -3138,31 +3112,6 @@
       "unitDollarPnl": 38.5
     },
     {
-      "name": "HomeRunHazard",
-      "wins": 12,
-      "losses": 9,
-      "NFL_w": 4,
-      "NFL_l": 3,
-      "NBA_w": 3,
-      "NBA_l": 2,
-      "staked": 213146.86,
-      "dollarPnl": 35564.93,
-      "units": 2.88,
-      "NHL_w": 2,
-      "NHL_l": 1,
-      "CFB_w": 3,
-      "CFB_l": 3,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "TENNIS_w": 0,
-      "TENNIS_l": 0,
-      "unitDollarPnl": 28.8
-    },
-    {
       "name": "nigiri99",
       "wins": 11,
       "losses": 9,
@@ -3186,6 +3135,31 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 14.2
+    },
+    {
+      "name": "Multicoloured-Serf",
+      "wins": 3,
+      "losses": 1,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 1,
+      "NBA_l": 0,
+      "staked": 48974.16,
+      "dollarPnl": 51881.12,
+      "units": 1.27,
+      "NHL_w": 0,
+      "NHL_l": 1,
+      "CFB_w": 1,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 12.7
     },
     {
       "name": "googleplay",
@@ -3261,6 +3235,31 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 11.6
+    },
+    {
+      "name": "Flaznorp",
+      "wins": 1,
+      "losses": 0,
+      "NFL_w": 0,
+      "NFL_l": 0,
+      "NBA_w": 1,
+      "NBA_l": 0,
+      "staked": 5760.08,
+      "dollarPnl": 6367.34,
+      "units": 1.02,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 0,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 10.2
     },
     {
       "name": "darkumbreon88",
@@ -3436,31 +3435,6 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 3.4
-    },
-    {
-      "name": "Multicoloured-Serf",
-      "wins": 2,
-      "losses": 1,
-      "NFL_w": 1,
-      "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "staked": 8325.24,
-      "dollarPnl": 9019.01,
-      "units": 0.25,
-      "NHL_w": 0,
-      "NHL_l": 1,
-      "CFB_w": 1,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "TENNIS_w": 0,
-      "TENNIS_l": 0,
-      "unitDollarPnl": 2.5
     },
     {
       "name": "keeptheblueflagflyinghigh",
