@@ -6,13 +6,13 @@
     "selection": "Buffalo Bills",
     "game": "Kansas City Chiefs at Buffalo Bills",
     "kickoff": "2026-11-27T01:20:00.000Z",
-    "confidence": 63.3,
-    "odds": -153,
-    "impliedProbability": 60.5,
+    "confidence": 63.7,
+    "odds": -155,
+    "impliedProbability": 60.8,
     "edge": 2.9,
-    "rationale": "Best available price at DraftKings (-153 vs FanDuel -158). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Buffalo Bills QB1: Josh Allen (ESPN depth chart); Kansas City Chiefs QB1: Patrick Mahomes (ESPN depth chart); Dalton Kincaid Questionable; Keleki Latu is an observed receiving option (not a confirmed starter); Noah Gray Questionable; Travis Kelce is an observed receiving option (not a confirmed starter). Offered odds imply 60.5%. Injury and depth-chart feeds checked 2026-11-26T22:37:28.379Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "rationale": "Best available price at DraftKings (-155 vs FanDuel -162). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Buffalo Bills QB1: Josh Allen (ESPN depth chart); Kansas City Chiefs QB1: Patrick Mahomes (ESPN depth chart); Dalton Kincaid Questionable; Keleki Latu is an observed receiving option (not a confirmed starter); Noah Gray Questionable; Travis Kelce is an observed receiving option (not a confirmed starter). Offered odds imply 60.8%. Injury and depth-chart feeds checked 2026-11-26T23:36:28.746Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T22:37:27.468Z",
+    "updatedAt": "2026-11-26T23:36:27.809Z",
     "status": "qualified",
     "line": "Buffalo Bills"
   },
@@ -23,13 +23,13 @@
     "selection": "Under +49.5",
     "game": "New Orleans Saints at Cincinnati Bengals",
     "kickoff": "2026-11-29T18:00:00.000Z",
-    "confidence": 62.6,
+    "confidence": 63.1,
     "odds": -110,
     "impliedProbability": 52.4,
-    "edge": 10.2,
-    "rationale": "Originally alerted at Under +50.5 (-110); still qualified at current market line. Best available price at FanDuel (-110 vs DraftKings -113). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); New Orleans Saints QB1: Tyler Shough (ESPN depth chart); Juwan Johnson Questionable; Noah Fant is an observed receiving option (not a confirmed starter). Offered odds imply 52.4%. Injury and depth-chart feeds checked 2026-11-26T22:37:28.792Z. Game-window forecast: 49\u00b0F at kickoff; peak wind 12 mph, gust 34 mph, precipitation 5.7 mm/h, snow 0.0 cm/h (Open-Meteo). Outdoor totals require a kickoff forecast. Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "edge": 10.7,
+    "rationale": "Originally alerted at Under +50.5 (-110); still qualified at current market line. Best available price at FanDuel (-110 vs DraftKings -113). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); New Orleans Saints QB1: Tyler Shough (ESPN depth chart); Juwan Johnson Questionable; Noah Fant is an observed receiving option (not a confirmed starter). Offered odds imply 52.4%. Injury and depth-chart feeds checked 2026-11-26T23:36:28.875Z. Game-window forecast: 46\u00b0F at kickoff; peak wind 13 mph, gust 34 mph, precipitation 4.6 mm/h, snow 0.0 cm/h (Open-Meteo). Outdoor totals require a kickoff forecast. Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T22:37:27.468Z",
+    "updatedAt": "2026-11-26T23:36:27.809Z",
     "status": "qualified",
     "line": "Under +49.5"
   },
@@ -44,9 +44,9 @@
     "odds": -120,
     "impliedProbability": 54.5,
     "edge": 3.2,
-    "rationale": "Originally alerted at Cincinnati Bengals -10 (-107); still qualified at current market line. Offered at FanDuel. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); New Orleans Saints QB1: Tyler Shough (ESPN depth chart); Juwan Johnson Questionable; Noah Fant is an observed receiving option (not a confirmed starter). Offered odds imply 54.5%. Injury and depth-chart feeds checked 2026-11-26T22:37:28.792Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "rationale": "Originally alerted at Cincinnati Bengals -10 (-107); still qualified at current market line. Offered at FanDuel. Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Cincinnati Bengals QB1: Joe Burrow (ESPN depth chart); New Orleans Saints QB1: Tyler Shough (ESPN depth chart); Juwan Johnson Questionable; Noah Fant is an observed receiving option (not a confirmed starter). Offered odds imply 54.5%. Injury and depth-chart feeds checked 2026-11-26T23:36:28.875Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T22:37:27.468Z",
+    "updatedAt": "2026-11-26T23:36:27.809Z",
     "status": "qualified",
     "line": "Cincinnati Bengals -9.5"
   },
@@ -61,9 +61,9 @@
     "odds": -104,
     "impliedProbability": 51,
     "edge": 5.1,
-    "rationale": "Best available price at DraftKings (-104 vs FanDuel -105). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Jacksonville Jaguars QB1: Trevor Lawrence (ESPN depth chart); Tennessee Titans QB1: Cam Ward (ESPN depth chart); Bhayshul Tuten Questionable; Chris Rodriguez Jr. is an observed rushing option (not a confirmed starter); Parker Washington Questionable; Josh Cameron is an observed receiving option (not a confirmed starter); Jakobi Meyers Questionable; Josh Cameron is an observed receiving option (not a confirmed starter); Wan'Dale Robinson Injured Reserve; Chimere Dike is an observed receiving option (not a confirmed starter); Tyjae Spears Injured Reserve; Tony Pollard is an observed rushing option (not a confirmed starter). Offered odds imply 51.0%. Injury and depth-chart feeds checked 2026-11-26T22:37:28.719Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
+    "rationale": "Best available price at DraftKings (-104 vs FanDuel -105). Conservative model estimate using current-season efficiency, ESPN injury report, roster and both teams' depth charts, observed replacements, rest, home field and de-vigged market consensus. Jacksonville Jaguars QB1: Trevor Lawrence (ESPN depth chart); Tennessee Titans QB1: Cam Ward (ESPN depth chart); Bhayshul Tuten Questionable; Chris Rodriguez Jr. is an observed rushing option (not a confirmed starter); Parker Washington Questionable; Josh Cameron is an observed receiving option (not a confirmed starter); Jakobi Meyers Questionable; Josh Cameron is an observed receiving option (not a confirmed starter); Wan'Dale Robinson Injured Reserve; Chimere Dike is an observed receiving option (not a confirmed starter); Tyjae Spears Injured Reserve; Tony Pollard is an observed rushing option (not a confirmed starter). Offered odds imply 51.0%. Injury and depth-chart feeds checked 2026-11-26T23:36:29.029Z.  Practice participation and game-day inactives are not confirmed by these feeds. These adjustments are not historically calibrated guarantees.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T22:37:27.468Z",
+    "updatedAt": "2026-11-26T23:36:27.809Z",
     "status": "qualified",
     "line": "Jacksonville Jaguars -14.5"
   },
@@ -81,7 +81,7 @@
     "edge": 4.4,
     "rationale": "Previously qualified on Telegram at New York Giants -6.5 (-111), but current lines/inputs moved past the model gate. Tracked here for reference only \u2014 only picks still qualified at kickoff count toward the official record.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T21:33:02.777Z",
+    "updatedAt": "2026-11-26T23:36:29.468Z",
     "status": "moved"
   },
   {
@@ -98,7 +98,7 @@
     "edge": 2.5,
     "rationale": "Previously qualified on Telegram at New England Patriots +1.5 (-115), but current lines/inputs moved past the model gate. Tracked here for reference only \u2014 only picks still qualified at kickoff count toward the official record.",
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
-    "updatedAt": "2026-11-26T21:33:02.777Z",
+    "updatedAt": "2026-11-26T23:36:29.468Z",
     "status": "moved"
   }
 ]
