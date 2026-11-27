@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-27T18:51:45.550116+00:00",
+  "updatedAt": "2026-11-27T19:30:50.996211+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -21,8 +21,8 @@
   "overall": {
     "wins": 35,
     "losses": 21,
-    "pending": 3,
-    "total": 59,
+    "pending": 4,
+    "total": 60,
     "units": 7.51,
     "unitSizeDollars": 10.0,
     "dollarPnl": 75.1
@@ -40,8 +40,8 @@
     "NBA": {
       "wins": 10,
       "losses": 10,
-      "pending": 1,
-      "total": 21,
+      "pending": 2,
+      "total": 22,
       "units": -1.99,
       "unitSizeDollars": 10.0,
       "dollarPnl": -19.9
@@ -103,13 +103,25 @@
   },
   "teams": {
     "NBA": {
+      "Trail Blazers": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 65827.53,
+        "winRate": 0.0,
+        "picks": [
+          "Trail Blazers (-9.5) (OPEN)"
+        ]
+      },
       "Knicks": {
         "wins": 0,
         "losses": 0,
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 69888.79,
+        "staked": 69943.29,
         "winRate": 0.0,
         "picks": [
           "Knicks ML (OPEN)"
@@ -308,7 +320,7 @@
         "pending": 1,
         "units": 0.75,
         "dollarPnl": 7.5,
-        "staked": 170484.19,
+        "staked": 176444.16,
         "winRate": 100.0,
         "picks": [
           "Double Chance: Nottingham Forest FC or Tie (OPEN)",
@@ -726,7 +738,7 @@
       "recommendedUnits": 1.0,
       "recommendedDollars": 10.0,
       "nAligned": 4,
-      "totalStake": 101740.02,
+      "totalStake": 107699.99,
       "avgEntry": 0.65,
       "curPrice": 0.665,
       "fanduelOdds": "-254",
@@ -799,9 +811,9 @@
       "tier": 1,
       "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
       "nAligned": 3,
-      "totalStake": 69888.7876,
+      "totalStake": 69943.2885,
       "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5204710775952851,
+      "curPrice": 0.5127537027158796,
       "convictionPct": 91.9,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -812,8 +824,8 @@
       "whaleDetails": [
         {
           "name": "HomeRunHazard",
-          "netCost": 62111.3499,
-          "avgPrice": 0.5292580435193536,
+          "netCost": 62165.8508,
+          "avgPrice": 0.5292790131434991,
           "pickLabel": "Knicks ML"
         },
         {
@@ -838,16 +850,120 @@
       "won": null,
       "unitsPnl": 0.0,
       "bestBook": "FanDuel",
-      "bestBookOdds": "-154",
-      "polyOdds": "-109",
+      "bestBookOdds": "-146",
+      "polyOdds": "-105",
       "steamEdgePct": 0.0,
-      "polySavesVigPct": 8.6,
+      "polySavesVigPct": 8.1,
       "recommendedDollars": 20.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "nba-gsw-por-2026-11-27::TEAM::Trail Blazers",
+      "sport": "NBA",
+      "eventSlug": "nba-gsw-por-2026-11-27",
+      "eventTitle": "Warriors vs. Trail Blazers",
+      "family": "TEAM",
+      "side": "Trail Blazers",
+      "pickLabel": "Trail Blazers (-9.5)",
+      "primaryTitle": "Spread: Trail Blazers (-9.5)",
+      "tier": 1,
+      "tierLabel": "Top NBA Sharp Consensus (90% Conviction)",
+      "nAligned": 2,
+      "totalStake": 65827.5278,
+      "avgEntry": 0.5792117002195286,
+      "curPrice": 0.548055398054232,
+      "convictionPct": 90.2,
+      "startEt": "9:30 PM ET",
+      "alignedNames": [
+        "Multicoloured-Serf",
+        "keeptheblueflagflyinghigh"
+      ],
+      "whaleDetails": [
+        {
+          "name": "Multicoloured-Serf",
+          "netCost": 61959.0913,
+          "avgPrice": 0.5792117002195286,
+          "pickLabel": "Trail Blazers (-9.5)"
+        },
+        {
+          "name": "keeptheblueflagflyinghigh",
+          "netCost": 3868.4365,
+          "avgPrice": 0.6001059717537046,
+          "pickLabel": "Trail Blazers ML"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-27T19:30:41.982368+00:00",
+      "fanduelOdds": "-108",
+      "fanduelOddsInt": -108,
+      "bestBook": "DraftKings",
+      "bestBookOdds": "-108",
+      "polyOdds": "-121",
+      "steamEdgePct": 2.9,
+      "polySavesVigPct": 0.0,
+      "recommendedUnits": 1.0,
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "recommendedDollars": 10.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
     }
   ],
   "picks": [
+    {
+      "signalKey": "nba-gsw-por-2026-11-27::TEAM::Trail Blazers",
+      "sport": "NBA",
+      "eventSlug": "nba-gsw-por-2026-11-27",
+      "eventTitle": "Warriors vs. Trail Blazers",
+      "family": "TEAM",
+      "side": "Trail Blazers",
+      "pickLabel": "Trail Blazers (-9.5)",
+      "primaryTitle": "Spread: Trail Blazers (-9.5)",
+      "tier": 1,
+      "tierLabel": "Top NBA Sharp Consensus (90% Conviction)",
+      "nAligned": 2,
+      "totalStake": 65827.5278,
+      "avgEntry": 0.5792117002195286,
+      "curPrice": 0.548055398054232,
+      "convictionPct": 90.2,
+      "startEt": "9:30 PM ET",
+      "alignedNames": [
+        "Multicoloured-Serf",
+        "keeptheblueflagflyinghigh"
+      ],
+      "whaleDetails": [
+        {
+          "name": "Multicoloured-Serf",
+          "netCost": 61959.0913,
+          "avgPrice": 0.5792117002195286,
+          "pickLabel": "Trail Blazers (-9.5)"
+        },
+        {
+          "name": "keeptheblueflagflyinghigh",
+          "netCost": 3868.4365,
+          "avgPrice": 0.6001059717537046,
+          "pickLabel": "Trail Blazers ML"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-27T19:30:41.982368+00:00",
+      "fanduelOdds": "-108",
+      "fanduelOddsInt": -108,
+      "bestBook": "DraftKings",
+      "bestBookOdds": "-108",
+      "polyOdds": "-121",
+      "steamEdgePct": 2.9,
+      "polySavesVigPct": 0.0,
+      "recommendedUnits": 1.0,
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "recommendedDollars": 10.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "nba-mia-nyk-2026-11-27::TEAM::Knicks",
       "sport": "NBA",
@@ -860,9 +976,9 @@
       "tier": 1,
       "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
       "nAligned": 3,
-      "totalStake": 69888.7876,
+      "totalStake": 69943.2885,
       "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5204710775952851,
+      "curPrice": 0.5127537027158796,
       "convictionPct": 91.9,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -873,8 +989,8 @@
       "whaleDetails": [
         {
           "name": "HomeRunHazard",
-          "netCost": 62111.3499,
-          "avgPrice": 0.5292580435193536,
+          "netCost": 62165.8508,
+          "avgPrice": 0.5292790131434991,
           "pickLabel": "Knicks ML"
         },
         {
@@ -899,10 +1015,10 @@
       "won": null,
       "unitsPnl": 0.0,
       "bestBook": "FanDuel",
-      "bestBookOdds": "-154",
-      "polyOdds": "-109",
+      "bestBookOdds": "-146",
+      "polyOdds": "-105",
       "steamEdgePct": 0.0,
-      "polySavesVigPct": 8.6,
+      "polySavesVigPct": 8.1,
       "recommendedDollars": 20.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -921,7 +1037,7 @@
       "recommendedUnits": 1.0,
       "recommendedDollars": 10.0,
       "nAligned": 4,
-      "totalStake": 101740.02,
+      "totalStake": 107699.99,
       "avgEntry": 0.65,
       "curPrice": 0.665,
       "fanduelOdds": "-254",
