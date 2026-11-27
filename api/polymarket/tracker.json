@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-27T17:58:26.249348+00:00",
+  "updatedAt": "2026-11-27T18:27:24.337883+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -109,7 +109,7 @@
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 69861.2,
+        "staked": 69888.79,
         "winRate": 0.0,
         "picks": [
           "Knicks ML (OPEN)"
@@ -728,7 +728,7 @@
       "nAligned": 4,
       "totalStake": 101740.02,
       "avgEntry": 0.65,
-      "curPrice": 0.675,
+      "curPrice": 0.665,
       "fanduelOdds": "-254",
       "bestBook": null,
       "bestBookOdds": null,
@@ -740,9 +740,9 @@
       "startEt": "3:00 PM ET",
       "alignedNames": [
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "Flaznorp",
+        "CUTJALENHURTS",
         "bands1",
-        "CUTJALENHURTS"
+        "RN1"
       ],
       "alertedAt": "2026-11-27T11:51:05.668034+00:00",
       "status": "PENDING",
@@ -799,9 +799,9 @@
       "tier": 1,
       "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
       "nAligned": 3,
-      "totalStake": 69861.20049999999,
+      "totalStake": 69888.7876,
       "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5148537131064618,
+      "curPrice": 0.5204710775952851,
       "convictionPct": 91.9,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -812,8 +812,8 @@
       "whaleDetails": [
         {
           "name": "HomeRunHazard",
-          "netCost": 62083.7628,
-          "avgPrice": 0.5292306083019827,
+          "netCost": 62111.3499,
+          "avgPrice": 0.5292580435193536,
           "pickLabel": "Knicks ML"
         },
         {
@@ -839,9 +839,9 @@
       "unitsPnl": 0.0,
       "bestBook": "FanDuel",
       "bestBookOdds": "-154",
-      "polyOdds": "-110",
+      "polyOdds": "-109",
       "steamEdgePct": 0.0,
-      "polySavesVigPct": 8.2,
+      "polySavesVigPct": 8.6,
       "recommendedDollars": 20.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -860,9 +860,9 @@
       "tier": 1,
       "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
       "nAligned": 3,
-      "totalStake": 69861.20049999999,
+      "totalStake": 69888.7876,
       "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5148537131064618,
+      "curPrice": 0.5204710775952851,
       "convictionPct": 91.9,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -873,8 +873,8 @@
       "whaleDetails": [
         {
           "name": "HomeRunHazard",
-          "netCost": 62083.7628,
-          "avgPrice": 0.5292306083019827,
+          "netCost": 62111.3499,
+          "avgPrice": 0.5292580435193536,
           "pickLabel": "Knicks ML"
         },
         {
@@ -900,9 +900,9 @@
       "unitsPnl": 0.0,
       "bestBook": "FanDuel",
       "bestBookOdds": "-154",
-      "polyOdds": "-110",
+      "polyOdds": "-109",
       "steamEdgePct": 0.0,
-      "polySavesVigPct": 8.2,
+      "polySavesVigPct": 8.6,
       "recommendedDollars": 20.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -923,7 +923,7 @@
       "nAligned": 4,
       "totalStake": 101740.02,
       "avgEntry": 0.65,
-      "curPrice": 0.675,
+      "curPrice": 0.665,
       "fanduelOdds": "-254",
       "bestBook": null,
       "bestBookOdds": null,
@@ -935,9 +935,9 @@
       "startEt": "3:00 PM ET",
       "alignedNames": [
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "Flaznorp",
+        "CUTJALENHURTS",
         "bands1",
-        "CUTJALENHURTS"
+        "RN1"
       ],
       "alertedAt": "2026-11-27T11:51:05.668034+00:00",
       "status": "PENDING",
