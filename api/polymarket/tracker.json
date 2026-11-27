@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-27T20:26:27.782125+00:00",
+  "updatedAt": "2026-11-27T20:31:30.370129+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -121,7 +121,7 @@
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 69943.29,
+        "staked": 69974.07,
         "winRate": 0.0,
         "picks": [
           "Knicks ML (OPEN)"
@@ -811,9 +811,9 @@
       "tier": 1,
       "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
       "nAligned": 3,
-      "totalStake": 69943.2885,
+      "totalStake": 69974.0723,
       "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5127537027158796,
+      "curPrice": 0.5083383413930591,
       "convictionPct": 91.9,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -824,8 +824,8 @@
       "whaleDetails": [
         {
           "name": "HomeRunHazard",
-          "netCost": 62165.8508,
-          "avgPrice": 0.5292790131434991,
+          "netCost": 62196.6346,
+          "avgPrice": 0.5293095120305754,
           "pickLabel": "Knicks ML"
         },
         {
@@ -851,9 +851,9 @@
       "unitsPnl": 0.0,
       "bestBook": "FanDuel",
       "bestBookOdds": "-146",
-      "polyOdds": "-105",
+      "polyOdds": "-103",
       "steamEdgePct": 0.0,
-      "polySavesVigPct": 8.1,
+      "polySavesVigPct": 8.5,
       "recommendedDollars": 20.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
@@ -976,9 +976,9 @@
       "tier": 1,
       "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
       "nAligned": 3,
-      "totalStake": 69943.2885,
+      "totalStake": 69974.0723,
       "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5127537027158796,
+      "curPrice": 0.5083383413930591,
       "convictionPct": 91.9,
       "startEt": "7:00 PM ET",
       "alignedNames": [
@@ -989,8 +989,8 @@
       "whaleDetails": [
         {
           "name": "HomeRunHazard",
-          "netCost": 62165.8508,
-          "avgPrice": 0.5292790131434991,
+          "netCost": 62196.6346,
+          "avgPrice": 0.5293095120305754,
           "pickLabel": "Knicks ML"
         },
         {
@@ -1016,9 +1016,9 @@
       "unitsPnl": 0.0,
       "bestBook": "FanDuel",
       "bestBookOdds": "-146",
-      "polyOdds": "-105",
+      "polyOdds": "-103",
       "steamEdgePct": 0.0,
-      "polySavesVigPct": 8.1,
+      "polySavesVigPct": 8.5,
       "recommendedDollars": 20.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
