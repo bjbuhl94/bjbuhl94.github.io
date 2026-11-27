@@ -14,7 +14,9 @@
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
     "updatedAt": "2026-11-27T12:57:15.011Z",
     "status": "qualified",
-    "line": "Cincinnati Bengals -9.5"
+    "line": "Cincinnati Bengals -9.5",
+    "recommendedUnits": 1.0,
+    "recommendedDollars": 20.0
   },
   {
     "id": "nfl-hybrid-2026.7-8cd6ef5d5579764401e9f3a427674775-spreads-Jacksonville Jaguars--14.5",
@@ -31,7 +33,9 @@
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
     "updatedAt": "2026-11-27T12:57:15.011Z",
     "status": "qualified",
-    "line": "Jacksonville Jaguars -14.5"
+    "line": "Jacksonville Jaguars -14.5",
+    "recommendedUnits": 1.0,
+    "recommendedDollars": 20.0
   },
   {
     "id": "nfl-hybrid-2026.7-6f69dd4ddee778e9337d2090f785a2c8-totals-Under-50.5",
