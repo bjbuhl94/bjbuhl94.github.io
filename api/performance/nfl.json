@@ -1,14 +1,27 @@
 {
   "sport": "nfl",
-  "settled": 79,
-  "wins": 53,
+  "settled": 80,
+  "wins": 54,
   "losses": 24,
   "pushes": 2,
-  "units": 17.63,
-  "stakeCents": 39500,
+  "units": 18.26,
+  "stakeCents": 40000,
   "picks": [
     {
       "id": "nfl-settled-0",
+      "sport": "nfl",
+      "selection": "Buffalo Bills",
+      "game": "Kansas City Chiefs at Buffalo Bills",
+      "kickoff": "2026-11-27T01:20:00.000Z",
+      "odds": -157,
+      "confidence": 64,
+      "result": "win",
+      "profitCents": 318,
+      "settledAt": "2026-11-27T01:20:00.000Z",
+      "finalScore": "Kansas City Chiefs 10 \u2013 Buffalo Bills 13"
+    },
+    {
+      "id": "nfl-settled-1",
       "sport": "nfl",
       "selection": "Los Angeles Rams",
       "game": "Green Bay Packers at Los Angeles Rams",
@@ -21,7 +34,7 @@
       "finalScore": null
     },
     {
-      "id": "nfl-settled-1",
+      "id": "nfl-settled-2",
       "sport": "nfl",
       "selection": "Cincinnati Bengals -5.5",
       "game": "Cincinnati Bengals at Washington Commanders",
@@ -34,7 +47,7 @@
       "finalScore": null
     },
     {
-      "id": "nfl-settled-2",
+      "id": "nfl-settled-3",
       "sport": "nfl",
       "selection": "Under +46.5",
       "game": "Jacksonville Jaguars at New York Giants",
@@ -47,7 +60,7 @@
       "finalScore": null
     },
     {
-      "id": "nfl-settled-3",
+      "id": "nfl-settled-4",
       "sport": "nfl",
       "selection": "Under +44.5",
       "game": "Baltimore Ravens at Carolina Panthers",
@@ -60,7 +73,7 @@
       "finalScore": null
     },
     {
-      "id": "nfl-settled-4",
+      "id": "nfl-settled-5",
       "sport": "nfl",
       "selection": "Kansas City Chiefs -16.5",
       "game": "Arizona Cardinals at Kansas City Chiefs",
@@ -73,7 +86,7 @@
       "finalScore": null
     },
     {
-      "id": "nfl-settled-5",
+      "id": "nfl-settled-6",
       "sport": "nfl",
       "selection": "Chicago Bears -11.5",
       "game": "New Orleans Saints at Chicago Bears",
@@ -86,7 +99,7 @@
       "finalScore": null
     },
     {
-      "id": "nfl-settled-6",
+      "id": "nfl-settled-7",
       "sport": "nfl",
       "selection": "Buffalo Bills -16.5",
       "game": "Miami Dolphins at Buffalo Bills",
