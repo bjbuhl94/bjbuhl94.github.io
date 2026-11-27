@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-27T20:50:30.197710+00:00",
+  "updatedAt": "2026-11-27T21:33:37.604260+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -841,7 +841,7 @@
           "pickLabel": "Knicks ML"
         }
       ],
-      "exitWarned": false,
+      "exitWarned": true,
       "alertedAt": "2026-11-27T16:37:50.089349+00:00",
       "fanduelOdds": "-146",
       "fanduelOddsInt": -146,
@@ -1006,7 +1006,7 @@
           "pickLabel": "Knicks ML"
         }
       ],
-      "exitWarned": false,
+      "exitWarned": true,
       "alertedAt": "2026-11-27T16:37:50.089349+00:00",
       "fanduelOdds": "-146",
       "fanduelOddsInt": -146,
