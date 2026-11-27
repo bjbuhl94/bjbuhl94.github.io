@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-27T15:26:09.297700+00:00",
+  "updatedAt": "2026-11-27T15:28:28.586037+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -109,7 +109,7 @@
         "pending": 1,
         "units": 0.75,
         "dollarPnl": 7.5,
-        "staked": 160570.16,
+        "staked": 161575.13,
         "winRate": 100.0,
         "picks": [
           "Double Chance: Nottingham Forest FC or Tie (OPEN)",
@@ -714,7 +714,7 @@
       "recommendedUnits": 1.0,
       "recommendedDollars": 10.0,
       "nAligned": 3,
-      "totalStake": 91825.99,
+      "totalStake": 92830.96,
       "avgEntry": 0.65,
       "curPrice": 0.675,
       "fanduelOdds": "-254",
@@ -781,7 +781,7 @@
       "recommendedUnits": 1.0,
       "recommendedDollars": 10.0,
       "nAligned": 3,
-      "totalStake": 91825.99,
+      "totalStake": 92830.96,
       "avgEntry": 0.65,
       "curPrice": 0.675,
       "fanduelOdds": "-254",
