@@ -16,7 +16,7 @@
     "status": "qualified",
     "line": "Cincinnati Bengals -9.5",
     "recommendedUnits": 1.0,
-    "recommendedDollars": 20.0
+    "recommendedDollars": 10.0
   },
   {
     "id": "nfl-hybrid-2026.7-8cd6ef5d5579764401e9f3a427674775-spreads-Jacksonville Jaguars--14.5",
@@ -35,7 +35,7 @@
     "status": "qualified",
     "line": "Jacksonville Jaguars -14.5",
     "recommendedUnits": 1.0,
-    "recommendedDollars": 20.0
+    "recommendedDollars": 10.0
   },
   {
     "id": "nfl-hybrid-2026.7-6f69dd4ddee778e9337d2090f785a2c8-totals-Under-50.5",
@@ -49,6 +49,8 @@
     "odds": -110,
     "impliedProbability": 52.4,
     "edge": 10.6,
+    "recommendedUnits": 1.0,
+    "recommendedDollars": 10.0,
     "rationale": "Previously qualified on Telegram at Under +50.5 (-110), but current lines/inputs moved past the model gate. Tracked here for reference only \u2014 only picks still qualified at kickoff count toward the official record.",
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
     "updatedAt": "2026-11-27T11:48:06.015Z",
@@ -66,6 +68,8 @@
     "odds": -111,
     "impliedProbability": 52.6,
     "edge": 4.4,
+    "recommendedUnits": 1.0,
+    "recommendedDollars": 10.0,
     "rationale": "Previously qualified on Telegram at New York Giants -6.5 (-111), but current lines/inputs moved past the model gate. Tracked here for reference only \u2014 only picks still qualified at kickoff count toward the official record.",
     "source": "DraftKings \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
     "updatedAt": "2026-11-27T11:48:06.015Z",
@@ -83,6 +87,8 @@
     "odds": -115,
     "impliedProbability": 53.5,
     "edge": 2.5,
+    "recommendedUnits": 1.0,
+    "recommendedDollars": 10.0,
     "rationale": "Previously qualified on Telegram at New England Patriots +1.5 (-115), but current lines/inputs moved past the model gate. Tracked here for reference only \u2014 only picks still qualified at kickoff count toward the official record.",
     "source": "FanDuel \u00b7 Current-data hybrid \u00b7 nfl-hybrid-2026.7",
     "updatedAt": "2026-11-27T11:48:06.015Z",
