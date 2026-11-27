@@ -36,12 +36,12 @@
     }
   },
   "marketSnapshot": {
-    "lastScanAt": "2026-11-26T21:47:57.984803+00:00",
-    "marketStatus": "NYSE Market Holiday (2026-11-26)",
+    "lastScanAt": "2026-11-27T14:17:44.764264+00:00",
+    "marketStatus": "Pre-market (09:17 AM ET; OPRA opens 9:30 AM ET)",
     "entryWindowOpen": false,
     "spyPrice": 716.7,
     "spySma200": 730.77,
-    "vix": 26.8,
+    "vix": 25.49,
     "regime": "DEFENSIVE_CAUTION (SLV Active \u00b7 Equity Calls Paused)",
     "watchlist": [
       {
