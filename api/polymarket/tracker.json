@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-27T17:28:01.059234+00:00",
+  "updatedAt": "2026-11-27T17:35:05.228034+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -109,7 +109,7 @@
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 68988.43,
+        "staked": 69861.2,
         "winRate": 0.0,
         "picks": [
           "Knicks ML (OPEN)"
@@ -759,7 +759,7 @@
       "tierLabel": "Multi-Whale High-WR Consensus",
       "recommendedUnits": 1.0,
       "recommendedDollars": 10.0,
-      "nAligned": 2,
+      "nAligned": 1,
       "totalStake": 55505.7,
       "avgEntry": 0.3609,
       "curPrice": 0.395,
@@ -768,8 +768,7 @@
       "convictionPct": 87.0,
       "startEt": "3:00 PM ET",
       "alignedNames": [
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "Flaznorp"
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
       "alertedAt": "2026-11-27T11:51:05.668034+00:00",
       "status": "PENDING",
@@ -788,12 +787,12 @@
       "pickLabel": "Knicks ML",
       "primaryTitle": "Heat vs. Knicks",
       "tier": 1,
-      "tierLabel": "Top NBA Sharp Consensus (87% Conviction)",
+      "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
       "nAligned": 3,
-      "totalStake": 68988.427,
+      "totalStake": 69861.20049999999,
       "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5189837516080777,
-      "convictionPct": 86.6,
+      "curPrice": 0.5148537131064618,
+      "convictionPct": 91.9,
       "startEt": "7:00 PM ET",
       "alignedNames": [
         "HomeRunHazard",
@@ -803,8 +802,8 @@
       "whaleDetails": [
         {
           "name": "HomeRunHazard",
-          "netCost": 61210.9893,
-          "avgPrice": 0.5287046894876767,
+          "netCost": 62083.7628,
+          "avgPrice": 0.5292306083019827,
           "pickLabel": "Knicks ML"
         },
         {
@@ -844,12 +843,12 @@
       "pickLabel": "Knicks ML",
       "primaryTitle": "Heat vs. Knicks",
       "tier": 1,
-      "tierLabel": "Top NBA Sharp Consensus (87% Conviction)",
+      "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
       "nAligned": 3,
-      "totalStake": 68988.427,
+      "totalStake": 69861.20049999999,
       "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5189837516080777,
-      "convictionPct": 86.6,
+      "curPrice": 0.5148537131064618,
+      "convictionPct": 91.9,
       "startEt": "7:00 PM ET",
       "alignedNames": [
         "HomeRunHazard",
@@ -859,8 +858,8 @@
       "whaleDetails": [
         {
           "name": "HomeRunHazard",
-          "netCost": 61210.9893,
-          "avgPrice": 0.5287046894876767,
+          "netCost": 62083.7628,
+          "avgPrice": 0.5292306083019827,
           "pickLabel": "Knicks ML"
         },
         {
@@ -935,7 +934,7 @@
       "tierLabel": "Multi-Whale High-WR Consensus",
       "recommendedUnits": 1.0,
       "recommendedDollars": 10.0,
-      "nAligned": 2,
+      "nAligned": 1,
       "totalStake": 55505.7,
       "avgEntry": 0.3609,
       "curPrice": 0.395,
@@ -944,8 +943,7 @@
       "convictionPct": 87.0,
       "startEt": "3:00 PM ET",
       "alignedNames": [
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "Flaznorp"
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
       "alertedAt": "2026-11-27T11:51:05.668034+00:00",
       "status": "PENDING",
