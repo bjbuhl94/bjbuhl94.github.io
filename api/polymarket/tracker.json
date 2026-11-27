@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-27T11:48:14.832933+00:00",
+  "updatedAt": "2026-11-27T11:51:11.093323+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -21,8 +21,8 @@
   "overall": {
     "wins": 35,
     "losses": 21,
-    "pending": 0,
-    "total": 56,
+    "pending": 2,
+    "total": 58,
     "units": 7.51,
     "unitSizeDollars": 10.0,
     "dollarPnl": 75.1
@@ -85,8 +85,8 @@
     "SOCCER": {
       "wins": 1,
       "losses": 0,
-      "pending": 0,
-      "total": 1,
+      "pending": 2,
+      "total": 3,
       "units": 0.75,
       "unitSizeDollars": 10.0,
       "dollarPnl": 7.5
@@ -106,13 +106,26 @@
       "SOCCER Totals (Over/Under)": {
         "wins": 1,
         "losses": 0,
-        "pending": 0,
+        "pending": 1,
         "units": 0.75,
         "dollarPnl": 7.5,
-        "staked": 68744.17,
+        "staked": 157613.91,
         "winRate": 100.0,
         "picks": [
+          "Double Chance: Nottingham Forest FC or Tie (OPEN)",
           "Double Chance: CF Am\u00e9rica or Tie (W)"
+        ]
+      },
+      "Nottingham Forest FC": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 55505.7,
+        "winRate": 0.0,
+        "picks": [
+          "Nottingham Forest FC 3-Way ML (OPEN)"
         ]
       }
     },
@@ -686,8 +699,135 @@
       }
     }
   },
-  "activePicks": [],
+  "activePicks": [
+    {
+      "signalKey": "epl-not-che-2026-11-27::DOUBLE_CHANCE::Not Chelsea FC",
+      "sport": "SOCCER",
+      "eventSlug": "epl-not-che-2026-11-27",
+      "eventTitle": "Nottingham Forest FC vs. Chelsea FC",
+      "family": "DOUBLE_CHANCE",
+      "side": "Not Chelsea FC",
+      "pickLabel": "Double Chance: Nottingham Forest FC or Tie",
+      "primaryTitle": "Will Chelsea FC win on 2026-11-27?",
+      "tier": 0,
+      "tierLabel": "Multi-Whale High-WR Consensus",
+      "recommendedUnits": 1.5,
+      "nAligned": 3,
+      "totalStake": 88869.74,
+      "avgEntry": 0.65,
+      "curPrice": 0.685,
+      "fanduelOdds": "-254",
+      "polyUnitsPnl": null,
+      "convictionPct": 88.0,
+      "startEt": "3:00 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Flaznorp",
+        "CUTJALENHURTS"
+      ],
+      "alertedAt": "2026-11-27T11:51:05.668034+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "epl-not-che-2026-11-27::TEAM::Nottingham Forest FC",
+      "sport": "SOCCER",
+      "eventSlug": "epl-not-che-2026-11-27",
+      "eventTitle": "Nottingham Forest FC vs. Chelsea FC",
+      "family": "TEAM",
+      "side": "Nottingham Forest FC",
+      "pickLabel": "Nottingham Forest FC 3-Way ML",
+      "primaryTitle": "Will Nottingham Forest FC win on 2026-11-27?",
+      "tier": 0,
+      "tierLabel": "Multi-Whale High-WR Consensus",
+      "recommendedUnits": 1.5,
+      "nAligned": 2,
+      "totalStake": 55505.7,
+      "avgEntry": 0.3609,
+      "curPrice": 0.405,
+      "fanduelOdds": "+136",
+      "polyUnitsPnl": null,
+      "convictionPct": 87.0,
+      "startEt": "3:00 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Flaznorp"
+      ],
+      "alertedAt": "2026-11-27T11:51:05.668034+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    }
+  ],
   "picks": [
+    {
+      "signalKey": "epl-not-che-2026-11-27::DOUBLE_CHANCE::Not Chelsea FC",
+      "sport": "SOCCER",
+      "eventSlug": "epl-not-che-2026-11-27",
+      "eventTitle": "Nottingham Forest FC vs. Chelsea FC",
+      "family": "DOUBLE_CHANCE",
+      "side": "Not Chelsea FC",
+      "pickLabel": "Double Chance: Nottingham Forest FC or Tie",
+      "primaryTitle": "Will Chelsea FC win on 2026-11-27?",
+      "tier": 0,
+      "tierLabel": "Multi-Whale High-WR Consensus",
+      "recommendedUnits": 1.5,
+      "nAligned": 3,
+      "totalStake": 88869.74,
+      "avgEntry": 0.65,
+      "curPrice": 0.685,
+      "fanduelOdds": "-254",
+      "polyUnitsPnl": null,
+      "convictionPct": 88.0,
+      "startEt": "3:00 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Flaznorp",
+        "CUTJALENHURTS"
+      ],
+      "alertedAt": "2026-11-27T11:51:05.668034+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "epl-not-che-2026-11-27::TEAM::Nottingham Forest FC",
+      "sport": "SOCCER",
+      "eventSlug": "epl-not-che-2026-11-27",
+      "eventTitle": "Nottingham Forest FC vs. Chelsea FC",
+      "family": "TEAM",
+      "side": "Nottingham Forest FC",
+      "pickLabel": "Nottingham Forest FC 3-Way ML",
+      "primaryTitle": "Will Nottingham Forest FC win on 2026-11-27?",
+      "tier": 0,
+      "tierLabel": "Multi-Whale High-WR Consensus",
+      "recommendedUnits": 1.5,
+      "nAligned": 2,
+      "totalStake": 55505.7,
+      "avgEntry": 0.3609,
+      "curPrice": 0.405,
+      "fanduelOdds": "+136",
+      "polyUnitsPnl": null,
+      "convictionPct": 87.0,
+      "startEt": "3:00 PM ET",
+      "alignedNames": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Flaznorp"
+      ],
+      "alertedAt": "2026-11-27T11:51:05.668034+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "mex-mon1-ame-2026-11-25::DOUBLE_CHANCE::Not CF Monterrey",
       "sport": "SOCCER",
