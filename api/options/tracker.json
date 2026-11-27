@@ -36,8 +36,8 @@
     }
   },
   "marketSnapshot": {
-    "lastScanAt": "2026-11-27T18:51:37.786334+00:00",
-    "marketStatus": "After-hours (01:51 PM ET; OPRA closed at 01:00 PM ET)",
+    "lastScanAt": "2026-11-27T19:53:36.751252+00:00",
+    "marketStatus": "After-hours (02:53 PM ET; OPRA closed at 01:00 PM ET)",
     "entryWindowOpen": false,
     "spyPrice": 728.32,
     "spySma200": 730.98,
