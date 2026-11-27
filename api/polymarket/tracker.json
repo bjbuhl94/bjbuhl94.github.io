@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-27T16:35:28.629914+00:00",
+  "updatedAt": "2026-11-27T16:37:58.901026+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -21,8 +21,8 @@
   "overall": {
     "wins": 35,
     "losses": 21,
-    "pending": 2,
-    "total": 58,
+    "pending": 3,
+    "total": 59,
     "units": 7.51,
     "unitSizeDollars": 10.0,
     "dollarPnl": 75.1
@@ -40,8 +40,8 @@
     "NBA": {
       "wins": 10,
       "losses": 10,
-      "pending": 0,
-      "total": 20,
+      "pending": 1,
+      "total": 21,
       "units": -1.99,
       "unitSizeDollars": 10.0,
       "dollarPnl": -19.9
@@ -102,109 +102,19 @@
     }
   },
   "teams": {
-    "SOCCER": {
-      "SOCCER Totals (Over/Under)": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 1,
-        "units": 0.75,
-        "dollarPnl": 7.5,
-        "staked": 161575.13,
-        "winRate": 100.0,
-        "picks": [
-          "Double Chance: Nottingham Forest FC or Tie (OPEN)",
-          "Double Chance: CF Am\u00e9rica or Tie (W)"
-        ]
-      },
-      "Nottingham Forest FC": {
+    "NBA": {
+      "Knicks": {
         "wins": 0,
         "losses": 0,
         "pending": 1,
         "units": 0.0,
         "dollarPnl": 0.0,
-        "staked": 55505.7,
+        "staked": 68988.43,
         "winRate": 0.0,
         "picks": [
-          "Nottingham Forest FC 3-Way ML (OPEN)"
-        ]
-      }
-    },
-    "NHL": {
-      "Hurricanes": {
-        "wins": 2,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.99,
-        "dollarPnl": 19.9,
-        "staked": 169173.02,
-        "winRate": 100.0,
-        "picks": [
-          "Hurricanes ML (W)",
-          "Hurricanes (-1.5) (W)"
+          "Knicks ML (OPEN)"
         ]
       },
-      "NHL Totals (Over/Under)": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 36288.5,
-        "winRate": 0.0,
-        "picks": [
-          "Under 6.5 (L)"
-        ]
-      },
-      "Maple Leafs": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 50801.08,
-        "winRate": 0.0,
-        "picks": [
-          "Maple Leafs ML (L)"
-        ]
-      },
-      "Red Wings": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.44,
-        "dollarPnl": 4.4,
-        "staked": 22397.6,
-        "winRate": 100.0,
-        "picks": [
-          "Red Wings (+1.5) (W)"
-        ]
-      },
-      "Avalanche": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.94,
-        "dollarPnl": 9.4,
-        "staked": 56229.33,
-        "winRate": 100.0,
-        "picks": [
-          "Avalanche ML (W)"
-        ]
-      },
-      "Kraken": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.59,
-        "dollarPnl": 5.9,
-        "staked": 44922.6,
-        "winRate": 100.0,
-        "picks": [
-          "Kraken ML (W)"
-        ]
-      }
-    },
-    "NBA": {
       "76ers": {
         "wins": 1,
         "losses": 0,
@@ -388,6 +298,108 @@
         "winRate": 0.0,
         "picks": [
           "Clippers (+2.5) (L)"
+        ]
+      }
+    },
+    "SOCCER": {
+      "SOCCER Totals (Over/Under)": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.75,
+        "dollarPnl": 7.5,
+        "staked": 170484.19,
+        "winRate": 100.0,
+        "picks": [
+          "Double Chance: Nottingham Forest FC or Tie (OPEN)",
+          "Double Chance: CF Am\u00e9rica or Tie (W)"
+        ]
+      },
+      "Nottingham Forest FC": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 55505.7,
+        "winRate": 0.0,
+        "picks": [
+          "Nottingham Forest FC 3-Way ML (OPEN)"
+        ]
+      }
+    },
+    "NHL": {
+      "Hurricanes": {
+        "wins": 2,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.99,
+        "dollarPnl": 19.9,
+        "staked": 169173.02,
+        "winRate": 100.0,
+        "picks": [
+          "Hurricanes ML (W)",
+          "Hurricanes (-1.5) (W)"
+        ]
+      },
+      "NHL Totals (Over/Under)": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 36288.5,
+        "winRate": 0.0,
+        "picks": [
+          "Under 6.5 (L)"
+        ]
+      },
+      "Maple Leafs": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 50801.08,
+        "winRate": 0.0,
+        "picks": [
+          "Maple Leafs ML (L)"
+        ]
+      },
+      "Red Wings": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.44,
+        "dollarPnl": 4.4,
+        "staked": 22397.6,
+        "winRate": 100.0,
+        "picks": [
+          "Red Wings (+1.5) (W)"
+        ]
+      },
+      "Avalanche": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.94,
+        "dollarPnl": 9.4,
+        "staked": 56229.33,
+        "winRate": 100.0,
+        "picks": [
+          "Avalanche ML (W)"
+        ]
+      },
+      "Kraken": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.59,
+        "dollarPnl": 5.9,
+        "staked": 44922.6,
+        "winRate": 100.0,
+        "picks": [
+          "Kraken ML (W)"
         ]
       }
     },
@@ -713,8 +725,8 @@
       "tierLabel": "Multi-Whale High-WR Consensus",
       "recommendedUnits": 1.0,
       "recommendedDollars": 10.0,
-      "nAligned": 3,
-      "totalStake": 92830.96,
+      "nAligned": 4,
+      "totalStake": 101740.02,
       "avgEntry": 0.65,
       "curPrice": 0.675,
       "fanduelOdds": "-254",
@@ -724,6 +736,7 @@
       "alignedNames": [
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
         "Flaznorp",
+        "bands1",
         "CUTJALENHURTS"
       ],
       "alertedAt": "2026-11-27T11:51:05.668034+00:00",
@@ -764,9 +777,117 @@
       "unitsPnl": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
+    },
+    {
+      "signalKey": "nba-mia-nyk-2026-11-27::TEAM::Knicks",
+      "sport": "NBA",
+      "eventSlug": "nba-mia-nyk-2026-11-27",
+      "eventTitle": "Heat vs. Knicks",
+      "family": "TEAM",
+      "side": "Knicks",
+      "pickLabel": "Knicks ML",
+      "primaryTitle": "Heat vs. Knicks",
+      "tier": 1,
+      "tierLabel": "Top NBA Sharp Consensus (87% Conviction)",
+      "nAligned": 3,
+      "totalStake": 68988.427,
+      "avgEntry": 0.5344609030739316,
+      "curPrice": 0.5189837516080777,
+      "convictionPct": 86.6,
+      "startEt": "7:00 PM ET",
+      "alignedNames": [
+        "HomeRunHazard",
+        "Flaznorp",
+        "Multicoloured-Serf"
+      ],
+      "whaleDetails": [
+        {
+          "name": "HomeRunHazard",
+          "netCost": 61210.9893,
+          "avgPrice": 0.5287046894876767,
+          "pickLabel": "Knicks ML"
+        },
+        {
+          "name": "Flaznorp",
+          "netCost": 5310.5186,
+          "avgPrice": 0.5843,
+          "pickLabel": "Knicks ML"
+        },
+        {
+          "name": "Multicoloured-Serf",
+          "netCost": 2466.9191,
+          "avgPrice": 0.57,
+          "pickLabel": "Knicks ML"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-27T16:37:50.089349+00:00",
+      "fanduelOdds": "-146",
+      "fanduelOddsInt": -146,
+      "recommendedUnits": 2.0,
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "recommendedDollars": 20.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
     }
   ],
   "picks": [
+    {
+      "signalKey": "nba-mia-nyk-2026-11-27::TEAM::Knicks",
+      "sport": "NBA",
+      "eventSlug": "nba-mia-nyk-2026-11-27",
+      "eventTitle": "Heat vs. Knicks",
+      "family": "TEAM",
+      "side": "Knicks",
+      "pickLabel": "Knicks ML",
+      "primaryTitle": "Heat vs. Knicks",
+      "tier": 1,
+      "tierLabel": "Top NBA Sharp Consensus (87% Conviction)",
+      "nAligned": 3,
+      "totalStake": 68988.427,
+      "avgEntry": 0.5344609030739316,
+      "curPrice": 0.5189837516080777,
+      "convictionPct": 86.6,
+      "startEt": "7:00 PM ET",
+      "alignedNames": [
+        "HomeRunHazard",
+        "Flaznorp",
+        "Multicoloured-Serf"
+      ],
+      "whaleDetails": [
+        {
+          "name": "HomeRunHazard",
+          "netCost": 61210.9893,
+          "avgPrice": 0.5287046894876767,
+          "pickLabel": "Knicks ML"
+        },
+        {
+          "name": "Flaznorp",
+          "netCost": 5310.5186,
+          "avgPrice": 0.5843,
+          "pickLabel": "Knicks ML"
+        },
+        {
+          "name": "Multicoloured-Serf",
+          "netCost": 2466.9191,
+          "avgPrice": 0.57,
+          "pickLabel": "Knicks ML"
+        }
+      ],
+      "exitWarned": false,
+      "alertedAt": "2026-11-27T16:37:50.089349+00:00",
+      "fanduelOdds": "-146",
+      "fanduelOddsInt": -146,
+      "recommendedUnits": 2.0,
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "recommendedDollars": 20.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "epl-not-che-2026-11-27::DOUBLE_CHANCE::Not Chelsea FC",
       "sport": "SOCCER",
@@ -780,8 +901,8 @@
       "tierLabel": "Multi-Whale High-WR Consensus",
       "recommendedUnits": 1.0,
       "recommendedDollars": 10.0,
-      "nAligned": 3,
-      "totalStake": 92830.96,
+      "nAligned": 4,
+      "totalStake": 101740.02,
       "avgEntry": 0.65,
       "curPrice": 0.675,
       "fanduelOdds": "-254",
@@ -791,6 +912,7 @@
       "alignedNames": [
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
         "Flaznorp",
+        "bands1",
         "CUTJALENHURTS"
       ],
       "alertedAt": "2026-11-27T11:51:05.668034+00:00",
