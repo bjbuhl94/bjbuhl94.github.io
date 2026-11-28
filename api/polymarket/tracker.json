@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-28T03:06:17.938076+00:00",
+  "updatedAt": "2026-11-28T03:40:45.490488+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -818,69 +818,7 @@
       "dollarPnl": 0.0
     }
   ],
-  "activeExitWarnings": [
-    {
-      "signalKey": "nba-mia-nyk-2026-11-27::TEAM::Knicks",
-      "sport": "NBA",
-      "eventSlug": "nba-mia-nyk-2026-11-27",
-      "eventTitle": "Heat vs. Knicks",
-      "family": "TEAM",
-      "side": "Knicks",
-      "pickLabel": "Knicks ML",
-      "primaryTitle": "Heat vs. Knicks",
-      "tier": 1,
-      "tierLabel": "Top NBA Sharp Consensus (92% Conviction)",
-      "nAligned": 3,
-      "totalStake": 69974.0723,
-      "avgEntry": 0.5344609030739316,
-      "curPrice": 0.5083383413930591,
-      "convictionPct": 91.9,
-      "startEt": "7:00 PM ET",
-      "alignedNames": [
-        "HomeRunHazard",
-        "Flaznorp",
-        "Multicoloured-Serf"
-      ],
-      "whaleDetails": [
-        {
-          "name": "HomeRunHazard",
-          "netCost": 62196.6346,
-          "avgPrice": 0.5293095120305754,
-          "pickLabel": "Knicks ML"
-        },
-        {
-          "name": "Flaznorp",
-          "netCost": 5310.5186,
-          "avgPrice": 0.5843,
-          "pickLabel": "Knicks ML"
-        },
-        {
-          "name": "Multicoloured-Serf",
-          "netCost": 2466.9191,
-          "avgPrice": 0.57,
-          "pickLabel": "Knicks ML"
-        }
-      ],
-      "exitWarned": true,
-      "alertedAt": "2026-11-27T16:37:50.089349+00:00",
-      "fanduelOdds": "-146",
-      "fanduelOddsInt": -146,
-      "recommendedUnits": 2.0,
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "bestBook": "FanDuel",
-      "bestBookOdds": "-146",
-      "polyOdds": "-103",
-      "steamEdgePct": 0.0,
-      "polySavesVigPct": 8.5,
-      "countsTowardRecord": false,
-      "polyUnitsPnl": 0.0,
-      "recommendedDollars": 20.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    }
-  ],
+  "activeExitWarnings": [],
   "picks": [
     {
       "signalKey": "cfb-wvir-utah-2026-11-27::TEAM::West Virginia",
@@ -1022,8 +960,8 @@
       "fanduelOdds": "-146",
       "fanduelOddsInt": -146,
       "recommendedUnits": 2.0,
-      "status": "PENDING",
-      "won": null,
+      "status": "SETTLED",
+      "won": false,
       "unitsPnl": 0.0,
       "bestBook": "FanDuel",
       "bestBookOdds": "-146",
