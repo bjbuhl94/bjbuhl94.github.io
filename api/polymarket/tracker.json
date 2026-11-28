@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-28T00:32:56.494528+00:00",
+  "updatedAt": "2026-11-28T01:50:37.879678+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -21,8 +21,8 @@
   "overall": {
     "wins": 37,
     "losses": 21,
-    "pending": 2,
-    "total": 60,
+    "pending": 3,
+    "total": 61,
     "units": 9.26,
     "unitSizeDollars": 10.0,
     "dollarPnl": 92.6
@@ -58,8 +58,8 @@
     "CFB": {
       "wins": 5,
       "losses": 6,
-      "pending": 0,
-      "total": 11,
+      "pending": 1,
+      "total": 12,
       "units": 0.42,
       "unitSizeDollars": 10.0,
       "dollarPnl": 4.2
@@ -102,6 +102,152 @@
     }
   },
   "teams": {
+    "CFB": {
+      "West Virginia": {
+        "wins": 0,
+        "losses": 0,
+        "pending": 1,
+        "units": 0.0,
+        "dollarPnl": 0.0,
+        "staked": 88658.55,
+        "winRate": 0.0,
+        "picks": [
+          "West Virginia (+25.5) (OPEN)"
+        ]
+      },
+      "Miami (OH)": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 2.18,
+        "dollarPnl": 21.8,
+        "staked": 21208.52,
+        "winRate": 100.0,
+        "picks": [
+          "Miami (OH) ML (W)"
+        ]
+      },
+      "Arkansas State": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 17098.58,
+        "winRate": 0.0,
+        "picks": [
+          "Arkansas State (+17.5) (L)"
+        ]
+      },
+      "LSU": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 19345.72,
+        "winRate": 0.0,
+        "picks": [
+          "LSU ML (L)"
+        ]
+      },
+      "New Mexico State": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 30357.56,
+        "winRate": 0.0,
+        "picks": [
+          "New Mexico State (+2.5) (L)"
+        ]
+      },
+      "CFB Totals (Over/Under)": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.91,
+        "dollarPnl": 9.1,
+        "staked": 30290.89,
+        "winRate": 100.0,
+        "picks": [
+          "Over 47.5 (W)"
+        ]
+      },
+      "Baylor": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 117545.96,
+        "winRate": 0.0,
+        "picks": [
+          "Baylor (+4.5) (L)"
+        ]
+      },
+      "Wake Forest": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.91,
+        "dollarPnl": 9.1,
+        "staked": 15542.56,
+        "winRate": 100.0,
+        "picks": [
+          "Wake Forest (-19.5) (W)"
+        ]
+      },
+      "Nebraska": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 1.51,
+        "dollarPnl": 15.1,
+        "staked": 44797.3,
+        "winRate": 100.0,
+        "picks": [
+          "Nebraska ML (W)"
+        ]
+      },
+      "Boise State": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 25250.59,
+        "winRate": 0.0,
+        "picks": [
+          "Boise State (-18.5) (L)"
+        ]
+      },
+      "Air Force": {
+        "wins": 1,
+        "losses": 0,
+        "pending": 0,
+        "units": 0.91,
+        "dollarPnl": 9.1,
+        "staked": 15042.29,
+        "winRate": 100.0,
+        "picks": [
+          "Air Force (-21.5) (W)"
+        ]
+      },
+      "Central Michigan": {
+        "wins": 0,
+        "losses": 1,
+        "pending": 0,
+        "units": -1.0,
+        "dollarPnl": -10.0,
+        "staked": 45309.2,
+        "winRate": 0.0,
+        "picks": [
+          "Central Michigan (+2.5) (L)"
+        ]
+      }
+    },
     "NBA": {
       "Trail Blazers": {
         "wins": 0,
@@ -587,143 +733,47 @@
           "Broncos ML (W)"
         ]
       }
-    },
-    "CFB": {
-      "Miami (OH)": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 2.18,
-        "dollarPnl": 21.8,
-        "staked": 21208.52,
-        "winRate": 100.0,
-        "picks": [
-          "Miami (OH) ML (W)"
-        ]
-      },
-      "Arkansas State": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 17098.58,
-        "winRate": 0.0,
-        "picks": [
-          "Arkansas State (+17.5) (L)"
-        ]
-      },
-      "LSU": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 19345.72,
-        "winRate": 0.0,
-        "picks": [
-          "LSU ML (L)"
-        ]
-      },
-      "New Mexico State": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 30357.56,
-        "winRate": 0.0,
-        "picks": [
-          "New Mexico State (+2.5) (L)"
-        ]
-      },
-      "CFB Totals (Over/Under)": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.91,
-        "dollarPnl": 9.1,
-        "staked": 30290.89,
-        "winRate": 100.0,
-        "picks": [
-          "Over 47.5 (W)"
-        ]
-      },
-      "Baylor": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 117545.96,
-        "winRate": 0.0,
-        "picks": [
-          "Baylor (+4.5) (L)"
-        ]
-      },
-      "Wake Forest": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.91,
-        "dollarPnl": 9.1,
-        "staked": 15542.56,
-        "winRate": 100.0,
-        "picks": [
-          "Wake Forest (-19.5) (W)"
-        ]
-      },
-      "Nebraska": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 1.51,
-        "dollarPnl": 15.1,
-        "staked": 44797.3,
-        "winRate": 100.0,
-        "picks": [
-          "Nebraska ML (W)"
-        ]
-      },
-      "Boise State": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 25250.59,
-        "winRate": 0.0,
-        "picks": [
-          "Boise State (-18.5) (L)"
-        ]
-      },
-      "Air Force": {
-        "wins": 1,
-        "losses": 0,
-        "pending": 0,
-        "units": 0.91,
-        "dollarPnl": 9.1,
-        "staked": 15042.29,
-        "winRate": 100.0,
-        "picks": [
-          "Air Force (-21.5) (W)"
-        ]
-      },
-      "Central Michigan": {
-        "wins": 0,
-        "losses": 1,
-        "pending": 0,
-        "units": -1.0,
-        "dollarPnl": -10.0,
-        "staked": 45309.2,
-        "winRate": 0.0,
-        "picks": [
-          "Central Michigan (+2.5) (L)"
-        ]
-      }
     }
   },
   "activePicks": [
+    {
+      "signalKey": "cfb-wvir-utah-2026-11-27::TEAM::West Virginia",
+      "sport": "CFB",
+      "eventSlug": "cfb-wvir-utah-2026-11-27",
+      "eventTitle": "West Virginia vs. Utah",
+      "family": "TEAM",
+      "side": "West Virginia",
+      "pickLabel": "West Virginia (+25.5)",
+      "primaryTitle": "Spread: Utah (-25.5)",
+      "tier": 0,
+      "tierLabel": "Multi-Whale High-WR Consensus",
+      "recommendedUnits": 1.0,
+      "recommendedDollars": 10.0,
+      "nAligned": 3,
+      "totalStake": 88658.55,
+      "avgEntry": 0.49,
+      "curPrice": 0.515,
+      "fanduelOdds": "-114",
+      "bestBook": "DraftKings",
+      "bestBookOdds": "-112",
+      "polyOdds": "-106",
+      "steamEdgePct": 0.0,
+      "polySavesVigPct": 1.3,
+      "polyUnitsPnl": null,
+      "convictionPct": 86.0,
+      "startEt": "9:00 PM ET",
+      "alignedNames": [
+        "justwins",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "primm"
+      ],
+      "alertedAt": "2026-11-28T01:50:29.536958+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "nba-mia-nyk-2026-11-27::TEAM::Knicks",
       "sport": "NBA",
@@ -797,7 +847,7 @@
       "nAligned": 2,
       "totalStake": 65827.5278,
       "avgEntry": 0.5792117002195286,
-      "curPrice": 0.5635690716868212,
+      "curPrice": 0.5692828010293947,
       "convictionPct": 90.2,
       "startEt": "9:30 PM ET",
       "alignedNames": [
@@ -824,8 +874,8 @@
       "fanduelOddsInt": -108,
       "bestBook": "DraftKings",
       "bestBookOdds": "-104",
-      "polyOdds": "-129",
-      "steamEdgePct": 5.4,
+      "polyOdds": "-132",
+      "steamEdgePct": 5.9,
       "polySavesVigPct": 0.0,
       "recommendedUnits": 1.0,
       "status": "PENDING",
@@ -837,6 +887,44 @@
     }
   ],
   "picks": [
+    {
+      "signalKey": "cfb-wvir-utah-2026-11-27::TEAM::West Virginia",
+      "sport": "CFB",
+      "eventSlug": "cfb-wvir-utah-2026-11-27",
+      "eventTitle": "West Virginia vs. Utah",
+      "family": "TEAM",
+      "side": "West Virginia",
+      "pickLabel": "West Virginia (+25.5)",
+      "primaryTitle": "Spread: Utah (-25.5)",
+      "tier": 0,
+      "tierLabel": "Multi-Whale High-WR Consensus",
+      "recommendedUnits": 1.0,
+      "recommendedDollars": 10.0,
+      "nAligned": 3,
+      "totalStake": 88658.55,
+      "avgEntry": 0.49,
+      "curPrice": 0.515,
+      "fanduelOdds": "-114",
+      "bestBook": "DraftKings",
+      "bestBookOdds": "-112",
+      "polyOdds": "-106",
+      "steamEdgePct": 0.0,
+      "polySavesVigPct": 1.3,
+      "polyUnitsPnl": null,
+      "convictionPct": 86.0,
+      "startEt": "9:00 PM ET",
+      "alignedNames": [
+        "justwins",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "primm"
+      ],
+      "alertedAt": "2026-11-28T01:50:29.536958+00:00",
+      "status": "PENDING",
+      "won": null,
+      "unitsPnl": 0.0,
+      "unitSizeDollars": 10.0,
+      "dollarPnl": 0.0
+    },
     {
       "signalKey": "nba-gsw-por-2026-11-27::TEAM::Trail Blazers",
       "sport": "NBA",
@@ -851,7 +939,7 @@
       "nAligned": 2,
       "totalStake": 65827.5278,
       "avgEntry": 0.5792117002195286,
-      "curPrice": 0.5635690716868212,
+      "curPrice": 0.5692828010293947,
       "convictionPct": 90.2,
       "startEt": "9:30 PM ET",
       "alignedNames": [
@@ -878,8 +966,8 @@
       "fanduelOddsInt": -108,
       "bestBook": "DraftKings",
       "bestBookOdds": "-104",
-      "polyOdds": "-129",
-      "steamEdgePct": 5.4,
+      "polyOdds": "-132",
+      "steamEdgePct": 5.9,
       "polySavesVigPct": 0.0,
       "recommendedUnits": 1.0,
       "status": "PENDING",
