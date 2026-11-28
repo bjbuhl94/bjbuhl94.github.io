@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-28T11:34:05.036216+00:00",
+  "updatedAt": "2026-11-28T11:42:49.087946+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -19,13 +19,13 @@
     "TENNIS"
   ],
   "overall": {
-    "wins": 38,
+    "wins": 39,
     "losses": 21,
-    "pending": 1,
+    "pending": 0,
     "total": 60,
-    "units": 10.19,
+    "units": 11.07,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 101.9
+    "dollarPnl": 110.7
   },
   "summary": {
     "NFL": {
@@ -56,13 +56,13 @@
       "dollarPnl": 19.6
     },
     "CFB": {
-      "wins": 5,
+      "wins": 6,
       "losses": 6,
-      "pending": 1,
+      "pending": 0,
       "total": 12,
-      "units": 0.42,
+      "units": 1.3,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 4.2
+      "dollarPnl": 13.0
     },
     "NCAAB": {
       "wins": 0,
@@ -104,15 +104,15 @@
   "teams": {
     "CFB": {
       "West Virginia": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "pending": 0,
+        "units": 0.88,
+        "dollarPnl": 8.8,
         "staked": 88658.55,
-        "winRate": 0.0,
+        "winRate": 100.0,
         "picks": [
-          "West Virginia (+25.5) (OPEN)"
+          "West Virginia (+25.5) (W)"
         ]
       },
       "Miami (OH)": {
@@ -723,48 +723,7 @@
       }
     }
   },
-  "activePicks": [
-    {
-      "signalKey": "cfb-wvir-utah-2026-11-27::TEAM::West Virginia",
-      "sport": "CFB",
-      "eventSlug": "cfb-wvir-utah-2026-11-27",
-      "eventTitle": "West Virginia vs. Utah",
-      "family": "TEAM",
-      "side": "West Virginia",
-      "pickLabel": "West Virginia (+25.5)",
-      "primaryTitle": "Spread: Utah (-25.5)",
-      "tier": 0,
-      "tierLabel": "Multi-Whale High-WR Consensus",
-      "recommendedUnits": 1.0,
-      "recommendedDollars": 10.0,
-      "nAligned": 3,
-      "totalStake": 88658.55,
-      "avgEntry": 0.49,
-      "curPrice": 0.515,
-      "fanduelOdds": "-114",
-      "bestBook": "DraftKings",
-      "bestBookOdds": "-112",
-      "polyOdds": "-106",
-      "steamEdgePct": 0.0,
-      "polySavesVigPct": 1.3,
-      "polyUnitsPnl": null,
-      "convictionPct": 86.0,
-      "startEt": "9:00 PM ET",
-      "alignedNames": [
-        "justwins",
-        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-        "primm"
-      ],
-      "exitWarned": false,
-      "countsTowardRecord": true,
-      "alertedAt": "2026-11-28T01:50:29.536958+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
-    }
-  ],
+  "activePicks": [],
   "activeExitWarnings": [],
   "picks": [
     {
@@ -790,7 +749,7 @@
       "polyOdds": "-106",
       "steamEdgePct": 0.0,
       "polySavesVigPct": 1.3,
-      "polyUnitsPnl": null,
+      "polyUnitsPnl": 1.04,
       "convictionPct": 86.0,
       "startEt": "9:00 PM ET",
       "alignedNames": [
@@ -801,11 +760,11 @@
       "exitWarned": false,
       "countsTowardRecord": true,
       "alertedAt": "2026-11-28T01:50:29.536958+00:00",
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 0.88,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 8.8
     },
     {
       "signalKey": "nba-gsw-por-2026-11-27::TEAM::Trail Blazers",
@@ -3608,7 +3567,7 @@
     },
     {
       "name": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-      "wins": 14,
+      "wins": 15,
       "losses": 3,
       "NFL_w": 5,
       "NFL_l": 0,
@@ -3616,10 +3575,10 @@
       "NBA_l": 2,
       "staked": 488775.49,
       "dollarPnl": 389258.95,
-      "units": 8.05,
+      "units": 8.93,
       "NHL_w": 1,
       "NHL_l": 0,
-      "CFB_w": 0,
+      "CFB_w": 1,
       "CFB_l": 1,
       "NCAAB_w": 0,
       "NCAAB_l": 0,
@@ -3629,7 +3588,32 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 80.5
+      "unitDollarPnl": 89.3
+    },
+    {
+      "name": "primm",
+      "wins": 7,
+      "losses": 1,
+      "NFL_w": 2,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "staked": 18564.27,
+      "dollarPnl": 24570.02,
+      "units": 5.45,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 5,
+      "CFB_l": 1,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 54.5
     },
     {
       "name": "BreakTheBank",
@@ -3655,31 +3639,6 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 33.8
-    },
-    {
-      "name": "primm",
-      "wins": 6,
-      "losses": 1,
-      "NFL_w": 2,
-      "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "staked": 18564.27,
-      "dollarPnl": 24570.02,
-      "units": 4.57,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 4,
-      "CFB_l": 1,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "TENNIS_w": 0,
-      "TENNIS_l": 0,
-      "unitDollarPnl": 45.7
     },
     {
       "name": "HomeRunHazard",
@@ -3755,6 +3714,31 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 19.9
+    },
+    {
+      "name": "justwins",
+      "wins": 2,
+      "losses": 0,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 0,
+      "NBA_l": 0,
+      "staked": 42921.71,
+      "dollarPnl": 41255.02,
+      "units": 1.49,
+      "NHL_w": 0,
+      "NHL_l": 0,
+      "CFB_w": 1,
+      "CFB_l": 0,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 14.9
     },
     {
       "name": "nigiri99",
@@ -4005,31 +3989,6 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 6.8
-    },
-    {
-      "name": "justwins",
-      "wins": 1,
-      "losses": 0,
-      "NFL_w": 1,
-      "NFL_l": 0,
-      "NBA_w": 0,
-      "NBA_l": 0,
-      "staked": 42921.71,
-      "dollarPnl": 41255.02,
-      "units": 0.61,
-      "NHL_w": 0,
-      "NHL_l": 0,
-      "CFB_w": 0,
-      "CFB_l": 0,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "TENNIS_w": 0,
-      "TENNIS_l": 0,
-      "unitDollarPnl": 6.1
     },
     {
       "name": "VirIntrepidus",
