@@ -1,6 +1,6 @@
 {
   "unitSizeDollars": 10.0,
-  "updatedAt": "2026-11-28T04:51:22.234935+00:00",
+  "updatedAt": "2026-11-28T05:43:14.326658+00:00",
   "activeSports": [
     "NFL",
     "NBA",
@@ -19,13 +19,13 @@
     "TENNIS"
   ],
   "overall": {
-    "wins": 37,
+    "wins": 38,
     "losses": 21,
-    "pending": 2,
+    "pending": 1,
     "total": 60,
-    "units": 9.26,
+    "units": 10.19,
     "unitSizeDollars": 10.0,
-    "dollarPnl": 92.6
+    "dollarPnl": 101.9
   },
   "summary": {
     "NFL": {
@@ -38,13 +38,13 @@
       "dollarPnl": 63.7
     },
     "NBA": {
-      "wins": 10,
+      "wins": 11,
       "losses": 10,
-      "pending": 1,
+      "pending": 0,
       "total": 21,
-      "units": -1.99,
+      "units": -1.06,
       "unitSizeDollars": 10.0,
-      "dollarPnl": -19.9
+      "dollarPnl": -10.6
     },
     "NHL": {
       "wins": 5,
@@ -250,15 +250,15 @@
     },
     "NBA": {
       "Trail Blazers": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "pending": 1,
-        "units": 0.0,
-        "dollarPnl": 0.0,
+        "pending": 0,
+        "units": 0.93,
+        "dollarPnl": 9.3,
         "staked": 65827.53,
-        "winRate": 0.0,
+        "winRate": 100.0,
         "picks": [
-          "Trail Blazers (-9.5) (OPEN)"
+          "Trail Blazers (-9.5) (W)"
         ]
       },
       "76ers": {
@@ -763,59 +763,6 @@
       "unitsPnl": 0.0,
       "unitSizeDollars": 10.0,
       "dollarPnl": 0.0
-    },
-    {
-      "signalKey": "nba-gsw-por-2026-11-27::TEAM::Trail Blazers",
-      "sport": "NBA",
-      "eventSlug": "nba-gsw-por-2026-11-27",
-      "eventTitle": "Warriors vs. Trail Blazers",
-      "family": "TEAM",
-      "side": "Trail Blazers",
-      "pickLabel": "Trail Blazers (-9.5)",
-      "primaryTitle": "Spread: Trail Blazers (-9.5)",
-      "tier": 1,
-      "tierLabel": "Top NBA Sharp Consensus (90% Conviction)",
-      "nAligned": 2,
-      "totalStake": 65827.5278,
-      "avgEntry": 0.5792117002195286,
-      "curPrice": 0.5692828010293947,
-      "convictionPct": 90.2,
-      "startEt": "9:30 PM ET",
-      "alignedNames": [
-        "Multicoloured-Serf",
-        "keeptheblueflagflyinghigh"
-      ],
-      "whaleDetails": [
-        {
-          "name": "Multicoloured-Serf",
-          "netCost": 61959.0913,
-          "avgPrice": 0.5792117002195286,
-          "pickLabel": "Trail Blazers (-9.5)"
-        },
-        {
-          "name": "keeptheblueflagflyinghigh",
-          "netCost": 3868.4365,
-          "avgPrice": 0.6001059717537046,
-          "pickLabel": "Trail Blazers ML"
-        }
-      ],
-      "exitWarned": false,
-      "alertedAt": "2026-11-27T19:30:41.982368+00:00",
-      "fanduelOdds": "-108",
-      "fanduelOddsInt": -108,
-      "bestBook": "DraftKings",
-      "bestBookOdds": "-104",
-      "polyOdds": "-132",
-      "steamEdgePct": 5.9,
-      "polySavesVigPct": 0.0,
-      "recommendedUnits": 1.0,
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
-      "countsTowardRecord": true,
-      "recommendedDollars": 10.0,
-      "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
     }
   ],
   "activeExitWarnings": [],
@@ -905,13 +852,14 @@
       "steamEdgePct": 5.9,
       "polySavesVigPct": 0.0,
       "recommendedUnits": 1.0,
-      "status": "PENDING",
-      "won": null,
-      "unitsPnl": 0.0,
+      "status": "SETTLED",
+      "won": true,
+      "unitsPnl": 0.93,
       "countsTowardRecord": true,
+      "polyUnitsPnl": 0.73,
       "recommendedDollars": 10.0,
       "unitSizeDollars": 10.0,
-      "dollarPnl": 0.0
+      "dollarPnl": 9.3
     },
     {
       "signalKey": "nba-mia-nyk-2026-11-27::TEAM::Knicks",
@@ -3760,15 +3708,15 @@
     },
     {
       "name": "Multicoloured-Serf",
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
       "NFL_w": 2,
       "NFL_l": 0,
-      "NBA_w": 1,
+      "NBA_w": 2,
       "NBA_l": 0,
-      "staked": 145991.16,
-      "dollarPnl": 131258.67,
-      "units": 1.99,
+      "staked": 207950.25,
+      "dollarPnl": 176270.99,
+      "units": 2.92,
       "NHL_w": 0,
       "NHL_l": 1,
       "CFB_w": 1,
@@ -3781,7 +3729,7 @@
       "SOCCER_l": 0,
       "TENNIS_w": 0,
       "TENNIS_l": 0,
-      "unitDollarPnl": 19.9
+      "unitDollarPnl": 29.2
     },
     {
       "name": "0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188",
@@ -3882,6 +3830,31 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 11.4
+    },
+    {
+      "name": "keeptheblueflagflyinghigh",
+      "wins": 6,
+      "losses": 4,
+      "NFL_w": 1,
+      "NFL_l": 0,
+      "NBA_w": 2,
+      "NBA_l": 1,
+      "staked": 102626.89,
+      "dollarPnl": 76986.04,
+      "units": 0.96,
+      "NHL_w": 2,
+      "NHL_l": 1,
+      "CFB_w": 1,
+      "CFB_l": 2,
+      "NCAAB_w": 0,
+      "NCAAB_l": 0,
+      "UFC_w": 0,
+      "UFC_l": 0,
+      "SOCCER_w": 0,
+      "SOCCER_l": 0,
+      "TENNIS_w": 0,
+      "TENNIS_l": 0,
+      "unitDollarPnl": 9.6
     },
     {
       "name": "drainedandpoor",
@@ -4157,31 +4130,6 @@
       "TENNIS_w": 0,
       "TENNIS_l": 0,
       "unitDollarPnl": 2.2
-    },
-    {
-      "name": "keeptheblueflagflyinghigh",
-      "wins": 5,
-      "losses": 4,
-      "NFL_w": 1,
-      "NFL_l": 0,
-      "NBA_w": 1,
-      "NBA_l": 1,
-      "staked": 98758.45,
-      "dollarPnl": 74408.22,
-      "units": 0.03,
-      "NHL_w": 2,
-      "NHL_l": 1,
-      "CFB_w": 1,
-      "CFB_l": 2,
-      "NCAAB_w": 0,
-      "NCAAB_l": 0,
-      "UFC_w": 0,
-      "UFC_l": 0,
-      "SOCCER_w": 0,
-      "SOCCER_l": 0,
-      "TENNIS_w": 0,
-      "TENNIS_l": 0,
-      "unitDollarPnl": 0.3
     },
     {
       "name": "robloxgamblemaster-2008-10-18",
